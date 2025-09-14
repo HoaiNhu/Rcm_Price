@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "67764afd608c0d719eb38f18"
+  },
+  "newsTitle": "NHỮNG MẪU BÁNH KEM CHỮ NHẬT ĐẸP NHẤT TẠI AVOCADO",
+  "newsContent": "Mẫu bánh kem chữ nhật - bánh kem hiện đại và sang trọng dành cho các bữa tiệc.\r\n \r\nNgoài những mẫu bánh kem tròn truyền thống, những mẫu bánh với hình dáng đa dạng như hình vuông, trái tim, bánh số, bánh hình các con vật,... cũng rất được ưa chuộng. Tùy theo không gian bữa tiệc và sở thích của mỗi người sẽ lựa chọn những chiếc bánh phù hợp. Bánh kem hình chữ nhật là dòng bánh quen thuộc trong các sự kiện, các buổi tiệc. Những mẫu bánh kem hình chữ nhật được trang trí bắt mắt bằng những bông hoa kem xinh xắn, hoa quả tươi hoặc in ảnh, in logo doanh nghiệp,...\r\n \r\nNhững chiếc bánh kem hình chữ nhật hiện đại và sang trọng chính là điển nhấn ấn tượng cho buổi tiệc, thêm phần gắn kết những vị khách trong buổi tiệc bởi hương vị ngọt ngào.",
+  "newsImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735805692/news/file_p3yfqe.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-01-02T08:14:53.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T08:14:53.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67764c10608c0d719eb38f20"
+  },
+  "newsTitle": "BÁNH TẾT NGUYÊN ĐÁN - SANG TRỌNG VÀ Ý NGHĨA CHO NGÀY ĐOÀN VIÊN CÙNG AVOCADO",
+  "newsContent": "Bánh kem Tết Nguyên Đán là món quà hoàn hảo để gửi gắm lời chúc tốt lành. Với thiết kế hình chữ nhật hiện đại, bánh được trang trí tinh tế bằng hoa mai, hoa đào, chữ \"Phúc\", \"Lộc\", \"Thọ\", hoặc hình ảnh gia đình, linh vật năm mới.\r\n\r\nHương vị ngọt ngào và lớp kem mềm mịn của bánh chính là điểm nhấn, gắn kết yêu thương trong bữa tiệc Tết. Đây là lựa chọn sang trọng cho những dịp liên hoan gia đình, tri ân đối tác hay tiệc công ty, mang đến một mùa xuân ý nghĩa và trọn vẹn.",
+  "newsImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735805968/news/file_ufna5q.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-01-02T08:19:28.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T08:19:28.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67764c9f608c0d719eb38f28"
+  },
+  "newsTitle": "BÁNH SINH NHẬT ĐẶC BIỆT - CHÀO MỪNG 1 NĂM ĐỒNG HÀNH CÙNG QUÝ KHÁCH",
+  "newsContent": "Mừng dịp sinh nhật 1 tuổi của AVOCADO, chúng tôi mang đến những mẫu bánh sinh nhật độc đáo, hiện đại và đầy sáng tạo. Với thiết kế tinh tế cùng hương vị ngọt ngào, những chiếc bánh này không chỉ là món quà ý nghĩa mà còn là lời tri ân chân thành gửi đến quý khách đã đồng hành cùng chúng tôi suốt thời gian qua.\r\n\r\nHãy để chiếc bánh sinh nhật đặc biệt này cùng bạn tạo nên những khoảnh khắc đáng nhớ, đánh dấu chặng đường đầy tự hào của cửa hàng chúng tôi!",
+  "newsImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735806111/news/file_bixndh.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-01-02T08:21:51.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T08:21:51.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677a9727fad7a65dd973385a"
+  },
+  "newsTitle": "MẪU BÁNH NOEL 2025 AVOCADO - BÁNH GIÁNG SINH",
+  "newsContent": "Chào mừng đến AVOCADO",
+  "newsImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1736087332/news/file_optqdf.jpg",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-01-05T14:28:55.184Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-05T14:28:55.184Z"
+  },
+  "__v": 0
+}]

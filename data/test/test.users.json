@@ -1,0 +1,430 @@
+[{
+  "_id": {
+    "$oid": "6756a894b60620e442a88cf2"
+  },
+  "familyName": "Tran",
+  "userName": "TestUser1",
+  "userPhone": "0909123456",
+  "userEmail": "testuser1@gmail.com",
+  "userPassword": "$2b$10$grh58kHkV54m63S18ep8FeRgsOde4tZZxsqYg0fefazsSM1Sdvq9K",
+  "userConfirmPassword": "password1235",
+  "userImage": "",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-12-09T08:21:40.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-16T14:40:35.723Z"
+  },
+  "__v": 0,
+  "userAddress": ""
+},
+{
+  "_id": {
+    "$oid": "6756e4441df899603742e267"
+  },
+  "familyName": "Nguyen",
+  "userName": "TestUser2",
+  "userPhone": "0199999996",
+  "userEmail": "testuser2@gmail.com",
+  "userPassword": "$2b$10$s6S0fkeLpJ//R.driZ8DOetBsIi2FSKOPGWZ8n2js67H8zmjFHZGe",
+  "userConfirmPassword": "password1234",
+  "userImage": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-09T12:36:20.562Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-25T13:12:15.169Z"
+  },
+  "__v": 0,
+  "userAddress": "ssssssss",
+  "userCity": "",
+  "userDistrict": "",
+  "userWard": ""
+},
+{
+  "_id": {
+    "$oid": "6756e560d838071e55c155d1"
+  },
+  "familyName": "Nguyen",
+  "userName": "TestUser3",
+  "userPhone": "0909123456",
+  "userEmail": "testuser3@gmail.com",
+  "userPassword": "$2b$10$CxbDqlISBIkBdDj89Uqd9Ozahp2cbvfjfdLYOIDIcmvHzlbyh5Yoy",
+  "userConfirmPassword": "password12345",
+  "userImage": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-09T12:41:04.463Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T12:41:04.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67570b3080044237e9db7c2c"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Văn B",
+  "userPhone": "07803111122",
+  "userEmail": "dd@gmail.com",
+  "userPassword": "$2b$10$2GfkfE9BpouMfN9njTI5feveZ5x8q0uqTQvhr11XAYPCPQSakerGO",
+  "userConfirmPassword": "abc123",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-09T15:22:25.608Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-09T15:22:25.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6757be5dcdc2cfe9f850c1e9"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Văn B",
+  "userPhone": "07803111122",
+  "userEmail": "ddd@gmail.com",
+  "userPassword": "$2b$10$u3ZXlVuF.sucvtDOgprZ8OGdOlgSIwBt6VQyQKgajNGapNAb4B4oa",
+  "userConfirmPassword": "abc123",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-10T04:06:53.966Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T04:06:53.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6757c088cdc2cfe9f850c1ec"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Văn B",
+  "userPhone": "07803111122",
+  "userEmail": "ddd1@gmail.com",
+  "userPassword": "$2b$10$NwQMhLGpNSG5RUW4omne/up3CR0o0byL1PUE1VwKmCw4F2krRRlmq",
+  "userConfirmPassword": "abcd123",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-10T04:16:08.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T04:16:08.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6757c496cdc2cfe9f850c1f0"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Văn C",
+  "userPhone": "07803111122",
+  "userEmail": "ddd3@gmail.com",
+  "userPassword": "$2b$10$KJ820ZeizqonxEAsjivsaOFkvWjBZcFEpJYYEcaiwe8IYTuaDFavm",
+  "userConfirmPassword": "aaaa123",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-10T04:33:26.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-10T04:33:26.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6758f5b7d768f8b10e25b74b"
+  },
+  "familyName": "Nguyen",
+  "userName": "TestUser4",
+  "userPhone": "0909123456",
+  "userEmail": "testuser5@gmail.com",
+  "userPassword": "$2b$10$0/v84lUd1OeWjLjHnqJqL.JR58w5Awj82zzKxDShRuQu53.iOEgUS",
+  "userConfirmPassword": "12345",
+  "userImage": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-11T02:15:20.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T02:15:20.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6758faf4d768f8b10e25b772"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Văn d",
+  "userPhone": "07803111122",
+  "userEmail": "ddd8@gmail.com",
+  "userPassword": "$2b$10$6d6s2U2zGGSepTkdEuov3uExIGdDtBNnCPUaMMuDKzVNO4uj08bMe",
+  "userConfirmPassword": "aa",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-11T02:37:40.427Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T02:37:40.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67590c845df962bcd2cb3326"
+  },
+  "familyName": "Nguyen",
+  "userName": "TestUser4",
+  "userPhone": "0909123456",
+  "userEmail": "testuser4@gmail.com",
+  "userPassword": "$2b$10$hp0yyblSMotE0nZQh5jWOeP5JTV3uvHJUbg/KVeLHPQZwcJnF.7GW",
+  "userConfirmPassword": "password12345",
+  "userImage": "",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-11T03:52:36.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-11T03:52:36.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675b9dba7e7674864f5a00e5"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Văn d",
+  "userPhone": "07803111122",
+  "userEmail": "bbb@gmail.com",
+  "userPassword": "$2b$10$rsfBStjTazTYZkFVvYClkOstgXFllw6zYRAV/6fpEhT1.yoAZ/5/.",
+  "userConfirmPassword": "123",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-13T02:36:42.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T02:36:42.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6764ebdc1143cd9b83615d5f"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Văn E",
+  "userPhone": "0123456789",
+  "userEmail": "a@gmail.com",
+  "userPassword": "$2b$10$2.PLCvNYdXz9E/R5oxgBVOkiLpcSPtFUZYlWVEHA2iyT9ajLjK3WC",
+  "userConfirmPassword": "a",
+  "userAddress": "1/1 khu phố 8",
+  "userImage": "",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-12-20T04:00:28.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-20T04:00:28.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676a774806f9a598aff02c8e"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Văn d",
+  "userPhone": "07803111122",
+  "userEmail": "c@gmail.com",
+  "userPassword": "$2b$10$kQMOb7JMymtjgo4BM9Vy9O4X3Ua.BcT25g0phUcdZnNsfy1FrW3WS",
+  "userConfirmPassword": "c",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-24T08:56:41.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-24T09:19:04.641Z"
+  },
+  "__v": 0,
+  "userAddress": {
+    "address": "k",
+    "city": "",
+    "district": "",
+    "ward": ""
+  },
+  "userImage": ""
+},
+{
+  "_id": {
+    "$oid": "676eaf5cbf34ce78983409c3"
+  },
+  "familyName": "Nguyen",
+  "userName": "Ngan12",
+  "userPhone": "1234567890",
+  "userEmail": "n@gmail.com",
+  "userPassword": "$2b$10$De4QiCp0cfK/ebPOpxmLoexErjyvMAqR6404RxOUdTxyjJAEZd9Fm",
+  "userConfirmPassword": "1",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-27T13:45:00.419Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T11:49:25.191Z"
+  },
+  "__v": 0,
+  "userAddress": "",
+  "userCity": "",
+  "userDistrict": "",
+  "userImage": "",
+  "userWard": ""
+},
+{
+  "_id": {
+    "$oid": "677352004c7e2661dce1596a"
+  },
+  "familyName": "Nguyen",
+  "userName": "Ngan",
+  "userPhone": "1234567890",
+  "userEmail": "1@gmail.com",
+  "userPassword": "$2b$10$xwBl27M9GzjKwPqd3LXU2eqU5JlEwujFby5Y9eLV40WKh4jzYyGmK",
+  "userConfirmPassword": "1",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-12-31T02:08:00.189Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-31T02:08:00.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67767fbe1f858633ea5ba499"
+  },
+  "familyName": "Tran",
+  "userName": "Nhu",
+  "userPhone": "0123456787",
+  "userEmail": "b@gmail.com",
+  "userPassword": "$2b$10$.cjQ95JitMj3W/Yr2MpfFufgDcgtVt7WeeJVjAP7GDwYuAN1hExSa",
+  "userConfirmPassword": "b",
+  "userAddress": "ádfghjk",
+  "userImage": "",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2025-01-02T11:59:58.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T11:59:58.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c99f3c1cf098df644406c0"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Hoài Nhu",
+  "userPhone": "0367672694",
+  "userEmail": "nghoainhu1234@gmail.com",
+  "userPassword": "$2b$10$U5CFg5HwQzCpMK72dW4Po.0PeaSyTk3MFCG21p5Qp6m38fhIsny.u",
+  "userConfirmPassword": "$2b$10$U5CFg5HwQzCpMK72dW4Po.0PeaSyTk3MFCG21p5Qp6m38fhIsny.u",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-03-06T13:12:28.720Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T02:20:16.894Z"
+  },
+  "__v": 0,
+  "userAddress": "",
+  "userCity": "",
+  "userDistrict": "",
+  "userImage": "",
+  "userWard": ""
+},
+{
+  "_id": {
+    "$oid": "67f3ebc61a5887fe8c7722dc"
+  },
+  "familyName": "Tâm",
+  "userName": "Như",
+  "userPhone": "0777031667",
+  "userEmail": "tamnhu11204@gmail.com",
+  "userPassword": "$2b$10$ZR46sBRgZb7ky2O.8vUKMuGmu9aGwKjvPlvZcPjz6SXubzZ.R4aJa",
+  "userConfirmPassword": "123456",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-04-07T15:14:14.340Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-07T15:14:14.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6809e627c8539e2a55915552"
+  },
+  "familyName": "Nguyen",
+  "userName": "Ngan",
+  "userPhone": "0352095494",
+  "userEmail": "nguyenngocdiemngan12@gmail.com",
+  "userPassword": "$2b$10$djjVI8CGgvmioNx4inckoeJcG801qSmO4xJAJ97fwiCIvN/3lYUiW",
+  "userConfirmPassword": "$2b$10$djjVI8CGgvmioNx4inckoeJcG801qSmO4xJAJ97fwiCIvN/3lYUiW",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-04-24T07:20:07.824Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-24T07:55:18.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "683537c0c548a1bb52342ee2"
+  },
+  "familyName": "Ngân",
+  "userName": "Kim",
+  "userPhone": "0935731117",
+  "userEmail": "kimnganvo560@gmail.com",
+  "userPassword": "$2b$10$KCBZ5.WPhkWuXZXQB4xowuv8V1EI4zTsjG2VSOFTNpNr3JE/.t9UK",
+  "userConfirmPassword": "123",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-05-27T03:55:44.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T03:55:44.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68550bb5b917440c5b6780aa"
+  },
+  "familyName": "Nguyễn",
+  "userName": "Nhu",
+  "userPhone": "0367672694",
+  "userEmail": "d@gmail.com",
+  "userPassword": "$2b$10$64iMO4AYWyvNv8hn8OzeM.9nvi5TwR/ZjUFtFthQnXIOvSonuBNUu",
+  "userConfirmPassword": "d",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2025-06-20T07:20:21.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T07:20:21.123Z"
+  },
+  "__v": 0
+}]

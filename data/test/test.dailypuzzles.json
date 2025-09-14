@@ -1,0 +1,571 @@
+[{
+  "_id": {
+    "$oid": "684b935b74a4fb7f8eb3a143"
+  },
+  "date": "2025-06-13",
+  "productId": {
+    "$oid": "677642b6608c0d719eb38dbe"
+  },
+  "puzzle": "___ _ TU_ _UN_ __A ____",
+  "answer": "SET 5 TUI DUNG QUA TANG",
+  "originalProductName": "Set 5 túi đựng quà tặng",
+  "missingChars": [
+    "E",
+    "I",
+    "U",
+    "T",
+    "G",
+    "S",
+    "T",
+    "G",
+    "Q",
+    "N",
+    "D",
+    "5",
+    "A"
+  ],
+  "hiddenIndices": [
+    1,
+    8,
+    16,
+    2,
+    22,
+    0,
+    19,
+    13,
+    15,
+    21,
+    10,
+    4,
+    20
+  ],
+  "hintChars": [
+    "P",
+    "H",
+    "U",
+    "K",
+    "L",
+    "Q",
+    "W",
+    "S",
+    "D",
+    "G",
+    "5",
+    "E",
+    "X",
+    "N",
+    "I",
+    "T",
+    "A"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T02:56:27.663Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T02:56:27.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cd9c443ce4537cef2404e"
+  },
+  "date": "2025-06-14",
+  "productId": {
+    "$oid": "67763eb3608c0d719eb38d23"
+  },
+  "puzzle": "__R__I__ LI_T__ C_R___",
+  "answer": "TIRAMISU LITTLE CARROT",
+  "originalProductName": "Tiramisu Little Carrot",
+  "missingChars": [
+    "T",
+    "T",
+    "E",
+    "A",
+    "L",
+    "T",
+    "U",
+    "M",
+    "R",
+    "I",
+    "O",
+    "A",
+    "S"
+  ],
+  "hiddenIndices": [
+    11,
+    0,
+    14,
+    17,
+    13,
+    21,
+    7,
+    4,
+    19,
+    1,
+    20,
+    3,
+    6
+  ],
+  "hintChars": [
+    "A",
+    "N",
+    "D",
+    "Z",
+    "T",
+    "M",
+    "I",
+    "S",
+    "B",
+    "L",
+    "K",
+    "E",
+    "Q",
+    "R",
+    "O",
+    "U",
+    "V"
+  ],
+  "createdAt": {
+    "$date": "2025-06-14T02:09:08.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T02:09:08.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684f7391b4affde78a69b5a0"
+  },
+  "date": "2025-06-16",
+  "productId": {
+    "$oid": "67763afa608c0d719eb38d0c"
+  },
+  "puzzle": "___ 1_ B_N_ M_____N",
+  "answer": "SET 16 BANH MACARON",
+  "originalProductName": "Set 16 Bánh Macaron",
+  "missingChars": [
+    "R",
+    "C",
+    "A",
+    "O",
+    "A",
+    "H",
+    "E",
+    "S",
+    "A",
+    "6",
+    "T"
+  ],
+  "hiddenIndices": [
+    16,
+    14,
+    8,
+    17,
+    13,
+    10,
+    1,
+    0,
+    15,
+    5,
+    2
+  ],
+  "hintChars": [
+    "H",
+    "B",
+    "V",
+    "6",
+    "R",
+    "W",
+    "C",
+    "S",
+    "O",
+    "T",
+    "E",
+    "N",
+    "X",
+    "A",
+    "I"
+  ],
+  "createdAt": {
+    "$date": "2025-06-16T01:29:53.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-16T01:29:53.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6852271e0ec60b4d2561361b"
+  },
+  "date": "2025-06-18",
+  "productId": {
+    "$oid": "67765db11f858633ea5ba243"
+  },
+  "puzzle": "N_N __P__ ___T_D_Y",
+  "answer": "NEN HAPPY BIRTHDAY",
+  "originalProductName": "Nến HAPPY BIRTHDAY",
+  "missingChars": [
+    "H",
+    "I",
+    "A",
+    "P",
+    "R",
+    "E",
+    "Y",
+    "A",
+    "H",
+    "B"
+  ],
+  "hiddenIndices": [
+    14,
+    11,
+    5,
+    7,
+    12,
+    1,
+    8,
+    16,
+    4,
+    10
+  ],
+  "hintChars": [
+    "G",
+    "H",
+    "R",
+    "M",
+    "A",
+    "E",
+    "I",
+    "J",
+    "V",
+    "Y",
+    "P",
+    "C",
+    "U",
+    "B"
+  ],
+  "createdAt": {
+    "$date": "2025-06-18T02:40:30.480Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-18T02:40:30.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68536c52491393ef690633e4"
+  },
+  "date": "2025-06-19",
+  "productId": {
+    "$oid": "67765db11f858633ea5ba243"
+  },
+  "puzzle": "_EN _A___ ___THD__",
+  "answer": "NEN HAPPY BIRTHDAY",
+  "originalProductName": "Nến HAPPY BIRTHDAY",
+  "missingChars": [
+    "P",
+    "R",
+    "H",
+    "I",
+    "A",
+    "N",
+    "B",
+    "Y",
+    "P",
+    "Y"
+  ],
+  "hiddenIndices": [
+    6,
+    12,
+    4,
+    11,
+    16,
+    0,
+    10,
+    17,
+    7,
+    8
+  ],
+  "hintChars": [
+    "Q",
+    "P",
+    "Y",
+    "I",
+    "R",
+    "E",
+    "H",
+    "J",
+    "V",
+    "B",
+    "U",
+    "N",
+    "G",
+    "A"
+  ],
+  "createdAt": {
+    "$date": "2025-06-19T01:48:02.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-19T01:48:02.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854c74cb917440c5b675713"
+  },
+  "date": "2025-06-20",
+  "productId": {
+    "$oid": "68351f4a38c47a71c731365f"
+  },
+  "puzzle": "_H__ VA__",
+  "answer": "NHAN VANG",
+  "originalProductName": "nhẫn vàng",
+  "missingChars": [
+    "N",
+    "A",
+    "N",
+    "N",
+    "G"
+  ],
+  "hiddenIndices": [
+    0,
+    2,
+    3,
+    7,
+    8
+  ],
+  "hintChars": [
+    "S",
+    "M",
+    "J",
+    "A",
+    "G",
+    "V",
+    "N",
+    "B",
+    "E"
+  ],
+  "createdAt": {
+    "$date": "2025-06-20T02:28:29.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T02:28:29.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685916fda53b16674ca2f3c8"
+  },
+  "date": "2025-06-23",
+  "productId": {
+    "$oid": "6854f73fb917440c5b677627"
+  },
+  "puzzle": "___CAK_ SO____ ___ H_",
+  "answer": "CUPCAKE SOCOLA BAC HA",
+  "originalProductName": "Cupcake socola bạc hà",
+  "missingChars": [
+    "A",
+    "E",
+    "P",
+    "A",
+    "O",
+    "B",
+    "C",
+    "U",
+    "C",
+    "C",
+    "L",
+    "A"
+  ],
+  "hiddenIndices": [
+    16,
+    6,
+    2,
+    20,
+    11,
+    15,
+    17,
+    1,
+    10,
+    0,
+    12,
+    13
+  ],
+  "hintChars": [
+    "J",
+    "L",
+    "C",
+    "X",
+    "E",
+    "M",
+    "S",
+    "U",
+    "B",
+    "H",
+    "P",
+    "K",
+    "O",
+    "V",
+    "A",
+    "Z"
+  ],
+  "createdAt": {
+    "$date": "2025-06-23T08:57:33.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-23T08:57:33.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689c4284d64cbb6946c3f95f"
+  },
+  "date": "2025-08-13",
+  "productId": {
+    "$oid": "6854f669b917440c5b67760b"
+  },
+  "puzzle": "__R_MI_U _ ___",
+  "answer": "TIRAMISU 5 LOP",
+  "originalProductName": "Tiramisu 5 lớp",
+  "missingChars": [
+    "I",
+    "5",
+    "O",
+    "T",
+    "S",
+    "P",
+    "A",
+    "L"
+  ],
+  "hiddenIndices": [
+    1,
+    9,
+    12,
+    0,
+    6,
+    13,
+    3,
+    11
+  ],
+  "hintChars": [
+    "5",
+    "O",
+    "N",
+    "A",
+    "F",
+    "T",
+    "P",
+    "I",
+    "S",
+    "L",
+    "M",
+    "K"
+  ],
+  "createdAt": {
+    "$date": "2025-08-13T07:45:08.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T07:45:08.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a594a33edc1b0a56ded4f0"
+  },
+  "date": "2025-08-20",
+  "productId": {
+    "$oid": "6854f5bbb917440c5b6775ec"
+  },
+  "puzzle": "___H ___ __M _OI",
+  "answer": "BANH KEM MAM XOI",
+  "originalProductName": "Bánh kem mâm xôi",
+  "missingChars": [
+    "A",
+    "E",
+    "B",
+    "M",
+    "A",
+    "M",
+    "K",
+    "X",
+    "N"
+  ],
+  "hiddenIndices": [
+    1,
+    6,
+    0,
+    9,
+    10,
+    7,
+    5,
+    13,
+    2
+  ],
+  "hintChars": [
+    "F",
+    "E",
+    "A",
+    "L",
+    "U",
+    "X",
+    "K",
+    "B",
+    "M",
+    "J",
+    "N",
+    "Y",
+    "O"
+  ],
+  "createdAt": {
+    "$date": "2025-08-20T09:25:55.166Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T09:25:55.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a7d40a26cc476215a91cc7"
+  },
+  "date": "2025-08-22",
+  "productId": {
+    "$oid": "68351e3438638ab90687adbc"
+  },
+  "puzzle": "NH__",
+  "answer": "NHAN",
+  "originalProductName": "Nhẫn",
+  "missingChars": [
+    "A",
+    "N"
+  ],
+  "hiddenIndices": [
+    2,
+    3
+  ],
+  "hintChars": [
+    "Z",
+    "U",
+    "Q",
+    "N",
+    "W",
+    "A",
+    "I",
+    "K"
+  ],
+  "createdAt": {
+    "$date": "2025-08-22T02:20:58.184Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T02:20:58.184Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "categoryCode": "B12 ",
+  "categoryName": "Bánh ngọt ",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-12-14T16:08:01.859Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T11:06:51.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "categoryCode": "B2",
+  "categoryName": "Bánh kem",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2024-12-18T11:19:31.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-18T11:19:31.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67764021608c0d719eb38d65"
+  },
+  "categoryCode": "P1",
+  "categoryName": "Phụ kiện",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2025-01-02T07:28:33.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T07:28:33.027Z"
+  },
+  "__v": 0
+}]

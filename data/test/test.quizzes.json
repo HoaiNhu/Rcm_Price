@@ -1,0 +1,462 @@
+[{
+  "_id": {
+    "$oid": "6844513a00469820344e0090"
+  },
+  "question": "Bạn đang cảm thấy thế nào?",
+  "type": "mood",
+  "options": [
+    {
+      "text": "Vui vẻ",
+      "value": "happy",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e0091"
+      }
+    },
+    {
+      "text": "Buồn bã",
+      "value": "sad",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e0092"
+      }
+    },
+    {
+      "text": "Căng thẳng",
+      "value": "stressed",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e0093"
+      }
+    },
+    {
+      "text": "Khác",
+      "value": "custom",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e0094"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-07T14:48:26.690Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-07T14:48:26.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6844513a00469820344e0095"
+  },
+  "question": "Bạn nhớ đến hương vị gì từ thời thơ ấu?",
+  "type": "memory",
+  "options": [
+    {
+      "text": "Vị sữa tươi",
+      "value": "milk",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e0096"
+      }
+    },
+    {
+      "text": "Hương vani",
+      "value": "vanilla",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e0097"
+      }
+    },
+    {
+      "text": "Vị chocolate",
+      "value": "chocolate",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e0098"
+      }
+    },
+    {
+      "text": "Khác",
+      "value": "custom",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e0099"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-07T14:48:26.691Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-07T14:48:26.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6844513a00469820344e009a"
+  },
+  "question": "Bạn thích loại bánh nào nhất?",
+  "type": "preference",
+  "options": [
+    {
+      "text": "Bánh ngọt",
+      "value": "sweet",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e009b"
+      }
+    },
+    {
+      "text": "Bánh mặn",
+      "value": "savory",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e009c"
+      }
+    },
+    {
+      "text": "Bánh trái cây",
+      "value": "fruit",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e009d"
+      }
+    },
+    {
+      "text": "Khác",
+      "value": "custom",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844513a00469820344e009e"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 4,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-06-07T14:48:26.691Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T02:34:22.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6844551209aba3f02469d135"
+  },
+  "question": "Bạn bạn nghĩ gì",
+  "type": "mood",
+  "options": [
+    {
+      "text": "Vui vẻ",
+      "value": "happy",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844551209aba3f02469d136"
+      }
+    },
+    {
+      "text": "Buồn bã",
+      "value": "sad",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844551209aba3f02469d137"
+      }
+    },
+    {
+      "text": "Căng thẳng",
+      "value": "stressed",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844551209aba3f02469d138"
+      }
+    },
+    {
+      "text": "Mợt",
+      "value": "exhausted",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6844f9787104511cbe90284f"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": false,
+  "order": 1,
+  "createdAt": {
+    "$date": "2025-06-07T15:04:50.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T02:27:35.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684798069b91f270cd732010"
+  },
+  "question": "Bạn thích con vật nào nhất?",
+  "type": "preference",
+  "options": [
+    {
+      "text": "Chó",
+      "value": "Trung thành",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798069b91f270cd732011"
+      }
+    },
+    {
+      "text": "Mèo",
+      "value": "Cá tính",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798069b91f270cd732012"
+      }
+    },
+    {
+      "text": "Chim",
+      "value": "Tự do",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798069b91f270cd732013"
+      }
+    },
+    {
+      "text": "Cá",
+      "value": "Lầy lội",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798069b91f270cd732014"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 5,
+  "createdAt": {
+    "$date": "2025-06-10T02:27:18.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T02:34:31.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684798889b91f270cd73201f"
+  },
+  "question": "Bạn có bị dị ứng gì không?",
+  "type": "preference",
+  "options": [
+    {
+      "text": "Trứng gà",
+      "value": "Bệnh 1",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798889b91f270cd732020"
+      }
+    },
+    {
+      "text": "Hạt dẻ",
+      "value": "Bệnh 2",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798889b91f270cd732021"
+      }
+    },
+    {
+      "text": "Phô mai",
+      "value": "Bệnh 3",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798889b91f270cd732022"
+      }
+    },
+    {
+      "text": "Không",
+      "value": "Bình thường",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798889b91f270cd732023"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 3,
+  "createdAt": {
+    "$date": "2025-06-10T02:29:28.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T02:36:44.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684798c29b91f270cd732027"
+  },
+  "question": "Bạn cảm thấy thoải mái nhất khi nào",
+  "type": "mood",
+  "options": [
+    {
+      "text": "Một mình",
+      "value": "Hướng nội",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798c29b91f270cd732028"
+      }
+    },
+    {
+      "text": "Đi chơi",
+      "value": "Hướng ngoại",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "684798c29b91f270cd732029"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 6,
+  "createdAt": {
+    "$date": "2025-06-10T02:30:26.202Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-10T02:34:39.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6847992c9b91f270cd73202d"
+  },
+  "question": "Bạn thích trái cây nào nhất",
+  "type": "preference",
+  "options": [
+    {
+      "text": "Dâu tây",
+      "value": "Chua",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6847992c9b91f270cd73202e"
+      }
+    },
+    {
+      "text": "Nho",
+      "value": "Ngọt ngào",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6847992c9b91f270cd73202f"
+      }
+    },
+    {
+      "text": "Kiwi",
+      "value": "trung hoà",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "6847992c9b91f270cd732030"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 7,
+  "createdAt": {
+    "$date": "2025-06-10T02:32:12.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-18T12:00:29.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68479ad59b91f270cd7320e1"
+  },
+  "question": "Bạn thích màu sắc nào",
+  "type": "preference",
+  "options": [
+    {
+      "text": "Đỏ",
+      "value": "Năng động",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "68479ad59b91f270cd7320e2"
+      }
+    },
+    {
+      "text": "Xanh dương",
+      "value": "Trầm tính",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "68479ad59b91f270cd7320e3"
+      }
+    },
+    {
+      "text": "Xanh lá",
+      "value": "Yêu đời",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "68479ad59b91f270cd7320e4"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 8,
+  "createdAt": {
+    "$date": "2025-06-10T02:39:17.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-18T11:58:58.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68bcec55ade257d08675f188"
+  },
+  "question": "Bạn cung hoàng đạo nào?",
+  "type": "mood",
+  "options": [
+    {
+      "text": "Bảo Bình",
+      "value": "Kì lạ",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "68bcec55ade257d08675f189"
+      }
+    },
+    {
+      "text": "Ma kết ",
+      "value": "Nghiêm nghị",
+      "imageUrl": null,
+      "_id": {
+        "$oid": "68bcec55ade257d08675f18a"
+      }
+    }
+  ],
+  "allowCustomAnswer": true,
+  "isActive": true,
+  "order": 9,
+  "createdAt": {
+    "$date": "2025-09-07T02:22:13.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T02:22:13.954Z"
+  },
+  "__v": 0
+}]

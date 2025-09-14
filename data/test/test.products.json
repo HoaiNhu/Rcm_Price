@@ -1,0 +1,681 @@
+[{
+  "_id": {
+    "$oid": "67643c2411d943b7bdecb7d3"
+  },
+  "productName": "Bánh hoa xuân",
+  "productPrice": 260000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735795001/products/file_u9ksse.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 11,
+  "productDescription": "Bánh được làm từ các thành phần cơ bản như bột mì, đường, trứng, bơ và sữa. Lớp kem trắng mịn màng là kem tươi, mang lại vị ngọt nhẹ và béo ngậy. \r\n\r\nCác bông hoa trang trí có thể được làm từ kem bơ với màu sắc tự nhiên từ các loại màu thực phẩm an toàn. \r\n\r\nHương vị của bánh là lớp kem vani và hạnh nhân, mang lại cảm giác thơm ngon và dễ chịu. \r\n",
+  "createdAt": {
+    "$date": "2024-12-19T15:30:44.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T08:18:12.227Z"
+  },
+  "__v": 0,
+  "averageRating": 4.3,
+  "totalRatings": 9
+},
+{
+  "_id": {
+    "$oid": "67643c7b11d943b7bdecb7db"
+  },
+  "productName": "Bánh Corequette",
+  "productPrice": 280000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735795441/products/file_vk5rpo.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 15,
+  "productDescription": "Bánh có lớp kem trắng mịn màng, được trang trí với các chi tiết giống như ren và những dải ruy băng xanh. \r\nThành phần chính bao gồm bột mì, đường, trứng, bơ và sữa. \r\nLớp kem có thể là kem bơ, mang lại vị ngọt nhẹ và béo ngậy. \r\nHương vị của bánh có thể là vani hoặc hạnh nhân, tạo cảm giác thơm ngon và dễ chịu.Các chi tiết trang trí tinh tế làm từ kem bơ hoặc fondant, thêm phần hấp dẫn cho chiếc bánh",
+  "createdAt": {
+    "$date": "2024-12-19T15:32:11.457Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T08:19:04.534Z"
+  },
+  "__v": 0,
+  "averageRating": 4.4,
+  "totalRatings": 5
+},
+{
+  "_id": {
+    "$oid": "67643d0911d943b7bdecb7e0"
+  },
+  "productName": "Bánh Sắc Hoa",
+  "productPrice": 250000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735795670/products/file_k9bosa.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 11,
+  "productDescription": "Thành phần: Bánh được phủ lớp kem trắng mịn, trang trí bằng những bông hoa nhỏ màu hồng và tím cùng lá xanh, tất cả đều được làm từ đường hoặc fondant.\r\n\r\nHương vị: Lớp kem có hương vani hoặc hạnh nhân, mang lại vị ngọt nhẹ nhàng. Bên trong bánh có thể là các lớp bánh bông lan hoặc bánh bơ, tạo nên sự cân bằng hoàn hảo giữa vị ngọt và độ mềm mịn.",
+  "createdAt": {
+    "$date": "2024-12-19T15:34:33.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T06:07:46.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67643ff21e0d9cd93752293d"
+  },
+  "productName": "Bánh Hồ Điệp",
+  "productPrice": 250000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735795889/products/file_dwlnfc.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 12,
+  "productDescription": "Chiếc bánh với thiết kế tinh tế. Bánh được phủ lớp kem màu trắng mềm mại, với họa tiết giống như những dải ruy băng quấn quanh từng tầng. Trên bánh có những con bướm trắng nhỏ với điểm nhấn màu xám nhạt trên cánh, tạo thêm vẻ đẹp nhẹ nhàng. Những hạt ngọc trai nhỏ và lớn được rải đều trên bánh, mang lại vẻ sang trọng và quý phái. Tầng trên cùng của bánh có bề mặt mịn với họa tiết xoáy, gợi ý về hương vị kem bơ mịn màng và là vị bơ.",
+  "createdAt": {
+    "$date": "2024-12-19T15:46:58.523Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-18T13:30:21.841Z"
+  },
+  "__v": 0,
+  "averageRating": 4.3,
+  "totalRatings": 3
+},
+{
+  "_id": {
+    "$oid": "676440181e0d9cd937522943"
+  },
+  "productName": "Bánh Hương Hoa Hồng",
+  "productPrice": 300000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735796143/products/file_zuptz1.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 15,
+  "productDescription": "Thành phần: bột mì, đường, trứng, sữa tươi, vani, màu thực phẩm\r\nHương vị: Mỗi miếng bánh mang đến sự kết hợp hoàn hảo giữa vị ngọt nhẹ của bánh bông lan và vị béo ngậy của kem phô mai, cùng với hương hoa hồng thoang thoảng, tạo nên trải nghiệm ẩm thực tuyệt vời.",
+  "createdAt": {
+    "$date": "2024-12-19T15:47:36.008Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-18T12:42:37.405Z"
+  },
+  "__v": 0,
+  "averageRating": 4,
+  "totalRatings": 2
+},
+{
+  "_id": {
+    "$oid": "67668442a930c5482b489735"
+  },
+  "productName": "Bánh Giáng Sinh",
+  "productPrice": 150000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735796435/products/file_ard4na.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 11,
+  "productDescription": "Thành phần: kem dừa, vani, bột, đường, trứng, sữa\r\nHương vị: Mỗi miếng bánh mang đến sự kết hợp hoàn hảo giữa vị ngọt nhẹ của bánh bông lan và vị béo ngậy của kem bơ, cùng với hương vị tinh tế của dừa, tạo nên trải nghiệm ẩm thực tuyệt vời cho mùa Giáng Sinh.",
+  "createdAt": {
+    "$date": "2024-12-21T09:02:58.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T05:40:35.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676785ff237bd3794c1a5ecc"
+  },
+  "productName": "Bánh Dâu Tây Ngọt Ngào",
+  "productPrice": 200000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735797750/products/file_cfpziz.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 11,
+  "productDescription": "Thành phần: Bơ, một mì, trứng, sữa, vani, mứt dâu, dâu tây tươi \r\nHương vị: Mỗi miếng bánh mang đến sự kết hợp hoàn hảo giữa vị ngọt nhẹ của bánh bông lan, vị béo ngậy của kem bơ và vị chua ngọt tự nhiên của dâu tây tươi, tạo nên trải nghiệm ẩm thực tuyệt vời.\r\n",
+  "createdAt": {
+    "$date": "2024-12-22T03:22:39.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-08T10:18:16.751Z"
+  },
+  "__v": 0,
+  "averageRating": 5,
+  "totalRatings": 1
+},
+{
+  "_id": {
+    "$oid": "676986cf89ced9c8f153913b"
+  },
+  "productName": "Bánh Trái Cây Nhiệt Đới",
+  "productPrice": 300000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735796784/products/file_tykmez.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 11,
+  "productDescription": "Thành phần chính: Gato, kem tươi vị rượu rum, hoa quả, dừa khô\r\n\r\nHương vị: Bánh làm từ 3 lớp gato trắng xen giữa 3 lớp kem tươi vị rượu rum (nho). Trên mặt bánh được trang trí bằng hoa quả với dừa khô kết xung quanh.",
+  "createdAt": {
+    "$date": "2024-12-23T15:50:39.555Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-08T10:54:54.104Z"
+  },
+  "__v": 0,
+  "averageRating": 4.5,
+  "totalRatings": 2
+},
+{
+  "_id": {
+    "$oid": "676d0a76b60eb621bf384a05"
+  },
+  "productName": "Bánh Chocalate Oreo",
+  "productPrice": 250000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735797410/products/file_lcg9tv.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 11,
+  "productDescription": "Thành phần chính: Gato, kem tươi mặn vị coffee.\r\n\r\nBánh làm từ 3 lớp gato trắng kết hợp với 3 lớp kem mặn vị coffee. Bánh phủ bên ngoài bởi 1 lớp kem tươi trắng rắc bột cacao.",
+  "createdAt": {
+    "$date": "2024-12-26T07:49:10.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T05:56:51.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676d0b29b60eb621bf384a0e"
+  },
+  "productName": "Bánh Little Light",
+  "productPrice": 250000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735797512/products/file_qem3i5.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 15,
+  "productDescription": "Thành phần chính: Gato, kem tươi, Trái cây\r\n\r\nBánh làm từ 3 lớp gato trắng xen giữa 3 lớp kem. Bên trên phủ 1 lớp kem tươi phomai vị cafe và được trang trí bằng hoa quả theo mùa.\r\n",
+  "createdAt": {
+    "$date": "2024-12-26T07:52:09.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T05:58:33.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67752032e5584a4c21f982a9"
+  },
+  "productName": "Bánh Xoài Tài Lộc",
+  "productPrice": 300000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735797601/products/file_zlxse2.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 20,
+  "productQuantity": 0,
+  "productDescription": "Thành phần chính: Gato, kem tươi, Xoài\r\n\r\nBánh làm từ 3 lớp gato trắng xen giữa 3 lớp kem. Bên trên phủ 1 lớp kem tươi phomai vị xoài và được trang trí bằng hoa quả theo mùa.",
+  "createdAt": {
+    "$date": "2025-01-01T11:00:02.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T06:00:02.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67762d0a4c4fca7963da6f69"
+  },
+  "productName": "Bánh Hoa Thỏ",
+  "productPrice": 270000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735798024/products/file_a82sqo.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 11,
+  "productQuantity": 0,
+  "productDescription": "Thành phần chính: Gato, kem tươi vị rượu rum, mứt dâu, chocolate trắng\r\n\r\nBánh làm từ 3 lớp gato TRẮNG  xen giữa 3 lớp kem tươi, giữa là mứt dâu. Bánh phủ ngoài là kem dâu và vani xung quanh.",
+  "createdAt": {
+    "$date": "2025-01-02T06:07:06.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T06:07:06.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67762da14c4fca7963da6f84"
+  },
+  "productName": "Bánh Vườn Nho Năm Mới",
+  "productPrice": 300000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735798176/products/file_wzqxdv.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 11,
+  "productQuantity": 0,
+  "productDescription": "Thành phần chính: Gato, kem tươi vị rượu rum, trái cây tươi (nho).\r\n\r\n\r\nBánh làm từ 3 lớp gato trắng  xen giữa 3 lớp kem tươi. Bánh được trang trí với hoa quả tươi",
+  "createdAt": {
+    "$date": "2025-01-02T06:09:37.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T06:09:37.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67763213e927666e3f843d0c"
+  },
+  "productName": "Set 4 Bánh Donut Giáng SInh",
+  "productPrice": 50000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735799314/products/file_slelou.jpg",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 0,
+  "productQuantity": 0,
+  "productDescription": "Set 4 bánh Donut 4 hương vị tượng trưng cho 4 mùa\r\nLớp kem tươi từ chocolate và kem trái cây tươi mang lại cảm giác đa dạng, và ý nghĩa đủ đầy, ngọt ngào cả năm",
+  "createdAt": {
+    "$date": "2025-01-02T06:28:35.350Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-08T10:18:37.336Z"
+  },
+  "__v": 0,
+  "averageRating": 4,
+  "totalRatings": 1
+},
+{
+  "_id": {
+    "$oid": "6776342fe927666e3f843d52"
+  },
+  "productName": "Set 2 Bánh Donut Bông Hoa",
+  "productPrice": 30000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735799854/products/file_ny2drr.jpg",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 0,
+  "productQuantity": 0,
+  "productDescription": "Set 2 bánh Donut Bông Hoa được phủ chocolate Matcha và Vani.",
+  "createdAt": {
+    "$date": "2025-01-02T06:37:35.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T06:37:35.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67763afa608c0d719eb38d0c"
+  },
+  "productName": "Set 16 Bánh Macaron",
+  "productPrice": 100000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735801593/products/file_iys26h.jpg",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 0,
+  "productQuantity": 0,
+  "productDescription": "Set 16 Bánh Macaron mang nhiều hương vị của kem trái cây và các loại chocolate",
+  "createdAt": {
+    "$date": "2025-01-02T07:06:34.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-18T13:17:01.423Z"
+  },
+  "__v": 0,
+  "averageRating": 5,
+  "totalRatings": 1
+},
+{
+  "_id": {
+    "$oid": "67763eb3608c0d719eb38d23"
+  },
+  "productName": "Tiramisu Little Carrot",
+  "productPrice": 25000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735802547/products/file_wjz20t.jpg",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 0,
+  "productQuantity": 0,
+  "productDescription": "Bánh Tiramisu Cà Phê có lớp kem Vani mềm mịn",
+  "createdAt": {
+    "$date": "2025-01-02T07:22:27.540Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T07:22:27.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6776424f608c0d719eb38db0"
+  },
+  "productName": "Set 6 nến sinh nhật",
+  "productPrice": 30000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735803471/products/file_k9u4ct.jpg",
+  "productCategory": {
+    "$oid": "67764021608c0d719eb38d65"
+  },
+  "productSize": 0,
+  "productQuantity": 0,
+  "productDescription": "Nến sinh nhật",
+  "createdAt": {
+    "$date": "2025-01-02T07:37:51.354Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T07:37:51.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677642b6608c0d719eb38dbe"
+  },
+  "productName": "Set 5 túi đựng quà tặng",
+  "productPrice": 100000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735803574/products/file_zzl6yw.jpg",
+  "productCategory": {
+    "$oid": "67764021608c0d719eb38d65"
+  },
+  "productSize": 0,
+  "productQuantity": 0,
+  "productDescription": "Set 5 túi giấy đựng quà tặng",
+  "createdAt": {
+    "$date": "2025-01-02T07:39:34.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T09:10:51.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67765db11f858633ea5ba243"
+  },
+  "productName": "Nến HAPPY BIRTHDAY",
+  "productPrice": 50000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735810481/products/file_vfxjwe.jpg",
+  "productCategory": {
+    "$oid": "67764021608c0d719eb38d65"
+  },
+  "productSize": 0,
+  "productQuantity": 0,
+  "productDescription": "Nến HAPPY BIRTHDAY màu hồng",
+  "createdAt": {
+    "$date": "2025-01-02T09:34:41.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-18T13:29:35.187Z"
+  },
+  "__v": 0,
+  "averageRating": 5,
+  "totalRatings": 1
+},
+{
+  "_id": {
+    "$oid": "67765de51f858633ea5ba24d"
+  },
+  "productName": "Pháo Hoa Giấy",
+  "productPrice": 50000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735810533/products/file_pacenx.jpg",
+  "productCategory": {
+    "$oid": "67764021608c0d719eb38d65"
+  },
+  "productSize": 0,
+  "productQuantity": 0,
+  "productDescription": "Pháo Hoa Giấy",
+  "createdAt": {
+    "$date": "2025-01-02T09:35:33.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-08T10:27:26.717Z"
+  },
+  "__v": 0,
+  "averageRating": 5,
+  "totalRatings": 1
+},
+{
+  "_id": {
+    "$oid": "67767dce1f858633ea5ba395"
+  },
+  "productName": "Bánh ngọt cây thông",
+  "productPrice": 300000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1735818702/products/file_ljs26k.jpg",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 20,
+  "productQuantity": 0,
+  "productDescription": "Bánh kem bị matcha..",
+  "createdAt": {
+    "$date": "2025-01-02T11:51:42.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-02T11:52:24.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68351e3438638ab90687adbc"
+  },
+  "productName": "Nhẫn",
+  "productPrice": 1000000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1748311605/products/file_ldfet8.png",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 11,
+  "productQuantity": 0,
+  "averageRating": 5,
+  "totalRatings": 1,
+  "productDescription": "Vàng 9999",
+  "createdAt": {
+    "$date": "2025-05-27T02:06:44.738Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T02:06:44.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68351f462f7fb067d35b4b58"
+  },
+  "productName": "Nhẫn trái tim",
+  "productPrice": 1000000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1748311879/products/file_zsdaws.png",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 11,
+  "productQuantity": 0,
+  "productDescription": "Gold 9999",
+  "createdAt": {
+    "$date": "2025-05-27T02:11:18.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T02:11:18.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68351f4a38c47a71c731365f"
+  },
+  "productName": "nhẫn vàng",
+  "productPrice": 1000000,
+  "productImage": "https://res.cloudinary.com/dwv3eplqk/image/upload/v1748311881/products/qnhha4cq0qd3hk8accqo.png",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 11,
+  "productQuantity": 0,
+  "productDescription": "aaaa",
+  "createdAt": {
+    "$date": "2025-05-27T02:11:22.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-27T02:11:22.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854f5bbb917440c5b6775ec"
+  },
+  "productName": "Bánh kem mâm xôi",
+  "productPrice": 499000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750398395/products/file_h4ib3z.jpg",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 20,
+  "productQuantity": 0,
+  "averageRating": 5,
+  "totalRatings": 1,
+  "productDescription": "- Thành phần: Đường, trứng gà, bột mì, socola đen, mâm xôi Đà Lạt, nho khô, ngũ cốc, hạt dẻ...\r\n- Mô tả: Lớp kem béo ngậy hoà quyện cùng vị chua chua ngọt ngọt của dâu tây tạo nên một sự cân bằng hoàn hoả lan toả trong khoang miệng",
+  "productDiscount": 0,
+  "createdAt": {
+    "$date": "2025-06-20T05:46:35.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T05:46:35.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854f618b917440c5b6775fd"
+  },
+  "productName": "Chocolate dâu tây",
+  "productPrice": 39000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750398488/products/file_vdc7gy.jpg",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 12,
+  "productQuantity": 0,
+  "averageRating": 5,
+  "totalRatings": 1,
+  "productDescription": "- Thành phần: Đường, trứng gà, bột mì, socola đen, dâu tây Đà Lạt, nho khô, mứt ...\r\n- Mô tả: Lớp kem béo ngậy hoà quyện cùng vị chua chua ngọt ngọt của dâu tây tạo nên một sự cân bằng hoàn hoả lan toả trong khoang miệng",
+  "productDiscount": 0,
+  "createdAt": {
+    "$date": "2025-06-20T05:48:08.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T05:48:08.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854f669b917440c5b67760b"
+  },
+  "productName": "Tiramisu 5 lớp",
+  "productPrice": 59000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750398568/products/file_cjbjgf.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 12,
+  "productQuantity": 0,
+  "averageRating": 5,
+  "totalRatings": 1,
+  "productDescription": "- Thành phần: Đường, trứng gà, bột mì, socola đen, dâu tây Đà Lạt, nho khô, mứt ...\r\n- Mô tả: Lớp kem béo ngậy hoà quyện cùng vị chua chua ngọt ngọt của dâu tây tạo nên một sự cân bằng hoàn hoả lan toả trong khoang miệng",
+  "productDiscount": 0,
+  "createdAt": {
+    "$date": "2025-06-20T05:49:29.449Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T05:49:29.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854f6e3b917440c5b677619"
+  },
+  "productName": "Bánh kem socola nâu",
+  "productPrice": 139000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750398690/products/file_wzb11d.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 20,
+  "productQuantity": 0,
+  "averageRating": 5,
+  "totalRatings": 1,
+  "productDescription": "- Thành phần: Đường, trứng gà, bột mì, socola đen, , nho khô, mứt ...\r\n- Hương vị: Đắng nhẹ, ngọt, béo",
+  "productDiscount": 0,
+  "createdAt": {
+    "$date": "2025-06-20T05:51:31.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T05:51:31.330Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854f73fb917440c5b677627"
+  },
+  "productName": "Cupcake socola bạc hà",
+  "productPrice": 39000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750398782/products/file_hgfrsh.jpg",
+  "productCategory": {
+    "$oid": "675dad6116f7337d86806c27"
+  },
+  "productSize": 5,
+  "productQuantity": 0,
+  "averageRating": 5,
+  "totalRatings": 1,
+  "productDescription": "- Thành phần: Đường, trứng gà, bột mì, socola đen, bạc hà\r\n- Hương vi: thơm nhẹ, the mát, ngọt ngào",
+  "productDiscount": 0,
+  "createdAt": {
+    "$date": "2025-06-20T05:53:03.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T05:53:03.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854f7fdb917440c5b677638"
+  },
+  "productName": "Bánh kem kì lân cầu vòng",
+  "productPrice": 999000,
+  "productImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750398972/products/file_qh8yvv.jpg",
+  "productCategory": {
+    "$oid": "6762afc337b12f4ea0bb0187"
+  },
+  "productSize": 30,
+  "productQuantity": 0,
+  "averageRating": 5,
+  "totalRatings": 1,
+  "productDescription": "- Thành phần: Đường, trứng gà, bột mì, nho khô, mứt, màu thực vật\r\n- Hương vị: Béo ngậy, thơm ngon",
+  "productDiscount": 0,
+  "createdAt": {
+    "$date": "2025-06-20T05:56:13.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T05:56:13.751Z"
+  },
+  "__v": 0
+}]

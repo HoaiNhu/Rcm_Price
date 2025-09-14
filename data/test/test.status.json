@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "676180405f022353257b7ddd"
+  },
+  "statusCode": "PENDING",
+  "statusName": "Đã nhận",
+  "statusDescription": "Đã tiếp nhận đơn hàng của khách hàng",
+  "createdAt": {
+    "$date": "2024-12-17T13:44:32.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:44:32.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676180755f022353257b7de0"
+  },
+  "statusCode": "PROCESSING",
+  "statusName": "Đang chuẩn bị",
+  "statusDescription": "Đang chuẩn bị đơn hàng cho khách hàng",
+  "createdAt": {
+    "$date": "2024-12-17T13:45:25.573Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:45:25.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676180925f022353257b7de3"
+  },
+  "statusCode": "DELIVERING",
+  "statusName": "Đang vận chuyển",
+  "statusDescription": "Đơn hàng đang được vận chuyển",
+  "createdAt": {
+    "$date": "2024-12-17T13:45:54.438Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:45:54.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67618186b260255b08a4ab3f"
+  },
+  "statusCode": "COMPLETED",
+  "statusName": "Đã giao",
+  "statusDescription": "Đơn hàng đã giao thành công",
+  "createdAt": {
+    "$date": "2024-12-17T13:49:58.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-17T13:49:58.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6770a84d0ec3917f0a7c9559"
+  },
+  "statusCode": "CANCEL",
+  "statusName": "Đã hủy",
+  "statusDescription": "Đơn hàng đã bị hủy",
+  "createdAt": {
+    "$date": "2024-12-29T01:39:25.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-29T01:39:25.425Z"
+  },
+  "__v": 0
+}]

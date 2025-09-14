@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "6854e505a5f56a48edc6b709"
+  },
+  "discountCode": "BDAY196",
+  "discountName": "Khuyến mãi sinh nhật AVOCADO",
+  "discountValue": 20,
+  "discountImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750394115/discount/file_om87z6.png",
+  "discountStartDate": {
+    "$date": "2025-06-19T00:00:00.000Z"
+  },
+  "discountEndDate": {
+    "$date": "2025-06-22T00:00:00.000Z"
+  },
+  "isActive": true,
+  "discountProduct": [
+    {
+      "$oid": "67643c2411d943b7bdecb7d3"
+    },
+    {
+      "$oid": "67643c7b11d943b7bdecb7db"
+    },
+    {
+      "$oid": "67643d0911d943b7bdecb7e0"
+    },
+    {
+      "$oid": "67643ff21e0d9cd93752293d"
+    },
+    {
+      "$oid": "676440181e0d9cd937522943"
+    },
+    {
+      "$oid": "676785ff237bd3794c1a5ecc"
+    },
+    {
+      "$oid": "676986cf89ced9c8f153913b"
+    },
+    {
+      "$oid": "676d0a76b60eb621bf384a05"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-06-20T04:35:17.305Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T04:35:17.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854e55ca5f56a48edc6b71e"
+  },
+  "discountCode": "KM1",
+  "discountName": "Khuyến mãi giữa tháng",
+  "discountValue": 30,
+  "discountImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750394203/discount/file_pj8ca7.png",
+  "discountStartDate": {
+    "$date": "2025-06-15T00:00:00.000Z"
+  },
+  "discountEndDate": {
+    "$date": "2025-06-21T00:00:00.000Z"
+  },
+  "isActive": true,
+  "discountProduct": [
+    {
+      "$oid": "67763afa608c0d719eb38d0c"
+    },
+    {
+      "$oid": "6776342fe927666e3f843d52"
+    },
+    {
+      "$oid": "67763213e927666e3f843d0c"
+    },
+    {
+      "$oid": "67763eb3608c0d719eb38d23"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-06-20T04:36:44.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T04:36:44.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685515e3b917440c5b67845a"
+  },
+  "discountCode": "qer",
+  "discountName": "qưerty",
+  "discountValue": 25,
+  "discountImage": "https://res.cloudinary.com/dlyl41lgq/image/upload/v1750406624/discount/file_fdidfp.jpg",
+  "discountStartDate": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "discountEndDate": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "isActive": true,
+  "discountProduct": [
+    {
+      "$oid": "67765de51f858633ea5ba24d"
+    },
+    {
+      "$oid": "67765db11f858633ea5ba243"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-06-20T08:03:47.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-20T08:03:47.112Z"
+  },
+  "__v": 0
+}]
