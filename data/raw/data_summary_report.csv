@@ -1,0 +1,18 @@
+﻿category,metric,value,min_value,max_value
+Competitor Prices,bánh croissant - Average Price,"27,613 VND","16,000 VND","42,000 VND"
+Competitor Prices,bánh cupcake - Average Price,"38,636 VND","21,000 VND","61,000 VND"
+Competitor Prices,bánh donut - Average Price,"22,091 VND","13,000 VND","34,000 VND"
+Competitor Prices,bánh mì sandwich - Average Price,"49,669 VND","33,000 VND","74,000 VND"
+Competitor Prices,bánh sinh nhật - Average Price,"385,681 VND","192,000 VND","629,000 VND"
+Seasonal Impact,christmas - Demand Multiplier,1.7x,,
+Seasonal Impact,mid_autumn - Demand Multiplier,1.8x,,
+Seasonal Impact,normal - Demand Multiplier,1.0x,,
+Seasonal Impact,tet - Demand Multiplier,2.5x,,
+Seasonal Impact,valentine - Demand Multiplier,2.0x,,
+Seasonal Impact,weekend - Demand Multiplier,1.3x,,
+Seasonal Impact,womens_day - Demand Multiplier,1.5x,,
+Market Trends,healthy_cake - Avg Popularity,70.7/100,,
+Market Trends,premium_cake - Avg Popularity,75.8/100,,
+Market Trends,sugar_free - Avg Popularity,67.9/100,,
+Market Trends,traditional_cake - Avg Popularity,55.4/100,,
+Market Trends,vegan_cake - Avg Popularity,46.4/100,,

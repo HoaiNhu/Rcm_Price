@@ -1,0 +1,1769 @@
+﻿date,keyword,category,trend_score,applicability_score,weighted_score,data_source
+2024-01-07,bánh ngọt,direct_bakery,61,1.0,61,mock_data
+2024-01-14,bánh ngọt,direct_bakery,44,1.0,44,mock_data
+2024-01-21,bánh ngọt,direct_bakery,40,1.0,40,mock_data
+2024-01-28,bánh ngọt,direct_bakery,54,1.0,54,mock_data
+2024-02-04,bánh ngọt,direct_bakery,57,1.0,57,mock_data
+2024-02-11,bánh ngọt,direct_bakery,44,1.0,44,mock_data
+2024-02-18,bánh ngọt,direct_bakery,46,1.0,46,mock_data
+2024-02-25,bánh ngọt,direct_bakery,47,1.0,47,mock_data
+2024-03-03,bánh ngọt,direct_bakery,65,1.0,65,mock_data
+2024-03-10,bánh ngọt,direct_bakery,67,1.0,67,mock_data
+2024-03-17,bánh ngọt,direct_bakery,50,1.0,50,mock_data
+2024-03-24,bánh ngọt,direct_bakery,56,1.0,56,mock_data
+2024-03-31,bánh ngọt,direct_bakery,42,1.0,42,mock_data
+2024-04-07,bánh ngọt,direct_bakery,64,1.0,64,mock_data
+2024-04-14,bánh ngọt,direct_bakery,53,1.0,53,mock_data
+2024-04-21,bánh ngọt,direct_bakery,58,1.0,58,mock_data
+2024-04-28,bánh ngọt,direct_bakery,46,1.0,46,mock_data
+2024-05-05,bánh ngọt,direct_bakery,42,1.0,42,mock_data
+2024-05-12,bánh ngọt,direct_bakery,57,1.0,57,mock_data
+2024-05-19,bánh ngọt,direct_bakery,60,1.0,60,mock_data
+2024-05-26,bánh ngọt,direct_bakery,61,1.0,61,mock_data
+2024-06-02,bánh ngọt,direct_bakery,51,1.0,51,mock_data
+2024-06-09,bánh ngọt,direct_bakery,47,1.0,47,mock_data
+2024-06-16,bánh ngọt,direct_bakery,47,1.0,47,mock_data
+2024-06-23,bánh ngọt,direct_bakery,35,1.0,35,mock_data
+2024-06-30,bánh ngọt,direct_bakery,42,1.0,42,mock_data
+2024-07-07,bánh ngọt,direct_bakery,64,1.0,64,mock_data
+2024-07-14,bánh ngọt,direct_bakery,55,1.0,55,mock_data
+2024-07-21,bánh ngọt,direct_bakery,49,1.0,49,mock_data
+2024-07-28,bánh ngọt,direct_bakery,44,1.0,44,mock_data
+2024-08-04,bánh ngọt,direct_bakery,27,1.0,27,mock_data
+2024-08-11,bánh ngọt,direct_bakery,41,1.0,41,mock_data
+2024-08-18,bánh ngọt,direct_bakery,40,1.0,40,mock_data
+2024-08-25,bánh ngọt,direct_bakery,43,1.0,43,mock_data
+2024-09-01,bánh ngọt,direct_bakery,31,1.0,31,mock_data
+2024-09-08,bánh ngọt,direct_bakery,24,1.0,24,mock_data
+2024-09-15,bánh ngọt,direct_bakery,30,1.0,30,mock_data
+2024-09-22,bánh ngọt,direct_bakery,36,1.0,36,mock_data
+2024-09-29,bánh ngọt,direct_bakery,41,1.0,41,mock_data
+2024-10-06,bánh ngọt,direct_bakery,30,1.0,30,mock_data
+2024-10-13,bánh ngọt,direct_bakery,35,1.0,35,mock_data
+2024-10-20,bánh ngọt,direct_bakery,40,1.0,40,mock_data
+2024-10-27,bánh ngọt,direct_bakery,32,1.0,32,mock_data
+2024-11-03,bánh ngọt,direct_bakery,36,1.0,36,mock_data
+2024-11-10,bánh ngọt,direct_bakery,39,1.0,39,mock_data
+2024-11-17,bánh ngọt,direct_bakery,30,1.0,30,mock_data
+2024-11-24,bánh ngọt,direct_bakery,42,1.0,42,mock_data
+2024-12-01,bánh ngọt,direct_bakery,43,1.0,43,mock_data
+2024-12-08,bánh ngọt,direct_bakery,52,1.0,52,mock_data
+2024-12-15,bánh ngọt,direct_bakery,56,1.0,56,mock_data
+2024-12-22,bánh ngọt,direct_bakery,50,1.0,50,mock_data
+2024-12-29,bánh ngọt,direct_bakery,41,1.0,41,mock_data
+2024-01-07,tiramisu,direct_bakery,40,1.0,40,mock_data
+2024-01-14,tiramisu,direct_bakery,58,1.0,58,mock_data
+2024-01-21,tiramisu,direct_bakery,44,1.0,44,mock_data
+2024-01-28,tiramisu,direct_bakery,37,1.0,37,mock_data
+2024-02-04,tiramisu,direct_bakery,59,1.0,59,mock_data
+2024-02-11,tiramisu,direct_bakery,44,1.0,44,mock_data
+2024-02-18,tiramisu,direct_bakery,54,1.0,54,mock_data
+2024-02-25,tiramisu,direct_bakery,63,1.0,63,mock_data
+2024-03-03,tiramisu,direct_bakery,60,1.0,60,mock_data
+2024-03-10,tiramisu,direct_bakery,52,1.0,52,mock_data
+2024-03-17,tiramisu,direct_bakery,67,1.0,67,mock_data
+2024-03-24,tiramisu,direct_bakery,46,1.0,46,mock_data
+2024-03-31,tiramisu,direct_bakery,49,1.0,49,mock_data
+2024-04-07,tiramisu,direct_bakery,46,1.0,46,mock_data
+2024-04-14,tiramisu,direct_bakery,44,1.0,44,mock_data
+2024-04-21,tiramisu,direct_bakery,46,1.0,46,mock_data
+2024-04-28,tiramisu,direct_bakery,51,1.0,51,mock_data
+2024-05-05,tiramisu,direct_bakery,35,1.0,35,mock_data
+2024-05-12,tiramisu,direct_bakery,63,1.0,63,mock_data
+2024-05-19,tiramisu,direct_bakery,58,1.0,58,mock_data
+2024-05-26,tiramisu,direct_bakery,48,1.0,48,mock_data
+2024-06-02,tiramisu,direct_bakery,55,1.0,55,mock_data
+2024-06-09,tiramisu,direct_bakery,53,1.0,53,mock_data
+2024-06-16,tiramisu,direct_bakery,38,1.0,38,mock_data
+2024-06-23,tiramisu,direct_bakery,43,1.0,43,mock_data
+2024-06-30,tiramisu,direct_bakery,31,1.0,31,mock_data
+2024-07-07,tiramisu,direct_bakery,39,1.0,39,mock_data
+2024-07-14,tiramisu,direct_bakery,41,1.0,41,mock_data
+2024-07-21,tiramisu,direct_bakery,38,1.0,38,mock_data
+2024-07-28,tiramisu,direct_bakery,37,1.0,37,mock_data
+2024-08-04,tiramisu,direct_bakery,60,1.0,60,mock_data
+2024-08-11,tiramisu,direct_bakery,29,1.0,29,mock_data
+2024-08-18,tiramisu,direct_bakery,39,1.0,39,mock_data
+2024-08-25,tiramisu,direct_bakery,39,1.0,39,mock_data
+2024-09-01,tiramisu,direct_bakery,32,1.0,32,mock_data
+2024-09-08,tiramisu,direct_bakery,31,1.0,31,mock_data
+2024-09-15,tiramisu,direct_bakery,20,1.0,20,mock_data
+2024-09-22,tiramisu,direct_bakery,38,1.0,38,mock_data
+2024-09-29,tiramisu,direct_bakery,27,1.0,27,mock_data
+2024-10-06,tiramisu,direct_bakery,40,1.0,40,mock_data
+2024-10-13,tiramisu,direct_bakery,24,1.0,24,mock_data
+2024-10-20,tiramisu,direct_bakery,41,1.0,41,mock_data
+2024-10-27,tiramisu,direct_bakery,34,1.0,34,mock_data
+2024-11-03,tiramisu,direct_bakery,40,1.0,40,mock_data
+2024-11-10,tiramisu,direct_bakery,33,1.0,33,mock_data
+2024-11-17,tiramisu,direct_bakery,42,1.0,42,mock_data
+2024-11-24,tiramisu,direct_bakery,34,1.0,34,mock_data
+2024-12-01,tiramisu,direct_bakery,38,1.0,38,mock_data
+2024-12-08,tiramisu,direct_bakery,36,1.0,36,mock_data
+2024-12-15,tiramisu,direct_bakery,52,1.0,52,mock_data
+2024-12-22,tiramisu,direct_bakery,51,1.0,51,mock_data
+2024-12-29,tiramisu,direct_bakery,61,1.0,61,mock_data
+2024-01-07,cheesecake,direct_bakery,45,1.0,45,mock_data
+2024-01-14,cheesecake,direct_bakery,52,1.0,52,mock_data
+2024-01-21,cheesecake,direct_bakery,46,1.0,46,mock_data
+2024-01-28,cheesecake,direct_bakery,49,1.0,49,mock_data
+2024-02-04,cheesecake,direct_bakery,58,1.0,58,mock_data
+2024-02-11,cheesecake,direct_bakery,44,1.0,44,mock_data
+2024-02-18,cheesecake,direct_bakery,48,1.0,48,mock_data
+2024-02-25,cheesecake,direct_bakery,49,1.0,49,mock_data
+2024-03-03,cheesecake,direct_bakery,60,1.0,60,mock_data
+2024-03-10,cheesecake,direct_bakery,66,1.0,66,mock_data
+2024-03-17,cheesecake,direct_bakery,53,1.0,53,mock_data
+2024-03-24,cheesecake,direct_bakery,62,1.0,62,mock_data
+2024-03-31,cheesecake,direct_bakery,42,1.0,42,mock_data
+2024-04-07,cheesecake,direct_bakery,57,1.0,57,mock_data
+2024-04-14,cheesecake,direct_bakery,59,1.0,59,mock_data
+2024-04-21,cheesecake,direct_bakery,58,1.0,58,mock_data
+2024-04-28,cheesecake,direct_bakery,65,1.0,65,mock_data
+2024-05-05,cheesecake,direct_bakery,36,1.0,36,mock_data
+2024-05-12,cheesecake,direct_bakery,57,1.0,57,mock_data
+2024-05-19,cheesecake,direct_bakery,40,1.0,40,mock_data
+2024-05-26,cheesecake,direct_bakery,59,1.0,59,mock_data
+2024-06-02,cheesecake,direct_bakery,57,1.0,57,mock_data
+2024-06-09,cheesecake,direct_bakery,51,1.0,51,mock_data
+2024-06-16,cheesecake,direct_bakery,55,1.0,55,mock_data
+2024-06-23,cheesecake,direct_bakery,44,1.0,44,mock_data
+2024-06-30,cheesecake,direct_bakery,39,1.0,39,mock_data
+2024-07-07,cheesecake,direct_bakery,46,1.0,46,mock_data
+2024-07-14,cheesecake,direct_bakery,40,1.0,40,mock_data
+2024-07-21,cheesecake,direct_bakery,51,1.0,51,mock_data
+2024-07-28,cheesecake,direct_bakery,54,1.0,54,mock_data
+2024-08-04,cheesecake,direct_bakery,40,1.0,40,mock_data
+2024-08-11,cheesecake,direct_bakery,29,1.0,29,mock_data
+2024-08-18,cheesecake,direct_bakery,40,1.0,40,mock_data
+2024-08-25,cheesecake,direct_bakery,28,1.0,28,mock_data
+2024-09-01,cheesecake,direct_bakery,46,1.0,46,mock_data
+2024-09-08,cheesecake,direct_bakery,41,1.0,41,mock_data
+2024-09-15,cheesecake,direct_bakery,35,1.0,35,mock_data
+2024-09-22,cheesecake,direct_bakery,46,1.0,46,mock_data
+2024-09-29,cheesecake,direct_bakery,34,1.0,34,mock_data
+2024-10-06,cheesecake,direct_bakery,37,1.0,37,mock_data
+2024-10-13,cheesecake,direct_bakery,31,1.0,31,mock_data
+2024-10-20,cheesecake,direct_bakery,26,1.0,26,mock_data
+2024-10-27,cheesecake,direct_bakery,46,1.0,46,mock_data
+2024-11-03,cheesecake,direct_bakery,38,1.0,38,mock_data
+2024-11-10,cheesecake,direct_bakery,40,1.0,40,mock_data
+2024-11-17,cheesecake,direct_bakery,40,1.0,40,mock_data
+2024-11-24,cheesecake,direct_bakery,44,1.0,44,mock_data
+2024-12-01,cheesecake,direct_bakery,47,1.0,47,mock_data
+2024-12-08,cheesecake,direct_bakery,42,1.0,42,mock_data
+2024-12-15,cheesecake,direct_bakery,50,1.0,50,mock_data
+2024-12-22,cheesecake,direct_bakery,34,1.0,34,mock_data
+2024-12-29,cheesecake,direct_bakery,47,1.0,47,mock_data
+2024-01-07,macaron,direct_bakery,43,1.0,43,mock_data
+2024-01-14,macaron,direct_bakery,54,1.0,54,mock_data
+2024-01-21,macaron,direct_bakery,40,1.0,40,mock_data
+2024-01-28,macaron,direct_bakery,45,1.0,45,mock_data
+2024-02-04,macaron,direct_bakery,41,1.0,41,mock_data
+2024-02-11,macaron,direct_bakery,67,1.0,67,mock_data
+2024-02-18,macaron,direct_bakery,58,1.0,58,mock_data
+2024-02-25,macaron,direct_bakery,68,1.0,68,mock_data
+2024-03-03,macaron,direct_bakery,48,1.0,48,mock_data
+2024-03-10,macaron,direct_bakery,63,1.0,63,mock_data
+2024-03-17,macaron,direct_bakery,60,1.0,60,mock_data
+2024-03-24,macaron,direct_bakery,46,1.0,46,mock_data
+2024-03-31,macaron,direct_bakery,51,1.0,51,mock_data
+2024-04-07,macaron,direct_bakery,62,1.0,62,mock_data
+2024-04-14,macaron,direct_bakery,53,1.0,53,mock_data
+2024-04-21,macaron,direct_bakery,41,1.0,41,mock_data
+2024-04-28,macaron,direct_bakery,55,1.0,55,mock_data
+2024-05-05,macaron,direct_bakery,49,1.0,49,mock_data
+2024-05-12,macaron,direct_bakery,60,1.0,60,mock_data
+2024-05-19,macaron,direct_bakery,47,1.0,47,mock_data
+2024-05-26,macaron,direct_bakery,52,1.0,52,mock_data
+2024-06-02,macaron,direct_bakery,55,1.0,55,mock_data
+2024-06-09,macaron,direct_bakery,50,1.0,50,mock_data
+2024-06-16,macaron,direct_bakery,51,1.0,51,mock_data
+2024-06-23,macaron,direct_bakery,48,1.0,48,mock_data
+2024-06-30,macaron,direct_bakery,49,1.0,49,mock_data
+2024-07-07,macaron,direct_bakery,47,1.0,47,mock_data
+2024-07-14,macaron,direct_bakery,53,1.0,53,mock_data
+2024-07-21,macaron,direct_bakery,34,1.0,34,mock_data
+2024-07-28,macaron,direct_bakery,40,1.0,40,mock_data
+2024-08-04,macaron,direct_bakery,55,1.0,55,mock_data
+2024-08-11,macaron,direct_bakery,39,1.0,39,mock_data
+2024-08-18,macaron,direct_bakery,36,1.0,36,mock_data
+2024-08-25,macaron,direct_bakery,30,1.0,30,mock_data
+2024-09-01,macaron,direct_bakery,49,1.0,49,mock_data
+2024-09-08,macaron,direct_bakery,43,1.0,43,mock_data
+2024-09-15,macaron,direct_bakery,30,1.0,30,mock_data
+2024-09-22,macaron,direct_bakery,30,1.0,30,mock_data
+2024-09-29,macaron,direct_bakery,43,1.0,43,mock_data
+2024-10-06,macaron,direct_bakery,42,1.0,42,mock_data
+2024-10-13,macaron,direct_bakery,25,1.0,25,mock_data
+2024-10-20,macaron,direct_bakery,37,1.0,37,mock_data
+2024-10-27,macaron,direct_bakery,35,1.0,35,mock_data
+2024-11-03,macaron,direct_bakery,28,1.0,28,mock_data
+2024-11-10,macaron,direct_bakery,39,1.0,39,mock_data
+2024-11-17,macaron,direct_bakery,18,1.0,18,mock_data
+2024-11-24,macaron,direct_bakery,47,1.0,47,mock_data
+2024-12-01,macaron,direct_bakery,52,1.0,52,mock_data
+2024-12-08,macaron,direct_bakery,42,1.0,42,mock_data
+2024-12-15,macaron,direct_bakery,40,1.0,40,mock_data
+2024-12-22,macaron,direct_bakery,41,1.0,41,mock_data
+2024-12-29,macaron,direct_bakery,58,1.0,58,mock_data
+2024-01-07,bánh kem,direct_bakery,41,1.0,41,mock_data
+2024-01-14,bánh kem,direct_bakery,49,1.0,49,mock_data
+2024-01-21,bánh kem,direct_bakery,44,1.0,44,mock_data
+2024-01-28,bánh kem,direct_bakery,45,1.0,45,mock_data
+2024-02-04,bánh kem,direct_bakery,46,1.0,46,mock_data
+2024-02-11,bánh kem,direct_bakery,41,1.0,41,mock_data
+2024-02-18,bánh kem,direct_bakery,49,1.0,49,mock_data
+2024-02-25,bánh kem,direct_bakery,60,1.0,60,mock_data
+2024-03-03,bánh kem,direct_bakery,43,1.0,43,mock_data
+2024-03-10,bánh kem,direct_bakery,56,1.0,56,mock_data
+2024-03-17,bánh kem,direct_bakery,58,1.0,58,mock_data
+2024-03-24,bánh kem,direct_bakery,60,1.0,60,mock_data
+2024-03-31,bánh kem,direct_bakery,56,1.0,56,mock_data
+2024-04-07,bánh kem,direct_bakery,54,1.0,54,mock_data
+2024-04-14,bánh kem,direct_bakery,54,1.0,54,mock_data
+2024-04-21,bánh kem,direct_bakery,58,1.0,58,mock_data
+2024-04-28,bánh kem,direct_bakery,42,1.0,42,mock_data
+2024-05-05,bánh kem,direct_bakery,51,1.0,51,mock_data
+2024-05-12,bánh kem,direct_bakery,64,1.0,64,mock_data
+2024-05-19,bánh kem,direct_bakery,52,1.0,52,mock_data
+2024-05-26,bánh kem,direct_bakery,46,1.0,46,mock_data
+2024-06-02,bánh kem,direct_bakery,48,1.0,48,mock_data
+2024-06-09,bánh kem,direct_bakery,63,1.0,63,mock_data
+2024-06-16,bánh kem,direct_bakery,59,1.0,59,mock_data
+2024-06-23,bánh kem,direct_bakery,36,1.0,36,mock_data
+2024-06-30,bánh kem,direct_bakery,44,1.0,44,mock_data
+2024-07-07,bánh kem,direct_bakery,52,1.0,52,mock_data
+2024-07-14,bánh kem,direct_bakery,36,1.0,36,mock_data
+2024-07-21,bánh kem,direct_bakery,36,1.0,36,mock_data
+2024-07-28,bánh kem,direct_bakery,41,1.0,41,mock_data
+2024-08-04,bánh kem,direct_bakery,58,1.0,58,mock_data
+2024-08-11,bánh kem,direct_bakery,48,1.0,48,mock_data
+2024-08-18,bánh kem,direct_bakery,39,1.0,39,mock_data
+2024-08-25,bánh kem,direct_bakery,29,1.0,29,mock_data
+2024-09-01,bánh kem,direct_bakery,29,1.0,29,mock_data
+2024-09-08,bánh kem,direct_bakery,40,1.0,40,mock_data
+2024-09-15,bánh kem,direct_bakery,40,1.0,40,mock_data
+2024-09-22,bánh kem,direct_bakery,44,1.0,44,mock_data
+2024-09-29,bánh kem,direct_bakery,35,1.0,35,mock_data
+2024-10-06,bánh kem,direct_bakery,27,1.0,27,mock_data
+2024-10-13,bánh kem,direct_bakery,23,1.0,23,mock_data
+2024-10-20,bánh kem,direct_bakery,41,1.0,41,mock_data
+2024-10-27,bánh kem,direct_bakery,21,1.0,21,mock_data
+2024-11-03,bánh kem,direct_bakery,37,1.0,37,mock_data
+2024-11-10,bánh kem,direct_bakery,44,1.0,44,mock_data
+2024-11-17,bánh kem,direct_bakery,27,1.0,27,mock_data
+2024-11-24,bánh kem,direct_bakery,46,1.0,46,mock_data
+2024-12-01,bánh kem,direct_bakery,39,1.0,39,mock_data
+2024-12-08,bánh kem,direct_bakery,41,1.0,41,mock_data
+2024-12-15,bánh kem,direct_bakery,51,1.0,51,mock_data
+2024-12-22,bánh kem,direct_bakery,45,1.0,45,mock_data
+2024-12-29,bánh kem,direct_bakery,30,1.0,30,mock_data
+2024-01-07,newjeans,kpop_entertainment,84,0.85,71,mock_data
+2024-01-14,newjeans,kpop_entertainment,80,0.85,68,mock_data
+2024-01-21,newjeans,kpop_entertainment,73,0.85,62,mock_data
+2024-01-28,newjeans,kpop_entertainment,75,0.85,64,mock_data
+2024-02-04,newjeans,kpop_entertainment,82,0.85,69,mock_data
+2024-02-11,newjeans,kpop_entertainment,79,0.85,67,mock_data
+2024-02-18,newjeans,kpop_entertainment,95,0.85,80,mock_data
+2024-02-25,newjeans,kpop_entertainment,78,0.85,66,mock_data
+2024-03-03,newjeans,kpop_entertainment,100,0.85,85,mock_data
+2024-03-10,newjeans,kpop_entertainment,77,0.85,65,mock_data
+2024-03-17,newjeans,kpop_entertainment,82,0.85,70,mock_data
+2024-03-24,newjeans,kpop_entertainment,86,0.85,73,mock_data
+2024-03-31,newjeans,kpop_entertainment,85,0.85,72,mock_data
+2024-04-07,newjeans,kpop_entertainment,82,0.85,70,mock_data
+2024-04-14,newjeans,kpop_entertainment,60,0.85,51,mock_data
+2024-04-21,newjeans,kpop_entertainment,76,0.85,64,mock_data
+2024-04-28,newjeans,kpop_entertainment,70,0.85,59,mock_data
+2024-05-05,newjeans,kpop_entertainment,68,0.85,58,mock_data
+2024-05-12,newjeans,kpop_entertainment,62,0.85,53,mock_data
+2024-05-19,newjeans,kpop_entertainment,58,0.85,49,mock_data
+2024-05-26,newjeans,kpop_entertainment,65,0.85,55,mock_data
+2024-06-02,newjeans,kpop_entertainment,73,0.85,62,mock_data
+2024-06-09,newjeans,kpop_entertainment,100,0.85,85,mock_data
+2024-06-16,newjeans,kpop_entertainment,64,0.85,55,mock_data
+2024-06-23,newjeans,kpop_entertainment,66,0.85,56,mock_data
+2024-06-30,newjeans,kpop_entertainment,42,0.85,36,mock_data
+2024-07-07,newjeans,kpop_entertainment,49,0.85,42,mock_data
+2024-07-14,newjeans,kpop_entertainment,29,0.85,24,mock_data
+2024-07-21,newjeans,kpop_entertainment,36,0.85,30,mock_data
+2024-07-28,newjeans,kpop_entertainment,64,0.85,54,mock_data
+2024-08-04,newjeans,kpop_entertainment,78,0.85,67,mock_data
+2024-08-11,newjeans,kpop_entertainment,21,0.85,18,mock_data
+2024-08-18,newjeans,kpop_entertainment,71,0.85,61,mock_data
+2024-08-25,newjeans,kpop_entertainment,16,0.85,13,mock_data
+2024-09-01,newjeans,kpop_entertainment,100,0.85,85,mock_data
+2024-09-08,newjeans,kpop_entertainment,21,0.85,18,mock_data
+2024-09-15,newjeans,kpop_entertainment,15,0.85,13,mock_data
+2024-09-22,newjeans,kpop_entertainment,27,0.85,23,mock_data
+2024-09-29,newjeans,kpop_entertainment,14,0.85,12,mock_data
+2024-10-06,newjeans,kpop_entertainment,4,0.85,3,mock_data
+2024-10-13,newjeans,kpop_entertainment,14,0.85,12,mock_data
+2024-10-20,newjeans,kpop_entertainment,78,0.85,66,mock_data
+2024-10-27,newjeans,kpop_entertainment,82,0.85,70,mock_data
+2024-11-03,newjeans,kpop_entertainment,20,0.85,17,mock_data
+2024-11-10,newjeans,kpop_entertainment,13,0.85,11,mock_data
+2024-11-17,newjeans,kpop_entertainment,15,0.85,12,mock_data
+2024-11-24,newjeans,kpop_entertainment,5,0.85,5,mock_data
+2024-12-01,newjeans,kpop_entertainment,18,0.85,15,mock_data
+2024-12-08,newjeans,kpop_entertainment,20,0.85,17,mock_data
+2024-12-15,newjeans,kpop_entertainment,20,0.85,17,mock_data
+2024-12-22,newjeans,kpop_entertainment,14,0.85,12,mock_data
+2024-12-29,newjeans,kpop_entertainment,17,0.85,15,mock_data
+2024-01-07,ive,kpop_entertainment,65,0.85,55,mock_data
+2024-01-14,ive,kpop_entertainment,91,0.85,77,mock_data
+2024-01-21,ive,kpop_entertainment,91,0.85,77,mock_data
+2024-01-28,ive,kpop_entertainment,100,0.85,85,mock_data
+2024-02-04,ive,kpop_entertainment,77,0.85,66,mock_data
+2024-02-11,ive,kpop_entertainment,100,0.85,85,mock_data
+2024-02-18,ive,kpop_entertainment,82,0.85,69,mock_data
+2024-02-25,ive,kpop_entertainment,71,0.85,60,mock_data
+2024-03-03,ive,kpop_entertainment,100,0.85,85,mock_data
+2024-03-10,ive,kpop_entertainment,100,0.85,85,mock_data
+2024-03-17,ive,kpop_entertainment,100,0.85,85,mock_data
+2024-03-24,ive,kpop_entertainment,99,0.85,84,mock_data
+2024-03-31,ive,kpop_entertainment,100,0.85,85,mock_data
+2024-04-07,ive,kpop_entertainment,83,0.85,70,mock_data
+2024-04-14,ive,kpop_entertainment,67,0.85,57,mock_data
+2024-04-21,ive,kpop_entertainment,59,0.85,50,mock_data
+2024-04-28,ive,kpop_entertainment,82,0.85,70,mock_data
+2024-05-05,ive,kpop_entertainment,54,0.85,46,mock_data
+2024-05-12,ive,kpop_entertainment,59,0.85,50,mock_data
+2024-05-19,ive,kpop_entertainment,100,0.85,85,mock_data
+2024-05-26,ive,kpop_entertainment,87,0.85,74,mock_data
+2024-06-02,ive,kpop_entertainment,44,0.85,37,mock_data
+2024-06-09,ive,kpop_entertainment,74,0.85,63,mock_data
+2024-06-16,ive,kpop_entertainment,62,0.85,52,mock_data
+2024-06-23,ive,kpop_entertainment,52,0.85,44,mock_data
+2024-06-30,ive,kpop_entertainment,95,0.85,81,mock_data
+2024-07-07,ive,kpop_entertainment,44,0.85,37,mock_data
+2024-07-14,ive,kpop_entertainment,19,0.85,16,mock_data
+2024-07-21,ive,kpop_entertainment,29,0.85,25,mock_data
+2024-07-28,ive,kpop_entertainment,11,0.85,9,mock_data
+2024-08-04,ive,kpop_entertainment,26,0.85,22,mock_data
+2024-08-11,ive,kpop_entertainment,37,0.85,31,mock_data
+2024-08-18,ive,kpop_entertainment,24,0.85,21,mock_data
+2024-08-25,ive,kpop_entertainment,29,0.85,24,mock_data
+2024-09-01,ive,kpop_entertainment,19,0.85,16,mock_data
+2024-09-08,ive,kpop_entertainment,20,0.85,17,mock_data
+2024-09-15,ive,kpop_entertainment,17,0.85,15,mock_data
+2024-09-22,ive,kpop_entertainment,32,0.85,28,mock_data
+2024-09-29,ive,kpop_entertainment,0,0.85,0,mock_data
+2024-10-06,ive,kpop_entertainment,77,0.85,66,mock_data
+2024-10-13,ive,kpop_entertainment,18,0.85,16,mock_data
+2024-10-20,ive,kpop_entertainment,9,0.85,8,mock_data
+2024-10-27,ive,kpop_entertainment,9,0.85,8,mock_data
+2024-11-03,ive,kpop_entertainment,0,0.85,0,mock_data
+2024-11-10,ive,kpop_entertainment,23,0.85,19,mock_data
+2024-11-17,ive,kpop_entertainment,3,0.85,3,mock_data
+2024-11-24,ive,kpop_entertainment,10,0.85,9,mock_data
+2024-12-01,ive,kpop_entertainment,0,0.85,0,mock_data
+2024-12-08,ive,kpop_entertainment,47,0.85,40,mock_data
+2024-12-15,ive,kpop_entertainment,21,0.85,18,mock_data
+2024-12-22,ive,kpop_entertainment,13,0.85,11,mock_data
+2024-12-29,ive,kpop_entertainment,42,0.85,35,mock_data
+2024-01-07,aespa,kpop_entertainment,69,0.85,59,mock_data
+2024-01-14,aespa,kpop_entertainment,64,0.85,54,mock_data
+2024-01-21,aespa,kpop_entertainment,68,0.85,58,mock_data
+2024-01-28,aespa,kpop_entertainment,65,0.85,55,mock_data
+2024-02-04,aespa,kpop_entertainment,75,0.85,64,mock_data
+2024-02-11,aespa,kpop_entertainment,76,0.85,65,mock_data
+2024-02-18,aespa,kpop_entertainment,76,0.85,65,mock_data
+2024-02-25,aespa,kpop_entertainment,83,0.85,71,mock_data
+2024-03-03,aespa,kpop_entertainment,64,0.85,55,mock_data
+2024-03-10,aespa,kpop_entertainment,60,0.85,51,mock_data
+2024-03-17,aespa,kpop_entertainment,62,0.85,53,mock_data
+2024-03-24,aespa,kpop_entertainment,62,0.85,53,mock_data
+2024-03-31,aespa,kpop_entertainment,56,0.85,47,mock_data
+2024-04-07,aespa,kpop_entertainment,61,0.85,52,mock_data
+2024-04-14,aespa,kpop_entertainment,77,0.85,66,mock_data
+2024-04-21,aespa,kpop_entertainment,51,0.85,44,mock_data
+2024-04-28,aespa,kpop_entertainment,100,0.85,85,mock_data
+2024-05-05,aespa,kpop_entertainment,60,0.85,51,mock_data
+2024-05-12,aespa,kpop_entertainment,95,0.85,80,mock_data
+2024-05-19,aespa,kpop_entertainment,69,0.85,58,mock_data
+2024-05-26,aespa,kpop_entertainment,50,0.85,43,mock_data
+2024-06-02,aespa,kpop_entertainment,45,0.85,38,mock_data
+2024-06-09,aespa,kpop_entertainment,51,0.85,44,mock_data
+2024-06-16,aespa,kpop_entertainment,63,0.85,53,mock_data
+2024-06-23,aespa,kpop_entertainment,36,0.85,31,mock_data
+2024-06-30,aespa,kpop_entertainment,31,0.85,27,mock_data
+2024-07-07,aespa,kpop_entertainment,32,0.85,27,mock_data
+2024-07-14,aespa,kpop_entertainment,82,0.85,70,mock_data
+2024-07-21,aespa,kpop_entertainment,36,0.85,31,mock_data
+2024-07-28,aespa,kpop_entertainment,24,0.85,21,mock_data
+2024-08-04,aespa,kpop_entertainment,25,0.85,21,mock_data
+2024-08-11,aespa,kpop_entertainment,52,0.85,44,mock_data
+2024-08-18,aespa,kpop_entertainment,69,0.85,58,mock_data
+2024-08-25,aespa,kpop_entertainment,27,0.85,23,mock_data
+2024-09-01,aespa,kpop_entertainment,26,0.85,22,mock_data
+2024-09-08,aespa,kpop_entertainment,12,0.85,11,mock_data
+2024-09-15,aespa,kpop_entertainment,13,0.85,11,mock_data
+2024-09-22,aespa,kpop_entertainment,0,0.85,0,mock_data
+2024-09-29,aespa,kpop_entertainment,7,0.85,6,mock_data
+2024-10-06,aespa,kpop_entertainment,35,0.85,30,mock_data
+2024-10-13,aespa,kpop_entertainment,10,0.85,8,mock_data
+2024-10-20,aespa,kpop_entertainment,1,0.85,1,mock_data
+2024-10-27,aespa,kpop_entertainment,4,0.85,4,mock_data
+2024-11-03,aespa,kpop_entertainment,6,0.85,5,mock_data
+2024-11-10,aespa,kpop_entertainment,5,0.85,4,mock_data
+2024-11-17,aespa,kpop_entertainment,7,0.85,6,mock_data
+2024-11-24,aespa,kpop_entertainment,4,0.85,3,mock_data
+2024-12-01,aespa,kpop_entertainment,17,0.85,14,mock_data
+2024-12-08,aespa,kpop_entertainment,12,0.85,10,mock_data
+2024-12-15,aespa,kpop_entertainment,39,0.85,33,mock_data
+2024-12-22,aespa,kpop_entertainment,5,0.85,4,mock_data
+2024-12-29,aespa,kpop_entertainment,33,0.85,28,mock_data
+2024-01-07,le sserafim,kpop_entertainment,100,0.85,85,mock_data
+2024-01-14,le sserafim,kpop_entertainment,65,0.85,55,mock_data
+2024-01-21,le sserafim,kpop_entertainment,69,0.85,59,mock_data
+2024-01-28,le sserafim,kpop_entertainment,100,0.85,85,mock_data
+2024-02-04,le sserafim,kpop_entertainment,62,0.85,52,mock_data
+2024-02-11,le sserafim,kpop_entertainment,70,0.85,59,mock_data
+2024-02-18,le sserafim,kpop_entertainment,100,0.85,85,mock_data
+2024-02-25,le sserafim,kpop_entertainment,70,0.85,59,mock_data
+2024-03-03,le sserafim,kpop_entertainment,80,0.85,68,mock_data
+2024-03-10,le sserafim,kpop_entertainment,74,0.85,63,mock_data
+2024-03-17,le sserafim,kpop_entertainment,55,0.85,47,mock_data
+2024-03-24,le sserafim,kpop_entertainment,77,0.85,65,mock_data
+2024-03-31,le sserafim,kpop_entertainment,61,0.85,52,mock_data
+2024-04-07,le sserafim,kpop_entertainment,64,0.85,55,mock_data
+2024-04-14,le sserafim,kpop_entertainment,82,0.85,69,mock_data
+2024-04-21,le sserafim,kpop_entertainment,84,0.85,72,mock_data
+2024-04-28,le sserafim,kpop_entertainment,48,0.85,41,mock_data
+2024-05-05,le sserafim,kpop_entertainment,73,0.85,62,mock_data
+2024-05-12,le sserafim,kpop_entertainment,69,0.85,59,mock_data
+2024-05-19,le sserafim,kpop_entertainment,43,0.85,36,mock_data
+2024-05-26,le sserafim,kpop_entertainment,45,0.85,39,mock_data
+2024-06-02,le sserafim,kpop_entertainment,46,0.85,39,mock_data
+2024-06-09,le sserafim,kpop_entertainment,69,0.85,59,mock_data
+2024-06-16,le sserafim,kpop_entertainment,37,0.85,32,mock_data
+2024-06-23,le sserafim,kpop_entertainment,37,0.85,32,mock_data
+2024-06-30,le sserafim,kpop_entertainment,23,0.85,19,mock_data
+2024-07-07,le sserafim,kpop_entertainment,21,0.85,18,mock_data
+2024-07-14,le sserafim,kpop_entertainment,29,0.85,25,mock_data
+2024-07-21,le sserafim,kpop_entertainment,23,0.85,20,mock_data
+2024-07-28,le sserafim,kpop_entertainment,41,0.85,35,mock_data
+2024-08-04,le sserafim,kpop_entertainment,18,0.85,15,mock_data
+2024-08-11,le sserafim,kpop_entertainment,50,0.85,43,mock_data
+2024-08-18,le sserafim,kpop_entertainment,21,0.85,18,mock_data
+2024-08-25,le sserafim,kpop_entertainment,20,0.85,17,mock_data
+2024-09-01,le sserafim,kpop_entertainment,73,0.85,62,mock_data
+2024-09-08,le sserafim,kpop_entertainment,73,0.85,62,mock_data
+2024-09-15,le sserafim,kpop_entertainment,26,0.85,22,mock_data
+2024-09-22,le sserafim,kpop_entertainment,11,0.85,9,mock_data
+2024-09-29,le sserafim,kpop_entertainment,10,0.85,9,mock_data
+2024-10-06,le sserafim,kpop_entertainment,4,0.85,4,mock_data
+2024-10-13,le sserafim,kpop_entertainment,6,0.85,5,mock_data
+2024-10-20,le sserafim,kpop_entertainment,34,0.85,29,mock_data
+2024-10-27,le sserafim,kpop_entertainment,8,0.85,6,mock_data
+2024-11-03,le sserafim,kpop_entertainment,25,0.85,21,mock_data
+2024-11-10,le sserafim,kpop_entertainment,12,0.85,10,mock_data
+2024-11-17,le sserafim,kpop_entertainment,6,0.85,5,mock_data
+2024-11-24,le sserafim,kpop_entertainment,1,0.85,1,mock_data
+2024-12-01,le sserafim,kpop_entertainment,31,0.85,26,mock_data
+2024-12-08,le sserafim,kpop_entertainment,49,0.85,42,mock_data
+2024-12-15,le sserafim,kpop_entertainment,11,0.85,9,mock_data
+2024-12-22,le sserafim,kpop_entertainment,13,0.85,11,mock_data
+2024-12-29,le sserafim,kpop_entertainment,17,0.85,14,mock_data
+2024-01-07,bts,kpop_entertainment,100,0.85,85,mock_data
+2024-01-14,bts,kpop_entertainment,73,0.85,62,mock_data
+2024-01-21,bts,kpop_entertainment,100,0.85,85,mock_data
+2024-01-28,bts,kpop_entertainment,100,0.85,85,mock_data
+2024-02-04,bts,kpop_entertainment,72,0.85,61,mock_data
+2024-02-11,bts,kpop_entertainment,66,0.85,56,mock_data
+2024-02-18,bts,kpop_entertainment,100,0.85,85,mock_data
+2024-02-25,bts,kpop_entertainment,62,0.85,53,mock_data
+2024-03-03,bts,kpop_entertainment,62,0.85,53,mock_data
+2024-03-10,bts,kpop_entertainment,96,0.85,81,mock_data
+2024-03-17,bts,kpop_entertainment,100,0.85,85,mock_data
+2024-03-24,bts,kpop_entertainment,59,0.85,50,mock_data
+2024-03-31,bts,kpop_entertainment,62,0.85,53,mock_data
+2024-04-07,bts,kpop_entertainment,42,0.85,36,mock_data
+2024-04-14,bts,kpop_entertainment,51,0.85,44,mock_data
+2024-04-21,bts,kpop_entertainment,59,0.85,50,mock_data
+2024-04-28,bts,kpop_entertainment,59,0.85,50,mock_data
+2024-05-05,bts,kpop_entertainment,53,0.85,45,mock_data
+2024-05-12,bts,kpop_entertainment,100,0.85,85,mock_data
+2024-05-19,bts,kpop_entertainment,51,0.85,44,mock_data
+2024-05-26,bts,kpop_entertainment,34,0.85,29,mock_data
+2024-06-02,bts,kpop_entertainment,85,0.85,73,mock_data
+2024-06-09,bts,kpop_entertainment,44,0.85,37,mock_data
+2024-06-16,bts,kpop_entertainment,36,0.85,31,mock_data
+2024-06-23,bts,kpop_entertainment,70,0.85,59,mock_data
+2024-06-30,bts,kpop_entertainment,33,0.85,28,mock_data
+2024-07-07,bts,kpop_entertainment,20,0.85,17,mock_data
+2024-07-14,bts,kpop_entertainment,29,0.85,25,mock_data
+2024-07-21,bts,kpop_entertainment,27,0.85,23,mock_data
+2024-07-28,bts,kpop_entertainment,30,0.85,25,mock_data
+2024-08-04,bts,kpop_entertainment,28,0.85,24,mock_data
+2024-08-11,bts,kpop_entertainment,27,0.85,23,mock_data
+2024-08-18,bts,kpop_entertainment,19,0.85,16,mock_data
+2024-08-25,bts,kpop_entertainment,21,0.85,17,mock_data
+2024-09-01,bts,kpop_entertainment,9,0.85,8,mock_data
+2024-09-08,bts,kpop_entertainment,11,0.85,9,mock_data
+2024-09-15,bts,kpop_entertainment,4,0.85,3,mock_data
+2024-09-22,bts,kpop_entertainment,35,0.85,30,mock_data
+2024-09-29,bts,kpop_entertainment,12,0.85,11,mock_data
+2024-10-06,bts,kpop_entertainment,6,0.85,5,mock_data
+2024-10-13,bts,kpop_entertainment,15,0.85,13,mock_data
+2024-10-20,bts,kpop_entertainment,0,0.85,0,mock_data
+2024-10-27,bts,kpop_entertainment,10,0.85,8,mock_data
+2024-11-03,bts,kpop_entertainment,20,0.85,17,mock_data
+2024-11-10,bts,kpop_entertainment,53,0.85,45,mock_data
+2024-11-17,bts,kpop_entertainment,21,0.85,17,mock_data
+2024-11-24,bts,kpop_entertainment,5,0.85,4,mock_data
+2024-12-01,bts,kpop_entertainment,14,0.85,12,mock_data
+2024-12-08,bts,kpop_entertainment,8,0.85,7,mock_data
+2024-12-15,bts,kpop_entertainment,0,0.85,0,mock_data
+2024-12-22,bts,kpop_entertainment,11,0.85,9,mock_data
+2024-12-29,bts,kpop_entertainment,47,0.85,40,mock_data
+2024-01-07,labubu,character_ip,73,0.9,65,mock_data
+2024-01-14,labubu,character_ip,74,0.9,66,mock_data
+2024-01-21,labubu,character_ip,68,0.9,61,mock_data
+2024-01-28,labubu,character_ip,74,0.9,66,mock_data
+2024-02-04,labubu,character_ip,98,0.9,88,mock_data
+2024-02-11,labubu,character_ip,53,0.9,48,mock_data
+2024-02-18,labubu,character_ip,69,0.9,62,mock_data
+2024-02-25,labubu,character_ip,69,0.9,62,mock_data
+2024-03-03,labubu,character_ip,68,0.9,61,mock_data
+2024-03-10,labubu,character_ip,97,0.9,88,mock_data
+2024-03-17,labubu,character_ip,63,0.9,56,mock_data
+2024-03-24,labubu,character_ip,65,0.9,59,mock_data
+2024-03-31,labubu,character_ip,72,0.9,65,mock_data
+2024-04-07,labubu,character_ip,94,0.9,85,mock_data
+2024-04-14,labubu,character_ip,96,0.9,86,mock_data
+2024-04-21,labubu,character_ip,77,0.9,70,mock_data
+2024-04-28,labubu,character_ip,82,0.9,73,mock_data
+2024-05-05,labubu,character_ip,74,0.9,66,mock_data
+2024-05-12,labubu,character_ip,70,0.9,63,mock_data
+2024-05-19,labubu,character_ip,77,0.9,69,mock_data
+2024-05-26,labubu,character_ip,81,0.9,73,mock_data
+2024-06-02,labubu,character_ip,72,0.9,65,mock_data
+2024-06-09,labubu,character_ip,99,0.9,89,mock_data
+2024-06-16,labubu,character_ip,78,0.9,70,mock_data
+2024-06-23,labubu,character_ip,72,0.9,65,mock_data
+2024-06-30,labubu,character_ip,66,0.9,59,mock_data
+2024-07-07,labubu,character_ip,60,0.9,54,mock_data
+2024-07-14,labubu,character_ip,56,0.9,50,mock_data
+2024-07-21,labubu,character_ip,73,0.9,66,mock_data
+2024-07-28,labubu,character_ip,79,0.9,71,mock_data
+2024-08-04,labubu,character_ip,69,0.9,62,mock_data
+2024-08-11,labubu,character_ip,45,0.9,40,mock_data
+2024-08-18,labubu,character_ip,51,0.9,46,mock_data
+2024-08-25,labubu,character_ip,94,0.9,84,mock_data
+2024-09-01,labubu,character_ip,72,0.9,65,mock_data
+2024-09-08,labubu,character_ip,56,0.9,50,mock_data
+2024-09-15,labubu,character_ip,58,0.9,52,mock_data
+2024-09-22,labubu,character_ip,100,0.9,90,mock_data
+2024-09-29,labubu,character_ip,43,0.9,38,mock_data
+2024-10-06,labubu,character_ip,91,0.9,82,mock_data
+2024-10-13,labubu,character_ip,69,0.9,62,mock_data
+2024-10-20,labubu,character_ip,67,0.9,60,mock_data
+2024-10-27,labubu,character_ip,61,0.9,55,mock_data
+2024-11-03,labubu,character_ip,86,0.9,77,mock_data
+2024-11-10,labubu,character_ip,65,0.9,58,mock_data
+2024-11-17,labubu,character_ip,63,0.9,56,mock_data
+2024-11-24,labubu,character_ip,84,0.9,76,mock_data
+2024-12-01,labubu,character_ip,84,0.9,75,mock_data
+2024-12-08,labubu,character_ip,100,0.9,90,mock_data
+2024-12-15,labubu,character_ip,74,0.9,67,mock_data
+2024-12-22,labubu,character_ip,62,0.9,55,mock_data
+2024-12-29,labubu,character_ip,59,0.9,53,mock_data
+2024-01-07,hello kitty,character_ip,91,0.9,82,mock_data
+2024-01-14,hello kitty,character_ip,76,0.9,68,mock_data
+2024-01-21,hello kitty,character_ip,64,0.9,58,mock_data
+2024-01-28,hello kitty,character_ip,63,0.9,56,mock_data
+2024-02-04,hello kitty,character_ip,71,0.9,64,mock_data
+2024-02-11,hello kitty,character_ip,56,0.9,51,mock_data
+2024-02-18,hello kitty,character_ip,71,0.9,64,mock_data
+2024-02-25,hello kitty,character_ip,70,0.9,63,mock_data
+2024-03-03,hello kitty,character_ip,60,0.9,54,mock_data
+2024-03-10,hello kitty,character_ip,81,0.9,73,mock_data
+2024-03-17,hello kitty,character_ip,86,0.9,77,mock_data
+2024-03-24,hello kitty,character_ip,83,0.9,75,mock_data
+2024-03-31,hello kitty,character_ip,82,0.9,73,mock_data
+2024-04-07,hello kitty,character_ip,100,0.9,90,mock_data
+2024-04-14,hello kitty,character_ip,81,0.9,73,mock_data
+2024-04-21,hello kitty,character_ip,100,0.9,90,mock_data
+2024-04-28,hello kitty,character_ip,100,0.9,90,mock_data
+2024-05-05,hello kitty,character_ip,70,0.9,63,mock_data
+2024-05-12,hello kitty,character_ip,68,0.9,61,mock_data
+2024-05-19,hello kitty,character_ip,92,0.9,83,mock_data
+2024-05-26,hello kitty,character_ip,71,0.9,64,mock_data
+2024-06-02,hello kitty,character_ip,69,0.9,62,mock_data
+2024-06-09,hello kitty,character_ip,67,0.9,60,mock_data
+2024-06-16,hello kitty,character_ip,96,0.9,87,mock_data
+2024-06-23,hello kitty,character_ip,62,0.9,56,mock_data
+2024-06-30,hello kitty,character_ip,51,0.9,46,mock_data
+2024-07-07,hello kitty,character_ip,62,0.9,56,mock_data
+2024-07-14,hello kitty,character_ip,57,0.9,51,mock_data
+2024-07-21,hello kitty,character_ip,58,0.9,52,mock_data
+2024-07-28,hello kitty,character_ip,61,0.9,55,mock_data
+2024-08-04,hello kitty,character_ip,41,0.9,37,mock_data
+2024-08-11,hello kitty,character_ip,46,0.9,41,mock_data
+2024-08-18,hello kitty,character_ip,59,0.9,53,mock_data
+2024-08-25,hello kitty,character_ip,64,0.9,58,mock_data
+2024-09-01,hello kitty,character_ip,59,0.9,53,mock_data
+2024-09-08,hello kitty,character_ip,55,0.9,49,mock_data
+2024-09-15,hello kitty,character_ip,44,0.9,39,mock_data
+2024-09-22,hello kitty,character_ip,60,0.9,54,mock_data
+2024-09-29,hello kitty,character_ip,90,0.9,81,mock_data
+2024-10-06,hello kitty,character_ip,62,0.9,56,mock_data
+2024-10-13,hello kitty,character_ip,92,0.9,82,mock_data
+2024-10-20,hello kitty,character_ip,81,0.9,73,mock_data
+2024-10-27,hello kitty,character_ip,54,0.9,48,mock_data
+2024-11-03,hello kitty,character_ip,57,0.9,52,mock_data
+2024-11-10,hello kitty,character_ip,60,0.9,54,mock_data
+2024-11-17,hello kitty,character_ip,51,0.9,46,mock_data
+2024-11-24,hello kitty,character_ip,100,0.9,90,mock_data
+2024-12-01,hello kitty,character_ip,89,0.9,80,mock_data
+2024-12-08,hello kitty,character_ip,57,0.9,51,mock_data
+2024-12-15,hello kitty,character_ip,61,0.9,55,mock_data
+2024-12-22,hello kitty,character_ip,72,0.9,65,mock_data
+2024-12-29,hello kitty,character_ip,60,0.9,54,mock_data
+2024-01-07,pokemon,character_ip,62,0.9,55,mock_data
+2024-01-14,pokemon,character_ip,100,0.9,90,mock_data
+2024-01-21,pokemon,character_ip,77,0.9,70,mock_data
+2024-01-28,pokemon,character_ip,70,0.9,63,mock_data
+2024-02-04,pokemon,character_ip,66,0.9,60,mock_data
+2024-02-11,pokemon,character_ip,75,0.9,68,mock_data
+2024-02-18,pokemon,character_ip,65,0.9,59,mock_data
+2024-02-25,pokemon,character_ip,72,0.9,65,mock_data
+2024-03-03,pokemon,character_ip,79,0.9,71,mock_data
+2024-03-10,pokemon,character_ip,99,0.9,89,mock_data
+2024-03-17,pokemon,character_ip,75,0.9,68,mock_data
+2024-03-24,pokemon,character_ip,90,0.9,81,mock_data
+2024-03-31,pokemon,character_ip,78,0.9,70,mock_data
+2024-04-07,pokemon,character_ip,68,0.9,61,mock_data
+2024-04-14,pokemon,character_ip,71,0.9,64,mock_data
+2024-04-21,pokemon,character_ip,86,0.9,77,mock_data
+2024-04-28,pokemon,character_ip,76,0.9,68,mock_data
+2024-05-05,pokemon,character_ip,96,0.9,86,mock_data
+2024-05-12,pokemon,character_ip,72,0.9,65,mock_data
+2024-05-19,pokemon,character_ip,80,0.9,72,mock_data
+2024-05-26,pokemon,character_ip,72,0.9,65,mock_data
+2024-06-02,pokemon,character_ip,82,0.9,73,mock_data
+2024-06-09,pokemon,character_ip,66,0.9,59,mock_data
+2024-06-16,pokemon,character_ip,55,0.9,50,mock_data
+2024-06-23,pokemon,character_ip,96,0.9,87,mock_data
+2024-06-30,pokemon,character_ip,51,0.9,45,mock_data
+2024-07-07,pokemon,character_ip,100,0.9,90,mock_data
+2024-07-14,pokemon,character_ip,70,0.9,63,mock_data
+2024-07-21,pokemon,character_ip,71,0.9,63,mock_data
+2024-07-28,pokemon,character_ip,62,0.9,56,mock_data
+2024-08-04,pokemon,character_ip,58,0.9,52,mock_data
+2024-08-11,pokemon,character_ip,75,0.9,68,mock_data
+2024-08-18,pokemon,character_ip,93,0.9,84,mock_data
+2024-08-25,pokemon,character_ip,57,0.9,51,mock_data
+2024-09-01,pokemon,character_ip,44,0.9,40,mock_data
+2024-09-08,pokemon,character_ip,67,0.9,60,mock_data
+2024-09-15,pokemon,character_ip,47,0.9,42,mock_data
+2024-09-22,pokemon,character_ip,64,0.9,58,mock_data
+2024-09-29,pokemon,character_ip,54,0.9,48,mock_data
+2024-10-06,pokemon,character_ip,58,0.9,53,mock_data
+2024-10-13,pokemon,character_ip,68,0.9,61,mock_data
+2024-10-20,pokemon,character_ip,81,0.9,73,mock_data
+2024-10-27,pokemon,character_ip,60,0.9,54,mock_data
+2024-11-03,pokemon,character_ip,78,0.9,70,mock_data
+2024-11-10,pokemon,character_ip,85,0.9,77,mock_data
+2024-11-17,pokemon,character_ip,54,0.9,49,mock_data
+2024-11-24,pokemon,character_ip,100,0.9,90,mock_data
+2024-12-01,pokemon,character_ip,72,0.9,65,mock_data
+2024-12-08,pokemon,character_ip,51,0.9,46,mock_data
+2024-12-15,pokemon,character_ip,65,0.9,59,mock_data
+2024-12-22,pokemon,character_ip,97,0.9,87,mock_data
+2024-12-29,pokemon,character_ip,70,0.9,63,mock_data
+2024-01-07,genshin impact,character_ip,69,0.9,62,mock_data
+2024-01-14,genshin impact,character_ip,60,0.9,54,mock_data
+2024-01-21,genshin impact,character_ip,78,0.9,70,mock_data
+2024-01-28,genshin impact,character_ip,100,0.9,90,mock_data
+2024-02-04,genshin impact,character_ip,77,0.9,69,mock_data
+2024-02-11,genshin impact,character_ip,76,0.9,68,mock_data
+2024-02-18,genshin impact,character_ip,78,0.9,71,mock_data
+2024-02-25,genshin impact,character_ip,69,0.9,62,mock_data
+2024-03-03,genshin impact,character_ip,61,0.9,55,mock_data
+2024-03-10,genshin impact,character_ip,78,0.9,70,mock_data
+2024-03-17,genshin impact,character_ip,69,0.9,62,mock_data
+2024-03-24,genshin impact,character_ip,88,0.9,79,mock_data
+2024-03-31,genshin impact,character_ip,100,0.9,90,mock_data
+2024-04-07,genshin impact,character_ip,85,0.9,76,mock_data
+2024-04-14,genshin impact,character_ip,100,0.9,90,mock_data
+2024-04-21,genshin impact,character_ip,74,0.9,67,mock_data
+2024-04-28,genshin impact,character_ip,68,0.9,61,mock_data
+2024-05-05,genshin impact,character_ip,83,0.9,75,mock_data
+2024-05-12,genshin impact,character_ip,71,0.9,64,mock_data
+2024-05-19,genshin impact,character_ip,64,0.9,58,mock_data
+2024-05-26,genshin impact,character_ip,85,0.9,76,mock_data
+2024-06-02,genshin impact,character_ip,74,0.9,67,mock_data
+2024-06-09,genshin impact,character_ip,50,0.9,45,mock_data
+2024-06-16,genshin impact,character_ip,67,0.9,60,mock_data
+2024-06-23,genshin impact,character_ip,67,0.9,60,mock_data
+2024-06-30,genshin impact,character_ip,100,0.9,90,mock_data
+2024-07-07,genshin impact,character_ip,59,0.9,53,mock_data
+2024-07-14,genshin impact,character_ip,92,0.9,83,mock_data
+2024-07-21,genshin impact,character_ip,70,0.9,63,mock_data
+2024-07-28,genshin impact,character_ip,70,0.9,63,mock_data
+2024-08-04,genshin impact,character_ip,60,0.9,54,mock_data
+2024-08-11,genshin impact,character_ip,78,0.9,70,mock_data
+2024-08-18,genshin impact,character_ip,56,0.9,50,mock_data
+2024-08-25,genshin impact,character_ip,58,0.9,52,mock_data
+2024-09-01,genshin impact,character_ip,67,0.9,60,mock_data
+2024-09-08,genshin impact,character_ip,63,0.9,57,mock_data
+2024-09-15,genshin impact,character_ip,57,0.9,52,mock_data
+2024-09-22,genshin impact,character_ip,99,0.9,89,mock_data
+2024-09-29,genshin impact,character_ip,57,0.9,52,mock_data
+2024-10-06,genshin impact,character_ip,69,0.9,62,mock_data
+2024-10-13,genshin impact,character_ip,60,0.9,54,mock_data
+2024-10-20,genshin impact,character_ip,100,0.9,90,mock_data
+2024-10-27,genshin impact,character_ip,76,0.9,69,mock_data
+2024-11-03,genshin impact,character_ip,72,0.9,65,mock_data
+2024-11-10,genshin impact,character_ip,52,0.9,47,mock_data
+2024-11-17,genshin impact,character_ip,69,0.9,62,mock_data
+2024-11-24,genshin impact,character_ip,100,0.9,90,mock_data
+2024-12-01,genshin impact,character_ip,58,0.9,52,mock_data
+2024-12-08,genshin impact,character_ip,70,0.9,63,mock_data
+2024-12-15,genshin impact,character_ip,70,0.9,63,mock_data
+2024-12-22,genshin impact,character_ip,74,0.9,67,mock_data
+2024-12-29,genshin impact,character_ip,62,0.9,56,mock_data
+2024-01-07,minions,character_ip,71,0.9,64,mock_data
+2024-01-14,minions,character_ip,71,0.9,64,mock_data
+2024-01-21,minions,character_ip,63,0.9,56,mock_data
+2024-01-28,minions,character_ip,77,0.9,69,mock_data
+2024-02-04,minions,character_ip,78,0.9,70,mock_data
+2024-02-11,minions,character_ip,100,0.9,90,mock_data
+2024-02-18,minions,character_ip,73,0.9,66,mock_data
+2024-02-25,minions,character_ip,78,0.9,71,mock_data
+2024-03-03,minions,character_ip,70,0.9,63,mock_data
+2024-03-10,minions,character_ip,100,0.9,90,mock_data
+2024-03-17,minions,character_ip,100,0.9,90,mock_data
+2024-03-24,minions,character_ip,73,0.9,66,mock_data
+2024-03-31,minions,character_ip,80,0.9,72,mock_data
+2024-04-07,minions,character_ip,100,0.9,90,mock_data
+2024-04-14,minions,character_ip,76,0.9,69,mock_data
+2024-04-21,minions,character_ip,100,0.9,90,mock_data
+2024-04-28,minions,character_ip,70,0.9,63,mock_data
+2024-05-05,minions,character_ip,81,0.9,73,mock_data
+2024-05-12,minions,character_ip,82,0.9,74,mock_data
+2024-05-19,minions,character_ip,79,0.9,71,mock_data
+2024-05-26,minions,character_ip,85,0.9,76,mock_data
+2024-06-02,minions,character_ip,77,0.9,69,mock_data
+2024-06-09,minions,character_ip,66,0.9,59,mock_data
+2024-06-16,minions,character_ip,68,0.9,61,mock_data
+2024-06-23,minions,character_ip,71,0.9,64,mock_data
+2024-06-30,minions,character_ip,83,0.9,75,mock_data
+2024-07-07,minions,character_ip,78,0.9,70,mock_data
+2024-07-14,minions,character_ip,56,0.9,51,mock_data
+2024-07-21,minions,character_ip,50,0.9,45,mock_data
+2024-07-28,minions,character_ip,93,0.9,84,mock_data
+2024-08-04,minions,character_ip,66,0.9,59,mock_data
+2024-08-11,minions,character_ip,55,0.9,49,mock_data
+2024-08-18,minions,character_ip,63,0.9,57,mock_data
+2024-08-25,minions,character_ip,37,0.9,33,mock_data
+2024-09-01,minions,character_ip,87,0.9,78,mock_data
+2024-09-08,minions,character_ip,100,0.9,90,mock_data
+2024-09-15,minions,character_ip,45,0.9,40,mock_data
+2024-09-22,minions,character_ip,44,0.9,39,mock_data
+2024-09-29,minions,character_ip,82,0.9,73,mock_data
+2024-10-06,minions,character_ip,66,0.9,59,mock_data
+2024-10-13,minions,character_ip,57,0.9,51,mock_data
+2024-10-20,minions,character_ip,43,0.9,38,mock_data
+2024-10-27,minions,character_ip,66,0.9,59,mock_data
+2024-11-03,minions,character_ip,61,0.9,55,mock_data
+2024-11-10,minions,character_ip,63,0.9,56,mock_data
+2024-11-17,minions,character_ip,58,0.9,52,mock_data
+2024-11-24,minions,character_ip,64,0.9,57,mock_data
+2024-12-01,minions,character_ip,71,0.9,64,mock_data
+2024-12-08,minions,character_ip,64,0.9,58,mock_data
+2024-12-15,minions,character_ip,53,0.9,48,mock_data
+2024-12-22,minions,character_ip,73,0.9,66,mock_data
+2024-12-29,minions,character_ip,62,0.9,55,mock_data
+2024-01-07,tết nguyên đán,social_events,62,0.95,58,mock_data
+2024-01-14,tết nguyên đán,social_events,43,0.95,40,mock_data
+2024-01-21,tết nguyên đán,social_events,61,0.95,58,mock_data
+2024-01-28,tết nguyên đán,social_events,44,0.95,42,mock_data
+2024-02-04,tết nguyên đán,social_events,69,0.95,65,mock_data
+2024-02-11,tết nguyên đán,social_events,57,0.95,54,mock_data
+2024-02-18,tết nguyên đán,social_events,65,0.95,62,mock_data
+2024-02-25,tết nguyên đán,social_events,60,0.95,57,mock_data
+2024-03-03,tết nguyên đán,social_events,59,0.95,56,mock_data
+2024-03-10,tết nguyên đán,social_events,67,0.95,64,mock_data
+2024-03-17,tết nguyên đán,social_events,64,0.95,60,mock_data
+2024-03-24,tết nguyên đán,social_events,68,0.95,65,mock_data
+2024-03-31,tết nguyên đán,social_events,52,0.95,49,mock_data
+2024-04-07,tết nguyên đán,social_events,53,0.95,50,mock_data
+2024-04-14,tết nguyên đán,social_events,41,0.95,39,mock_data
+2024-04-21,tết nguyên đán,social_events,32,0.95,30,mock_data
+2024-04-28,tết nguyên đán,social_events,38,0.95,36,mock_data
+2024-05-05,tết nguyên đán,social_events,46,0.95,43,mock_data
+2024-05-12,tết nguyên đán,social_events,31,0.95,30,mock_data
+2024-05-19,tết nguyên đán,social_events,33,0.95,31,mock_data
+2024-05-26,tết nguyên đán,social_events,25,0.95,23,mock_data
+2024-06-02,tết nguyên đán,social_events,21,0.95,20,mock_data
+2024-06-09,tết nguyên đán,social_events,25,0.95,24,mock_data
+2024-06-16,tết nguyên đán,social_events,16,0.95,15,mock_data
+2024-06-23,tết nguyên đán,social_events,3,0.95,3,mock_data
+2024-06-30,tết nguyên đán,social_events,30,0.95,28,mock_data
+2024-07-07,tết nguyên đán,social_events,18,0.95,17,mock_data
+2024-07-14,tết nguyên đán,social_events,8,0.95,8,mock_data
+2024-07-21,tết nguyên đán,social_events,14,0.95,13,mock_data
+2024-07-28,tết nguyên đán,social_events,8,0.95,8,mock_data
+2024-08-04,tết nguyên đán,social_events,13,0.95,12,mock_data
+2024-08-11,tết nguyên đán,social_events,14,0.95,14,mock_data
+2024-08-18,tết nguyên đán,social_events,9,0.95,9,mock_data
+2024-08-25,tết nguyên đán,social_events,0,0.95,0,mock_data
+2024-09-01,tết nguyên đán,social_events,9,0.95,9,mock_data
+2024-09-08,tết nguyên đán,social_events,6,0.95,6,mock_data
+2024-09-15,tết nguyên đán,social_events,18,0.95,17,mock_data
+2024-09-22,tết nguyên đán,social_events,17,0.95,17,mock_data
+2024-09-29,tết nguyên đán,social_events,11,0.95,10,mock_data
+2024-10-06,tết nguyên đán,social_events,7,0.95,6,mock_data
+2024-10-13,tết nguyên đán,social_events,2,0.95,2,mock_data
+2024-10-20,tết nguyên đán,social_events,25,0.95,24,mock_data
+2024-10-27,tết nguyên đán,social_events,22,0.95,21,mock_data
+2024-11-03,tết nguyên đán,social_events,31,0.95,29,mock_data
+2024-11-10,tết nguyên đán,social_events,38,0.95,36,mock_data
+2024-11-17,tết nguyên đán,social_events,43,0.95,41,mock_data
+2024-11-24,tết nguyên đán,social_events,21,0.95,20,mock_data
+2024-12-01,tết nguyên đán,social_events,38,0.95,36,mock_data
+2024-12-08,tết nguyên đán,social_events,31,0.95,29,mock_data
+2024-12-15,tết nguyên đán,social_events,59,0.95,56,mock_data
+2024-12-22,tết nguyên đán,social_events,42,0.95,40,mock_data
+2024-12-29,tết nguyên đán,social_events,66,0.95,62,mock_data
+2024-01-07,valentine,social_events,54,0.95,51,mock_data
+2024-01-14,valentine,social_events,76,0.95,72,mock_data
+2024-01-21,valentine,social_events,54,0.95,51,mock_data
+2024-01-28,valentine,social_events,67,0.95,63,mock_data
+2024-02-04,valentine,social_events,56,0.95,53,mock_data
+2024-02-11,valentine,social_events,64,0.95,61,mock_data
+2024-02-18,valentine,social_events,70,0.95,66,mock_data
+2024-02-25,valentine,social_events,59,0.95,56,mock_data
+2024-03-03,valentine,social_events,63,0.95,60,mock_data
+2024-03-10,valentine,social_events,70,0.95,66,mock_data
+2024-03-17,valentine,social_events,65,0.95,61,mock_data
+2024-03-24,valentine,social_events,47,0.95,45,mock_data
+2024-03-31,valentine,social_events,51,0.95,49,mock_data
+2024-04-07,valentine,social_events,56,0.95,53,mock_data
+2024-04-14,valentine,social_events,53,0.95,50,mock_data
+2024-04-21,valentine,social_events,42,0.95,40,mock_data
+2024-04-28,valentine,social_events,43,0.95,41,mock_data
+2024-05-05,valentine,social_events,47,0.95,44,mock_data
+2024-05-12,valentine,social_events,43,0.95,41,mock_data
+2024-05-19,valentine,social_events,35,0.95,33,mock_data
+2024-05-26,valentine,social_events,31,0.95,29,mock_data
+2024-06-02,valentine,social_events,27,0.95,26,mock_data
+2024-06-09,valentine,social_events,20,0.95,19,mock_data
+2024-06-16,valentine,social_events,6,0.95,6,mock_data
+2024-06-23,valentine,social_events,25,0.95,24,mock_data
+2024-06-30,valentine,social_events,10,0.95,9,mock_data
+2024-07-07,valentine,social_events,17,0.95,16,mock_data
+2024-07-14,valentine,social_events,0,0.95,0,mock_data
+2024-07-21,valentine,social_events,11,0.95,10,mock_data
+2024-07-28,valentine,social_events,15,0.95,14,mock_data
+2024-08-04,valentine,social_events,10,0.95,9,mock_data
+2024-08-11,valentine,social_events,0,0.95,0,mock_data
+2024-08-18,valentine,social_events,8,0.95,7,mock_data
+2024-08-25,valentine,social_events,0,0.95,0,mock_data
+2024-09-01,valentine,social_events,7,0.95,7,mock_data
+2024-09-08,valentine,social_events,6,0.95,6,mock_data
+2024-09-15,valentine,social_events,16,0.95,16,mock_data
+2024-09-22,valentine,social_events,13,0.95,12,mock_data
+2024-09-29,valentine,social_events,14,0.95,13,mock_data
+2024-10-06,valentine,social_events,25,0.95,24,mock_data
+2024-10-13,valentine,social_events,18,0.95,17,mock_data
+2024-10-20,valentine,social_events,29,0.95,28,mock_data
+2024-10-27,valentine,social_events,25,0.95,24,mock_data
+2024-11-03,valentine,social_events,34,0.95,32,mock_data
+2024-11-10,valentine,social_events,35,0.95,33,mock_data
+2024-11-17,valentine,social_events,43,0.95,41,mock_data
+2024-11-24,valentine,social_events,43,0.95,41,mock_data
+2024-12-01,valentine,social_events,54,0.95,51,mock_data
+2024-12-08,valentine,social_events,35,0.95,33,mock_data
+2024-12-15,valentine,social_events,47,0.95,45,mock_data
+2024-12-22,valentine,social_events,56,0.95,54,mock_data
+2024-12-29,valentine,social_events,59,0.95,56,mock_data
+2024-01-07,giáng sinh,social_events,64,0.95,61,mock_data
+2024-01-14,giáng sinh,social_events,68,0.95,65,mock_data
+2024-01-21,giáng sinh,social_events,56,0.95,53,mock_data
+2024-01-28,giáng sinh,social_events,61,0.95,58,mock_data
+2024-02-04,giáng sinh,social_events,56,0.95,53,mock_data
+2024-02-11,giáng sinh,social_events,71,0.95,67,mock_data
+2024-02-18,giáng sinh,social_events,72,0.95,69,mock_data
+2024-02-25,giáng sinh,social_events,62,0.95,59,mock_data
+2024-03-03,giáng sinh,social_events,51,0.95,48,mock_data
+2024-03-10,giáng sinh,social_events,71,0.95,67,mock_data
+2024-03-17,giáng sinh,social_events,76,0.95,73,mock_data
+2024-03-24,giáng sinh,social_events,58,0.95,55,mock_data
+2024-03-31,giáng sinh,social_events,63,0.95,60,mock_data
+2024-04-07,giáng sinh,social_events,59,0.95,56,mock_data
+2024-04-14,giáng sinh,social_events,56,0.95,53,mock_data
+2024-04-21,giáng sinh,social_events,43,0.95,40,mock_data
+2024-04-28,giáng sinh,social_events,39,0.95,37,mock_data
+2024-05-05,giáng sinh,social_events,47,0.95,45,mock_data
+2024-05-12,giáng sinh,social_events,35,0.95,33,mock_data
+2024-05-19,giáng sinh,social_events,35,0.95,34,mock_data
+2024-05-26,giáng sinh,social_events,14,0.95,13,mock_data
+2024-06-02,giáng sinh,social_events,28,0.95,27,mock_data
+2024-06-09,giáng sinh,social_events,33,0.95,32,mock_data
+2024-06-16,giáng sinh,social_events,25,0.95,24,mock_data
+2024-06-23,giáng sinh,social_events,11,0.95,10,mock_data
+2024-06-30,giáng sinh,social_events,11,0.95,10,mock_data
+2024-07-07,giáng sinh,social_events,9,0.95,8,mock_data
+2024-07-14,giáng sinh,social_events,11,0.95,10,mock_data
+2024-07-21,giáng sinh,social_events,2,0.95,2,mock_data
+2024-07-28,giáng sinh,social_events,4,0.95,4,mock_data
+2024-08-04,giáng sinh,social_events,6,0.95,6,mock_data
+2024-08-11,giáng sinh,social_events,3,0.95,3,mock_data
+2024-08-18,giáng sinh,social_events,0,0.95,0,mock_data
+2024-08-25,giáng sinh,social_events,3,0.95,3,mock_data
+2024-09-01,giáng sinh,social_events,0,0.95,0,mock_data
+2024-09-08,giáng sinh,social_events,6,0.95,6,mock_data
+2024-09-15,giáng sinh,social_events,17,0.95,16,mock_data
+2024-09-22,giáng sinh,social_events,11,0.95,10,mock_data
+2024-09-29,giáng sinh,social_events,11,0.95,10,mock_data
+2024-10-06,giáng sinh,social_events,19,0.95,18,mock_data
+2024-10-13,giáng sinh,social_events,19,0.95,18,mock_data
+2024-10-20,giáng sinh,social_events,27,0.95,25,mock_data
+2024-10-27,giáng sinh,social_events,24,0.95,22,mock_data
+2024-11-03,giáng sinh,social_events,24,0.95,23,mock_data
+2024-11-10,giáng sinh,social_events,34,0.95,32,mock_data
+2024-11-17,giáng sinh,social_events,42,0.95,40,mock_data
+2024-11-24,giáng sinh,social_events,31,0.95,29,mock_data
+2024-12-01,giáng sinh,social_events,34,0.95,33,mock_data
+2024-12-08,giáng sinh,social_events,59,0.95,56,mock_data
+2024-12-15,giáng sinh,social_events,51,0.95,48,mock_data
+2024-12-22,giáng sinh,social_events,57,0.95,54,mock_data
+2024-12-29,giáng sinh,social_events,66,0.95,62,mock_data
+2024-01-07,sinh nhật,social_events,33,0.95,32,mock_data
+2024-01-14,sinh nhật,social_events,71,0.95,67,mock_data
+2024-01-21,sinh nhật,social_events,41,0.95,39,mock_data
+2024-01-28,sinh nhật,social_events,56,0.95,53,mock_data
+2024-02-04,sinh nhật,social_events,72,0.95,68,mock_data
+2024-02-11,sinh nhật,social_events,66,0.95,63,mock_data
+2024-02-18,sinh nhật,social_events,76,0.95,72,mock_data
+2024-02-25,sinh nhật,social_events,60,0.95,57,mock_data
+2024-03-03,sinh nhật,social_events,81,0.95,77,mock_data
+2024-03-10,sinh nhật,social_events,69,0.95,65,mock_data
+2024-03-17,sinh nhật,social_events,69,0.95,65,mock_data
+2024-03-24,sinh nhật,social_events,58,0.95,55,mock_data
+2024-03-31,sinh nhật,social_events,59,0.95,56,mock_data
+2024-04-07,sinh nhật,social_events,35,0.95,33,mock_data
+2024-04-14,sinh nhật,social_events,53,0.95,51,mock_data
+2024-04-21,sinh nhật,social_events,36,0.95,35,mock_data
+2024-04-28,sinh nhật,social_events,39,0.95,37,mock_data
+2024-05-05,sinh nhật,social_events,54,0.95,51,mock_data
+2024-05-12,sinh nhật,social_events,34,0.95,32,mock_data
+2024-05-19,sinh nhật,social_events,22,0.95,21,mock_data
+2024-05-26,sinh nhật,social_events,20,0.95,19,mock_data
+2024-06-02,sinh nhật,social_events,24,0.95,23,mock_data
+2024-06-09,sinh nhật,social_events,13,0.95,12,mock_data
+2024-06-16,sinh nhật,social_events,25,0.95,24,mock_data
+2024-06-23,sinh nhật,social_events,19,0.95,18,mock_data
+2024-06-30,sinh nhật,social_events,23,0.95,22,mock_data
+2024-07-07,sinh nhật,social_events,26,0.95,25,mock_data
+2024-07-14,sinh nhật,social_events,8,0.95,8,mock_data
+2024-07-21,sinh nhật,social_events,2,0.95,2,mock_data
+2024-07-28,sinh nhật,social_events,9,0.95,9,mock_data
+2024-08-04,sinh nhật,social_events,13,0.95,12,mock_data
+2024-08-11,sinh nhật,social_events,3,0.95,3,mock_data
+2024-08-18,sinh nhật,social_events,5,0.95,5,mock_data
+2024-08-25,sinh nhật,social_events,11,0.95,11,mock_data
+2024-09-01,sinh nhật,social_events,10,0.95,9,mock_data
+2024-09-08,sinh nhật,social_events,0,0.95,0,mock_data
+2024-09-15,sinh nhật,social_events,0,0.95,0,mock_data
+2024-09-22,sinh nhật,social_events,18,0.95,17,mock_data
+2024-09-29,sinh nhật,social_events,16,0.95,15,mock_data
+2024-10-06,sinh nhật,social_events,13,0.95,13,mock_data
+2024-10-13,sinh nhật,social_events,25,0.95,24,mock_data
+2024-10-20,sinh nhật,social_events,20,0.95,19,mock_data
+2024-10-27,sinh nhật,social_events,27,0.95,26,mock_data
+2024-11-03,sinh nhật,social_events,26,0.95,25,mock_data
+2024-11-10,sinh nhật,social_events,31,0.95,29,mock_data
+2024-11-17,sinh nhật,social_events,41,0.95,39,mock_data
+2024-11-24,sinh nhật,social_events,39,0.95,37,mock_data
+2024-12-01,sinh nhật,social_events,43,0.95,41,mock_data
+2024-12-08,sinh nhật,social_events,48,0.95,46,mock_data
+2024-12-15,sinh nhật,social_events,45,0.95,43,mock_data
+2024-12-22,sinh nhật,social_events,52,0.95,50,mock_data
+2024-12-29,sinh nhật,social_events,47,0.95,45,mock_data
+2024-01-07,halloween,social_events,56,0.95,53,mock_data
+2024-01-14,halloween,social_events,64,0.95,61,mock_data
+2024-01-21,halloween,social_events,79,0.95,75,mock_data
+2024-01-28,halloween,social_events,64,0.95,61,mock_data
+2024-02-04,halloween,social_events,62,0.95,59,mock_data
+2024-02-11,halloween,social_events,62,0.95,59,mock_data
+2024-02-18,halloween,social_events,41,0.95,39,mock_data
+2024-02-25,halloween,social_events,63,0.95,60,mock_data
+2024-03-03,halloween,social_events,63,0.95,60,mock_data
+2024-03-10,halloween,social_events,56,0.95,53,mock_data
+2024-03-17,halloween,social_events,68,0.95,65,mock_data
+2024-03-24,halloween,social_events,68,0.95,65,mock_data
+2024-03-31,halloween,social_events,54,0.95,51,mock_data
+2024-04-07,halloween,social_events,62,0.95,59,mock_data
+2024-04-14,halloween,social_events,42,0.95,40,mock_data
+2024-04-21,halloween,social_events,60,0.95,57,mock_data
+2024-04-28,halloween,social_events,52,0.95,49,mock_data
+2024-05-05,halloween,social_events,43,0.95,41,mock_data
+2024-05-12,halloween,social_events,31,0.95,29,mock_data
+2024-05-19,halloween,social_events,29,0.95,27,mock_data
+2024-05-26,halloween,social_events,30,0.95,28,mock_data
+2024-06-02,halloween,social_events,33,0.95,31,mock_data
+2024-06-09,halloween,social_events,20,0.95,19,mock_data
+2024-06-16,halloween,social_events,19,0.95,18,mock_data
+2024-06-23,halloween,social_events,23,0.95,22,mock_data
+2024-06-30,halloween,social_events,18,0.95,17,mock_data
+2024-07-07,halloween,social_events,12,0.95,11,mock_data
+2024-07-14,halloween,social_events,17,0.95,16,mock_data
+2024-07-21,halloween,social_events,5,0.95,4,mock_data
+2024-07-28,halloween,social_events,12,0.95,11,mock_data
+2024-08-04,halloween,social_events,4,0.95,4,mock_data
+2024-08-11,halloween,social_events,13,0.95,12,mock_data
+2024-08-18,halloween,social_events,0,0.95,0,mock_data
+2024-08-25,halloween,social_events,4,0.95,4,mock_data
+2024-09-01,halloween,social_events,0,0.95,0,mock_data
+2024-09-08,halloween,social_events,21,0.95,20,mock_data
+2024-09-15,halloween,social_events,6,0.95,6,mock_data
+2024-09-22,halloween,social_events,12,0.95,11,mock_data
+2024-09-29,halloween,social_events,10,0.95,10,mock_data
+2024-10-06,halloween,social_events,10,0.95,10,mock_data
+2024-10-13,halloween,social_events,19,0.95,18,mock_data
+2024-10-20,halloween,social_events,24,0.95,23,mock_data
+2024-10-27,halloween,social_events,28,0.95,26,mock_data
+2024-11-03,halloween,social_events,32,0.95,30,mock_data
+2024-11-10,halloween,social_events,29,0.95,27,mock_data
+2024-11-17,halloween,social_events,35,0.95,33,mock_data
+2024-11-24,halloween,social_events,37,0.95,35,mock_data
+2024-12-01,halloween,social_events,52,0.95,50,mock_data
+2024-12-08,halloween,social_events,49,0.95,47,mock_data
+2024-12-15,halloween,social_events,50,0.95,47,mock_data
+2024-12-22,halloween,social_events,63,0.95,60,mock_data
+2024-12-29,halloween,social_events,64,0.95,60,mock_data
+2024-01-07,matcha,food_trends,58,0.85,50,mock_data
+2024-01-14,matcha,food_trends,59,0.85,50,mock_data
+2024-01-21,matcha,food_trends,65,0.85,55,mock_data
+2024-01-28,matcha,food_trends,57,0.85,48,mock_data
+2024-02-04,matcha,food_trends,56,0.85,47,mock_data
+2024-02-11,matcha,food_trends,42,0.85,36,mock_data
+2024-02-18,matcha,food_trends,63,0.85,53,mock_data
+2024-02-25,matcha,food_trends,59,0.85,50,mock_data
+2024-03-03,matcha,food_trends,55,0.85,47,mock_data
+2024-03-10,matcha,food_trends,57,0.85,48,mock_data
+2024-03-17,matcha,food_trends,74,0.85,63,mock_data
+2024-03-24,matcha,food_trends,53,0.85,45,mock_data
+2024-03-31,matcha,food_trends,45,0.85,38,mock_data
+2024-04-07,matcha,food_trends,48,0.85,41,mock_data
+2024-04-14,matcha,food_trends,48,0.85,40,mock_data
+2024-04-21,matcha,food_trends,56,0.85,48,mock_data
+2024-04-28,matcha,food_trends,51,0.85,44,mock_data
+2024-05-05,matcha,food_trends,52,0.85,44,mock_data
+2024-05-12,matcha,food_trends,54,0.85,46,mock_data
+2024-05-19,matcha,food_trends,50,0.85,43,mock_data
+2024-05-26,matcha,food_trends,34,0.85,29,mock_data
+2024-06-02,matcha,food_trends,47,0.85,40,mock_data
+2024-06-09,matcha,food_trends,54,0.85,45,mock_data
+2024-06-16,matcha,food_trends,39,0.85,33,mock_data
+2024-06-23,matcha,food_trends,44,0.85,38,mock_data
+2024-06-30,matcha,food_trends,73,0.85,62,mock_data
+2024-07-07,matcha,food_trends,55,0.85,47,mock_data
+2024-07-14,matcha,food_trends,38,0.85,33,mock_data
+2024-07-21,matcha,food_trends,48,0.85,40,mock_data
+2024-07-28,matcha,food_trends,58,0.85,49,mock_data
+2024-08-04,matcha,food_trends,36,0.85,31,mock_data
+2024-08-11,matcha,food_trends,49,0.85,42,mock_data
+2024-08-18,matcha,food_trends,32,0.85,28,mock_data
+2024-08-25,matcha,food_trends,44,0.85,37,mock_data
+2024-09-01,matcha,food_trends,38,0.85,32,mock_data
+2024-09-08,matcha,food_trends,48,0.85,41,mock_data
+2024-09-15,matcha,food_trends,50,0.85,42,mock_data
+2024-09-22,matcha,food_trends,40,0.85,34,mock_data
+2024-09-29,matcha,food_trends,41,0.85,35,mock_data
+2024-10-06,matcha,food_trends,35,0.85,30,mock_data
+2024-10-13,matcha,food_trends,35,0.85,30,mock_data
+2024-10-20,matcha,food_trends,49,0.85,41,mock_data
+2024-10-27,matcha,food_trends,45,0.85,38,mock_data
+2024-11-03,matcha,food_trends,33,0.85,28,mock_data
+2024-11-10,matcha,food_trends,46,0.85,39,mock_data
+2024-11-17,matcha,food_trends,55,0.85,46,mock_data
+2024-11-24,matcha,food_trends,43,0.85,36,mock_data
+2024-12-01,matcha,food_trends,42,0.85,36,mock_data
+2024-12-08,matcha,food_trends,28,0.85,24,mock_data
+2024-12-15,matcha,food_trends,48,0.85,41,mock_data
+2024-12-22,matcha,food_trends,51,0.85,43,mock_data
+2024-12-29,matcha,food_trends,54,0.85,46,mock_data
+2024-01-07,ube,food_trends,57,0.85,49,mock_data
+2024-01-14,ube,food_trends,53,0.85,45,mock_data
+2024-01-21,ube,food_trends,60,0.85,51,mock_data
+2024-01-28,ube,food_trends,64,0.85,55,mock_data
+2024-02-04,ube,food_trends,68,0.85,58,mock_data
+2024-02-11,ube,food_trends,60,0.85,51,mock_data
+2024-02-18,ube,food_trends,56,0.85,48,mock_data
+2024-02-25,ube,food_trends,53,0.85,45,mock_data
+2024-03-03,ube,food_trends,61,0.85,51,mock_data
+2024-03-10,ube,food_trends,47,0.85,40,mock_data
+2024-03-17,ube,food_trends,81,0.85,68,mock_data
+2024-03-24,ube,food_trends,56,0.85,47,mock_data
+2024-03-31,ube,food_trends,65,0.85,55,mock_data
+2024-04-07,ube,food_trends,69,0.85,58,mock_data
+2024-04-14,ube,food_trends,74,0.85,63,mock_data
+2024-04-21,ube,food_trends,57,0.85,48,mock_data
+2024-04-28,ube,food_trends,61,0.85,52,mock_data
+2024-05-05,ube,food_trends,55,0.85,47,mock_data
+2024-05-12,ube,food_trends,54,0.85,46,mock_data
+2024-05-19,ube,food_trends,56,0.85,48,mock_data
+2024-05-26,ube,food_trends,52,0.85,44,mock_data
+2024-06-02,ube,food_trends,54,0.85,45,mock_data
+2024-06-09,ube,food_trends,50,0.85,42,mock_data
+2024-06-16,ube,food_trends,55,0.85,47,mock_data
+2024-06-23,ube,food_trends,64,0.85,55,mock_data
+2024-06-30,ube,food_trends,56,0.85,48,mock_data
+2024-07-07,ube,food_trends,53,0.85,45,mock_data
+2024-07-14,ube,food_trends,53,0.85,45,mock_data
+2024-07-21,ube,food_trends,48,0.85,41,mock_data
+2024-07-28,ube,food_trends,41,0.85,34,mock_data
+2024-08-04,ube,food_trends,48,0.85,41,mock_data
+2024-08-11,ube,food_trends,45,0.85,38,mock_data
+2024-08-18,ube,food_trends,45,0.85,38,mock_data
+2024-08-25,ube,food_trends,38,0.85,33,mock_data
+2024-09-01,ube,food_trends,34,0.85,29,mock_data
+2024-09-08,ube,food_trends,46,0.85,39,mock_data
+2024-09-15,ube,food_trends,60,0.85,51,mock_data
+2024-09-22,ube,food_trends,62,0.85,53,mock_data
+2024-09-29,ube,food_trends,54,0.85,46,mock_data
+2024-10-06,ube,food_trends,31,0.85,26,mock_data
+2024-10-13,ube,food_trends,30,0.85,26,mock_data
+2024-10-20,ube,food_trends,39,0.85,33,mock_data
+2024-10-27,ube,food_trends,46,0.85,39,mock_data
+2024-11-03,ube,food_trends,49,0.85,41,mock_data
+2024-11-10,ube,food_trends,50,0.85,43,mock_data
+2024-11-17,ube,food_trends,32,0.85,27,mock_data
+2024-11-24,ube,food_trends,48,0.85,40,mock_data
+2024-12-01,ube,food_trends,55,0.85,47,mock_data
+2024-12-08,ube,food_trends,50,0.85,42,mock_data
+2024-12-15,ube,food_trends,53,0.85,45,mock_data
+2024-12-22,ube,food_trends,41,0.85,34,mock_data
+2024-12-29,ube,food_trends,35,0.85,29,mock_data
+2024-01-07,bubble tea,food_trends,70,0.85,59,mock_data
+2024-01-14,bubble tea,food_trends,82,0.85,69,mock_data
+2024-01-21,bubble tea,food_trends,80,0.85,68,mock_data
+2024-01-28,bubble tea,food_trends,86,0.85,73,mock_data
+2024-02-04,bubble tea,food_trends,84,0.85,72,mock_data
+2024-02-11,bubble tea,food_trends,79,0.85,67,mock_data
+2024-02-18,bubble tea,food_trends,78,0.85,66,mock_data
+2024-02-25,bubble tea,food_trends,88,0.85,74,mock_data
+2024-03-03,bubble tea,food_trends,77,0.85,65,mock_data
+2024-03-10,bubble tea,food_trends,81,0.85,69,mock_data
+2024-03-17,bubble tea,food_trends,100,0.85,85,mock_data
+2024-03-24,bubble tea,food_trends,82,0.85,70,mock_data
+2024-03-31,bubble tea,food_trends,77,0.85,65,mock_data
+2024-04-07,bubble tea,food_trends,94,0.85,80,mock_data
+2024-04-14,bubble tea,food_trends,70,0.85,59,mock_data
+2024-04-21,bubble tea,food_trends,86,0.85,73,mock_data
+2024-04-28,bubble tea,food_trends,87,0.85,74,mock_data
+2024-05-05,bubble tea,food_trends,81,0.85,69,mock_data
+2024-05-12,bubble tea,food_trends,86,0.85,73,mock_data
+2024-05-19,bubble tea,food_trends,78,0.85,66,mock_data
+2024-05-26,bubble tea,food_trends,89,0.85,76,mock_data
+2024-06-02,bubble tea,food_trends,79,0.85,67,mock_data
+2024-06-09,bubble tea,food_trends,74,0.85,63,mock_data
+2024-06-16,bubble tea,food_trends,74,0.85,63,mock_data
+2024-06-23,bubble tea,food_trends,75,0.85,63,mock_data
+2024-06-30,bubble tea,food_trends,75,0.85,63,mock_data
+2024-07-07,bubble tea,food_trends,80,0.85,68,mock_data
+2024-07-14,bubble tea,food_trends,76,0.85,65,mock_data
+2024-07-21,bubble tea,food_trends,80,0.85,68,mock_data
+2024-07-28,bubble tea,food_trends,54,0.85,46,mock_data
+2024-08-04,bubble tea,food_trends,84,0.85,71,mock_data
+2024-08-11,bubble tea,food_trends,59,0.85,50,mock_data
+2024-08-18,bubble tea,food_trends,75,0.85,64,mock_data
+2024-08-25,bubble tea,food_trends,88,0.85,74,mock_data
+2024-09-01,bubble tea,food_trends,68,0.85,58,mock_data
+2024-09-08,bubble tea,food_trends,68,0.85,58,mock_data
+2024-09-15,bubble tea,food_trends,62,0.85,53,mock_data
+2024-09-22,bubble tea,food_trends,71,0.85,60,mock_data
+2024-09-29,bubble tea,food_trends,72,0.85,61,mock_data
+2024-10-06,bubble tea,food_trends,65,0.85,55,mock_data
+2024-10-13,bubble tea,food_trends,73,0.85,62,mock_data
+2024-10-20,bubble tea,food_trends,63,0.85,53,mock_data
+2024-10-27,bubble tea,food_trends,50,0.85,43,mock_data
+2024-11-03,bubble tea,food_trends,64,0.85,55,mock_data
+2024-11-10,bubble tea,food_trends,70,0.85,60,mock_data
+2024-11-17,bubble tea,food_trends,67,0.85,57,mock_data
+2024-11-24,bubble tea,food_trends,64,0.85,54,mock_data
+2024-12-01,bubble tea,food_trends,75,0.85,64,mock_data
+2024-12-08,bubble tea,food_trends,64,0.85,55,mock_data
+2024-12-15,bubble tea,food_trends,73,0.85,62,mock_data
+2024-12-22,bubble tea,food_trends,79,0.85,67,mock_data
+2024-12-29,bubble tea,food_trends,70,0.85,60,mock_data
+2024-01-07,keto dessert,food_trends,53,0.85,45,mock_data
+2024-01-14,keto dessert,food_trends,56,0.85,47,mock_data
+2024-01-21,keto dessert,food_trends,43,0.85,36,mock_data
+2024-01-28,keto dessert,food_trends,49,0.85,41,mock_data
+2024-02-04,keto dessert,food_trends,36,0.85,30,mock_data
+2024-02-11,keto dessert,food_trends,40,0.85,34,mock_data
+2024-02-18,keto dessert,food_trends,73,0.85,62,mock_data
+2024-02-25,keto dessert,food_trends,50,0.85,42,mock_data
+2024-03-03,keto dessert,food_trends,55,0.85,47,mock_data
+2024-03-10,keto dessert,food_trends,50,0.85,43,mock_data
+2024-03-17,keto dessert,food_trends,73,0.85,62,mock_data
+2024-03-24,keto dessert,food_trends,71,0.85,60,mock_data
+2024-03-31,keto dessert,food_trends,66,0.85,56,mock_data
+2024-04-07,keto dessert,food_trends,50,0.85,42,mock_data
+2024-04-14,keto dessert,food_trends,57,0.85,48,mock_data
+2024-04-21,keto dessert,food_trends,75,0.85,63,mock_data
+2024-04-28,keto dessert,food_trends,63,0.85,54,mock_data
+2024-05-05,keto dessert,food_trends,50,0.85,43,mock_data
+2024-05-12,keto dessert,food_trends,49,0.85,42,mock_data
+2024-05-19,keto dessert,food_trends,50,0.85,43,mock_data
+2024-05-26,keto dessert,food_trends,39,0.85,33,mock_data
+2024-06-02,keto dessert,food_trends,57,0.85,48,mock_data
+2024-06-09,keto dessert,food_trends,57,0.85,49,mock_data
+2024-06-16,keto dessert,food_trends,51,0.85,43,mock_data
+2024-06-23,keto dessert,food_trends,55,0.85,46,mock_data
+2024-06-30,keto dessert,food_trends,49,0.85,41,mock_data
+2024-07-07,keto dessert,food_trends,62,0.85,53,mock_data
+2024-07-14,keto dessert,food_trends,39,0.85,33,mock_data
+2024-07-21,keto dessert,food_trends,39,0.85,33,mock_data
+2024-07-28,keto dessert,food_trends,49,0.85,42,mock_data
+2024-08-04,keto dessert,food_trends,26,0.85,22,mock_data
+2024-08-11,keto dessert,food_trends,42,0.85,36,mock_data
+2024-08-18,keto dessert,food_trends,55,0.85,47,mock_data
+2024-08-25,keto dessert,food_trends,28,0.85,23,mock_data
+2024-09-01,keto dessert,food_trends,49,0.85,42,mock_data
+2024-09-08,keto dessert,food_trends,32,0.85,28,mock_data
+2024-09-15,keto dessert,food_trends,29,0.85,25,mock_data
+2024-09-22,keto dessert,food_trends,47,0.85,40,mock_data
+2024-09-29,keto dessert,food_trends,37,0.85,32,mock_data
+2024-10-06,keto dessert,food_trends,46,0.85,39,mock_data
+2024-10-13,keto dessert,food_trends,37,0.85,32,mock_data
+2024-10-20,keto dessert,food_trends,45,0.85,38,mock_data
+2024-10-27,keto dessert,food_trends,50,0.85,43,mock_data
+2024-11-03,keto dessert,food_trends,42,0.85,36,mock_data
+2024-11-10,keto dessert,food_trends,51,0.85,43,mock_data
+2024-11-17,keto dessert,food_trends,49,0.85,41,mock_data
+2024-11-24,keto dessert,food_trends,36,0.85,30,mock_data
+2024-12-01,keto dessert,food_trends,50,0.85,43,mock_data
+2024-12-08,keto dessert,food_trends,48,0.85,41,mock_data
+2024-12-15,keto dessert,food_trends,53,0.85,45,mock_data
+2024-12-22,keto dessert,food_trends,59,0.85,50,mock_data
+2024-12-29,keto dessert,food_trends,43,0.85,36,mock_data
+2024-01-07,vegan dessert,food_trends,51,0.85,44,mock_data
+2024-01-14,vegan dessert,food_trends,52,0.85,44,mock_data
+2024-01-21,vegan dessert,food_trends,65,0.85,55,mock_data
+2024-01-28,vegan dessert,food_trends,53,0.85,45,mock_data
+2024-02-04,vegan dessert,food_trends,66,0.85,56,mock_data
+2024-02-11,vegan dessert,food_trends,60,0.85,51,mock_data
+2024-02-18,vegan dessert,food_trends,57,0.85,48,mock_data
+2024-02-25,vegan dessert,food_trends,62,0.85,53,mock_data
+2024-03-03,vegan dessert,food_trends,50,0.85,42,mock_data
+2024-03-10,vegan dessert,food_trends,57,0.85,48,mock_data
+2024-03-17,vegan dessert,food_trends,58,0.85,49,mock_data
+2024-03-24,vegan dessert,food_trends,48,0.85,41,mock_data
+2024-03-31,vegan dessert,food_trends,52,0.85,44,mock_data
+2024-04-07,vegan dessert,food_trends,60,0.85,51,mock_data
+2024-04-14,vegan dessert,food_trends,67,0.85,57,mock_data
+2024-04-21,vegan dessert,food_trends,55,0.85,46,mock_data
+2024-04-28,vegan dessert,food_trends,70,0.85,60,mock_data
+2024-05-05,vegan dessert,food_trends,50,0.85,43,mock_data
+2024-05-12,vegan dessert,food_trends,46,0.85,39,mock_data
+2024-05-19,vegan dessert,food_trends,35,0.85,30,mock_data
+2024-05-26,vegan dessert,food_trends,47,0.85,40,mock_data
+2024-06-02,vegan dessert,food_trends,51,0.85,43,mock_data
+2024-06-09,vegan dessert,food_trends,49,0.85,42,mock_data
+2024-06-16,vegan dessert,food_trends,55,0.85,47,mock_data
+2024-06-23,vegan dessert,food_trends,61,0.85,52,mock_data
+2024-06-30,vegan dessert,food_trends,46,0.85,39,mock_data
+2024-07-07,vegan dessert,food_trends,63,0.85,54,mock_data
+2024-07-14,vegan dessert,food_trends,45,0.85,39,mock_data
+2024-07-21,vegan dessert,food_trends,55,0.85,47,mock_data
+2024-07-28,vegan dessert,food_trends,40,0.85,34,mock_data
+2024-08-04,vegan dessert,food_trends,40,0.85,34,mock_data
+2024-08-11,vegan dessert,food_trends,42,0.85,36,mock_data
+2024-08-18,vegan dessert,food_trends,45,0.85,39,mock_data
+2024-08-25,vegan dessert,food_trends,51,0.85,43,mock_data
+2024-09-01,vegan dessert,food_trends,47,0.85,40,mock_data
+2024-09-08,vegan dessert,food_trends,30,0.85,25,mock_data
+2024-09-15,vegan dessert,food_trends,50,0.85,43,mock_data
+2024-09-22,vegan dessert,food_trends,42,0.85,35,mock_data
+2024-09-29,vegan dessert,food_trends,30,0.85,25,mock_data
+2024-10-06,vegan dessert,food_trends,52,0.85,44,mock_data
+2024-10-13,vegan dessert,food_trends,42,0.85,35,mock_data
+2024-10-20,vegan dessert,food_trends,38,0.85,32,mock_data
+2024-10-27,vegan dessert,food_trends,45,0.85,39,mock_data
+2024-11-03,vegan dessert,food_trends,39,0.85,33,mock_data
+2024-11-10,vegan dessert,food_trends,45,0.85,38,mock_data
+2024-11-17,vegan dessert,food_trends,47,0.85,40,mock_data
+2024-11-24,vegan dessert,food_trends,35,0.85,30,mock_data
+2024-12-01,vegan dessert,food_trends,57,0.85,48,mock_data
+2024-12-08,vegan dessert,food_trends,34,0.85,29,mock_data
+2024-12-15,vegan dessert,food_trends,53,0.85,45,mock_data
+2024-12-22,vegan dessert,food_trends,50,0.85,42,mock_data
+2024-12-29,vegan dessert,food_trends,47,0.85,40,mock_data
+2024-01-07,dark academia,aesthetic_trends,58,0.8,46,mock_data
+2024-01-14,dark academia,aesthetic_trends,69,0.8,55,mock_data
+2024-01-21,dark academia,aesthetic_trends,55,0.8,44,mock_data
+2024-01-28,dark academia,aesthetic_trends,55,0.8,44,mock_data
+2024-02-04,dark academia,aesthetic_trends,58,0.8,46,mock_data
+2024-02-11,dark academia,aesthetic_trends,60,0.8,48,mock_data
+2024-02-18,dark academia,aesthetic_trends,69,0.8,55,mock_data
+2024-02-25,dark academia,aesthetic_trends,58,0.8,46,mock_data
+2024-03-03,dark academia,aesthetic_trends,89,0.8,71,mock_data
+2024-03-10,dark academia,aesthetic_trends,70,0.8,56,mock_data
+2024-03-17,dark academia,aesthetic_trends,78,0.8,63,mock_data
+2024-03-24,dark academia,aesthetic_trends,62,0.8,49,mock_data
+2024-03-31,dark academia,aesthetic_trends,58,0.8,47,mock_data
+2024-04-07,dark academia,aesthetic_trends,78,0.8,62,mock_data
+2024-04-14,dark academia,aesthetic_trends,64,0.8,51,mock_data
+2024-04-21,dark academia,aesthetic_trends,77,0.8,62,mock_data
+2024-04-28,dark academia,aesthetic_trends,79,0.8,63,mock_data
+2024-05-05,dark academia,aesthetic_trends,63,0.8,50,mock_data
+2024-05-12,dark academia,aesthetic_trends,66,0.8,53,mock_data
+2024-05-19,dark academia,aesthetic_trends,54,0.8,43,mock_data
+2024-05-26,dark academia,aesthetic_trends,53,0.8,43,mock_data
+2024-06-02,dark academia,aesthetic_trends,56,0.8,45,mock_data
+2024-06-09,dark academia,aesthetic_trends,55,0.8,44,mock_data
+2024-06-16,dark academia,aesthetic_trends,65,0.8,52,mock_data
+2024-06-23,dark academia,aesthetic_trends,57,0.8,46,mock_data
+2024-06-30,dark academia,aesthetic_trends,54,0.8,43,mock_data
+2024-07-07,dark academia,aesthetic_trends,62,0.8,49,mock_data
+2024-07-14,dark academia,aesthetic_trends,62,0.8,49,mock_data
+2024-07-21,dark academia,aesthetic_trends,59,0.8,47,mock_data
+2024-07-28,dark academia,aesthetic_trends,56,0.8,45,mock_data
+2024-08-04,dark academia,aesthetic_trends,52,0.8,41,mock_data
+2024-08-11,dark academia,aesthetic_trends,46,0.8,37,mock_data
+2024-08-18,dark academia,aesthetic_trends,55,0.8,44,mock_data
+2024-08-25,dark academia,aesthetic_trends,64,0.8,51,mock_data
+2024-09-01,dark academia,aesthetic_trends,41,0.8,33,mock_data
+2024-09-08,dark academia,aesthetic_trends,44,0.8,35,mock_data
+2024-09-15,dark academia,aesthetic_trends,41,0.8,33,mock_data
+2024-09-22,dark academia,aesthetic_trends,61,0.8,49,mock_data
+2024-09-29,dark academia,aesthetic_trends,44,0.8,35,mock_data
+2024-10-06,dark academia,aesthetic_trends,55,0.8,44,mock_data
+2024-10-13,dark academia,aesthetic_trends,58,0.8,46,mock_data
+2024-10-20,dark academia,aesthetic_trends,50,0.8,40,mock_data
+2024-10-27,dark academia,aesthetic_trends,51,0.8,41,mock_data
+2024-11-03,dark academia,aesthetic_trends,59,0.8,47,mock_data
+2024-11-10,dark academia,aesthetic_trends,51,0.8,41,mock_data
+2024-11-17,dark academia,aesthetic_trends,49,0.8,39,mock_data
+2024-11-24,dark academia,aesthetic_trends,58,0.8,47,mock_data
+2024-12-01,dark academia,aesthetic_trends,51,0.8,41,mock_data
+2024-12-08,dark academia,aesthetic_trends,59,0.8,47,mock_data
+2024-12-15,dark academia,aesthetic_trends,63,0.8,51,mock_data
+2024-12-22,dark academia,aesthetic_trends,60,0.8,48,mock_data
+2024-12-29,dark academia,aesthetic_trends,82,0.8,65,mock_data
+2024-01-07,cottagecore,aesthetic_trends,50,0.8,40,mock_data
+2024-01-14,cottagecore,aesthetic_trends,44,0.8,35,mock_data
+2024-01-21,cottagecore,aesthetic_trends,60,0.8,48,mock_data
+2024-01-28,cottagecore,aesthetic_trends,78,0.8,62,mock_data
+2024-02-04,cottagecore,aesthetic_trends,58,0.8,46,mock_data
+2024-02-11,cottagecore,aesthetic_trends,58,0.8,46,mock_data
+2024-02-18,cottagecore,aesthetic_trends,61,0.8,49,mock_data
+2024-02-25,cottagecore,aesthetic_trends,60,0.8,48,mock_data
+2024-03-03,cottagecore,aesthetic_trends,58,0.8,46,mock_data
+2024-03-10,cottagecore,aesthetic_trends,62,0.8,50,mock_data
+2024-03-17,cottagecore,aesthetic_trends,58,0.8,46,mock_data
+2024-03-24,cottagecore,aesthetic_trends,52,0.8,42,mock_data
+2024-03-31,cottagecore,aesthetic_trends,66,0.8,53,mock_data
+2024-04-07,cottagecore,aesthetic_trends,52,0.8,41,mock_data
+2024-04-14,cottagecore,aesthetic_trends,56,0.8,45,mock_data
+2024-04-21,cottagecore,aesthetic_trends,52,0.8,42,mock_data
+2024-04-28,cottagecore,aesthetic_trends,78,0.8,62,mock_data
+2024-05-05,cottagecore,aesthetic_trends,49,0.8,39,mock_data
+2024-05-12,cottagecore,aesthetic_trends,53,0.8,42,mock_data
+2024-05-19,cottagecore,aesthetic_trends,52,0.8,41,mock_data
+2024-05-26,cottagecore,aesthetic_trends,56,0.8,45,mock_data
+2024-06-02,cottagecore,aesthetic_trends,62,0.8,49,mock_data
+2024-06-09,cottagecore,aesthetic_trends,71,0.8,57,mock_data
+2024-06-16,cottagecore,aesthetic_trends,56,0.8,44,mock_data
+2024-06-23,cottagecore,aesthetic_trends,54,0.8,43,mock_data
+2024-06-30,cottagecore,aesthetic_trends,53,0.8,42,mock_data
+2024-07-07,cottagecore,aesthetic_trends,62,0.8,50,mock_data
+2024-07-14,cottagecore,aesthetic_trends,54,0.8,43,mock_data
+2024-07-21,cottagecore,aesthetic_trends,40,0.8,32,mock_data
+2024-07-28,cottagecore,aesthetic_trends,42,0.8,33,mock_data
+2024-08-04,cottagecore,aesthetic_trends,54,0.8,43,mock_data
+2024-08-11,cottagecore,aesthetic_trends,55,0.8,44,mock_data
+2024-08-18,cottagecore,aesthetic_trends,57,0.8,45,mock_data
+2024-08-25,cottagecore,aesthetic_trends,47,0.8,37,mock_data
+2024-09-01,cottagecore,aesthetic_trends,50,0.8,40,mock_data
+2024-09-08,cottagecore,aesthetic_trends,53,0.8,42,mock_data
+2024-09-15,cottagecore,aesthetic_trends,45,0.8,36,mock_data
+2024-09-22,cottagecore,aesthetic_trends,45,0.8,36,mock_data
+2024-09-29,cottagecore,aesthetic_trends,51,0.8,41,mock_data
+2024-10-06,cottagecore,aesthetic_trends,53,0.8,43,mock_data
+2024-10-13,cottagecore,aesthetic_trends,42,0.8,33,mock_data
+2024-10-20,cottagecore,aesthetic_trends,39,0.8,31,mock_data
+2024-10-27,cottagecore,aesthetic_trends,35,0.8,28,mock_data
+2024-11-03,cottagecore,aesthetic_trends,45,0.8,36,mock_data
+2024-11-10,cottagecore,aesthetic_trends,42,0.8,34,mock_data
+2024-11-17,cottagecore,aesthetic_trends,34,0.8,27,mock_data
+2024-11-24,cottagecore,aesthetic_trends,39,0.8,31,mock_data
+2024-12-01,cottagecore,aesthetic_trends,67,0.8,54,mock_data
+2024-12-08,cottagecore,aesthetic_trends,68,0.8,54,mock_data
+2024-12-15,cottagecore,aesthetic_trends,46,0.8,37,mock_data
+2024-12-22,cottagecore,aesthetic_trends,69,0.8,55,mock_data
+2024-12-29,cottagecore,aesthetic_trends,52,0.8,42,mock_data
+2024-01-07,y2k aesthetic,aesthetic_trends,34,0.8,27,mock_data
+2024-01-14,y2k aesthetic,aesthetic_trends,41,0.8,33,mock_data
+2024-01-21,y2k aesthetic,aesthetic_trends,36,0.8,29,mock_data
+2024-01-28,y2k aesthetic,aesthetic_trends,30,0.8,24,mock_data
+2024-02-04,y2k aesthetic,aesthetic_trends,55,0.8,44,mock_data
+2024-02-11,y2k aesthetic,aesthetic_trends,38,0.8,30,mock_data
+2024-02-18,y2k aesthetic,aesthetic_trends,38,0.8,31,mock_data
+2024-02-25,y2k aesthetic,aesthetic_trends,54,0.8,43,mock_data
+2024-03-03,y2k aesthetic,aesthetic_trends,57,0.8,45,mock_data
+2024-03-10,y2k aesthetic,aesthetic_trends,45,0.8,36,mock_data
+2024-03-17,y2k aesthetic,aesthetic_trends,44,0.8,35,mock_data
+2024-03-24,y2k aesthetic,aesthetic_trends,63,0.8,50,mock_data
+2024-03-31,y2k aesthetic,aesthetic_trends,48,0.8,38,mock_data
+2024-04-07,y2k aesthetic,aesthetic_trends,38,0.8,31,mock_data
+2024-04-14,y2k aesthetic,aesthetic_trends,61,0.8,48,mock_data
+2024-04-21,y2k aesthetic,aesthetic_trends,56,0.8,45,mock_data
+2024-04-28,y2k aesthetic,aesthetic_trends,43,0.8,35,mock_data
+2024-05-05,y2k aesthetic,aesthetic_trends,62,0.8,50,mock_data
+2024-05-12,y2k aesthetic,aesthetic_trends,48,0.8,38,mock_data
+2024-05-19,y2k aesthetic,aesthetic_trends,55,0.8,44,mock_data
+2024-05-26,y2k aesthetic,aesthetic_trends,60,0.8,48,mock_data
+2024-06-02,y2k aesthetic,aesthetic_trends,39,0.8,31,mock_data
+2024-06-09,y2k aesthetic,aesthetic_trends,50,0.8,40,mock_data
+2024-06-16,y2k aesthetic,aesthetic_trends,38,0.8,30,mock_data
+2024-06-23,y2k aesthetic,aesthetic_trends,43,0.8,35,mock_data
+2024-06-30,y2k aesthetic,aesthetic_trends,37,0.8,30,mock_data
+2024-07-07,y2k aesthetic,aesthetic_trends,41,0.8,33,mock_data
+2024-07-14,y2k aesthetic,aesthetic_trends,32,0.8,26,mock_data
+2024-07-21,y2k aesthetic,aesthetic_trends,40,0.8,32,mock_data
+2024-07-28,y2k aesthetic,aesthetic_trends,42,0.8,34,mock_data
+2024-08-04,y2k aesthetic,aesthetic_trends,43,0.8,34,mock_data
+2024-08-11,y2k aesthetic,aesthetic_trends,46,0.8,37,mock_data
+2024-08-18,y2k aesthetic,aesthetic_trends,31,0.8,25,mock_data
+2024-08-25,y2k aesthetic,aesthetic_trends,31,0.8,25,mock_data
+2024-09-01,y2k aesthetic,aesthetic_trends,25,0.8,20,mock_data
+2024-09-08,y2k aesthetic,aesthetic_trends,38,0.8,30,mock_data
+2024-09-15,y2k aesthetic,aesthetic_trends,36,0.8,28,mock_data
+2024-09-22,y2k aesthetic,aesthetic_trends,19,0.8,15,mock_data
+2024-09-29,y2k aesthetic,aesthetic_trends,23,0.8,18,mock_data
+2024-10-06,y2k aesthetic,aesthetic_trends,39,0.8,31,mock_data
+2024-10-13,y2k aesthetic,aesthetic_trends,40,0.8,32,mock_data
+2024-10-20,y2k aesthetic,aesthetic_trends,17,0.8,13,mock_data
+2024-10-27,y2k aesthetic,aesthetic_trends,51,0.8,41,mock_data
+2024-11-03,y2k aesthetic,aesthetic_trends,32,0.8,26,mock_data
+2024-11-10,y2k aesthetic,aesthetic_trends,29,0.8,23,mock_data
+2024-11-17,y2k aesthetic,aesthetic_trends,23,0.8,19,mock_data
+2024-11-24,y2k aesthetic,aesthetic_trends,44,0.8,35,mock_data
+2024-12-01,y2k aesthetic,aesthetic_trends,41,0.8,32,mock_data
+2024-12-08,y2k aesthetic,aesthetic_trends,37,0.8,29,mock_data
+2024-12-15,y2k aesthetic,aesthetic_trends,35,0.8,28,mock_data
+2024-12-22,y2k aesthetic,aesthetic_trends,37,0.8,29,mock_data
+2024-12-29,y2k aesthetic,aesthetic_trends,43,0.8,35,mock_data
+2024-01-07,minimalist,aesthetic_trends,44,0.8,35,mock_data
+2024-01-14,minimalist,aesthetic_trends,54,0.8,43,mock_data
+2024-01-21,minimalist,aesthetic_trends,49,0.8,39,mock_data
+2024-01-28,minimalist,aesthetic_trends,49,0.8,39,mock_data
+2024-02-04,minimalist,aesthetic_trends,46,0.8,37,mock_data
+2024-02-11,minimalist,aesthetic_trends,53,0.8,42,mock_data
+2024-02-18,minimalist,aesthetic_trends,50,0.8,40,mock_data
+2024-02-25,minimalist,aesthetic_trends,43,0.8,34,mock_data
+2024-03-03,minimalist,aesthetic_trends,49,0.8,39,mock_data
+2024-03-10,minimalist,aesthetic_trends,49,0.8,39,mock_data
+2024-03-17,minimalist,aesthetic_trends,58,0.8,46,mock_data
+2024-03-24,minimalist,aesthetic_trends,46,0.8,37,mock_data
+2024-03-31,minimalist,aesthetic_trends,44,0.8,35,mock_data
+2024-04-07,minimalist,aesthetic_trends,56,0.8,45,mock_data
+2024-04-14,minimalist,aesthetic_trends,50,0.8,40,mock_data
+2024-04-21,minimalist,aesthetic_trends,43,0.8,34,mock_data
+2024-04-28,minimalist,aesthetic_trends,48,0.8,39,mock_data
+2024-05-05,minimalist,aesthetic_trends,32,0.8,25,mock_data
+2024-05-12,minimalist,aesthetic_trends,41,0.8,33,mock_data
+2024-05-19,minimalist,aesthetic_trends,45,0.8,36,mock_data
+2024-05-26,minimalist,aesthetic_trends,42,0.8,34,mock_data
+2024-06-02,minimalist,aesthetic_trends,43,0.8,35,mock_data
+2024-06-09,minimalist,aesthetic_trends,42,0.8,33,mock_data
+2024-06-16,minimalist,aesthetic_trends,44,0.8,35,mock_data
+2024-06-23,minimalist,aesthetic_trends,46,0.8,37,mock_data
+2024-06-30,minimalist,aesthetic_trends,36,0.8,29,mock_data
+2024-07-07,minimalist,aesthetic_trends,53,0.8,42,mock_data
+2024-07-14,minimalist,aesthetic_trends,33,0.8,26,mock_data
+2024-07-21,minimalist,aesthetic_trends,52,0.8,41,mock_data
+2024-07-28,minimalist,aesthetic_trends,42,0.8,33,mock_data
+2024-08-04,minimalist,aesthetic_trends,35,0.8,28,mock_data
+2024-08-11,minimalist,aesthetic_trends,21,0.8,17,mock_data
+2024-08-18,minimalist,aesthetic_trends,38,0.8,30,mock_data
+2024-08-25,minimalist,aesthetic_trends,42,0.8,34,mock_data
+2024-09-01,minimalist,aesthetic_trends,30,0.8,24,mock_data
+2024-09-08,minimalist,aesthetic_trends,19,0.8,15,mock_data
+2024-09-15,minimalist,aesthetic_trends,28,0.8,22,mock_data
+2024-09-22,minimalist,aesthetic_trends,27,0.8,22,mock_data
+2024-09-29,minimalist,aesthetic_trends,27,0.8,21,mock_data
+2024-10-06,minimalist,aesthetic_trends,22,0.8,17,mock_data
+2024-10-13,minimalist,aesthetic_trends,33,0.8,26,mock_data
+2024-10-20,minimalist,aesthetic_trends,40,0.8,32,mock_data
+2024-10-27,minimalist,aesthetic_trends,28,0.8,22,mock_data
+2024-11-03,minimalist,aesthetic_trends,31,0.8,25,mock_data
+2024-11-10,minimalist,aesthetic_trends,26,0.8,21,mock_data
+2024-11-17,minimalist,aesthetic_trends,22,0.8,17,mock_data
+2024-11-24,minimalist,aesthetic_trends,34,0.8,27,mock_data
+2024-12-01,minimalist,aesthetic_trends,32,0.8,25,mock_data
+2024-12-08,minimalist,aesthetic_trends,21,0.8,17,mock_data
+2024-12-15,minimalist,aesthetic_trends,35,0.8,28,mock_data
+2024-12-22,minimalist,aesthetic_trends,27,0.8,22,mock_data
+2024-12-29,minimalist,aesthetic_trends,35,0.8,28,mock_data
+2024-01-07,kawaii,aesthetic_trends,41,0.8,33,mock_data
+2024-01-14,kawaii,aesthetic_trends,44,0.8,35,mock_data
+2024-01-21,kawaii,aesthetic_trends,44,0.8,35,mock_data
+2024-01-28,kawaii,aesthetic_trends,49,0.8,39,mock_data
+2024-02-04,kawaii,aesthetic_trends,47,0.8,37,mock_data
+2024-02-11,kawaii,aesthetic_trends,28,0.8,23,mock_data
+2024-02-18,kawaii,aesthetic_trends,50,0.8,40,mock_data
+2024-02-25,kawaii,aesthetic_trends,35,0.8,28,mock_data
+2024-03-03,kawaii,aesthetic_trends,42,0.8,34,mock_data
+2024-03-10,kawaii,aesthetic_trends,45,0.8,36,mock_data
+2024-03-17,kawaii,aesthetic_trends,36,0.8,29,mock_data
+2024-03-24,kawaii,aesthetic_trends,46,0.8,37,mock_data
+2024-03-31,kawaii,aesthetic_trends,54,0.8,43,mock_data
+2024-04-07,kawaii,aesthetic_trends,34,0.8,27,mock_data
+2024-04-14,kawaii,aesthetic_trends,41,0.8,33,mock_data
+2024-04-21,kawaii,aesthetic_trends,39,0.8,31,mock_data
+2024-04-28,kawaii,aesthetic_trends,49,0.8,39,mock_data
+2024-05-05,kawaii,aesthetic_trends,49,0.8,39,mock_data
+2024-05-12,kawaii,aesthetic_trends,48,0.8,39,mock_data
+2024-05-19,kawaii,aesthetic_trends,34,0.8,27,mock_data
+2024-05-26,kawaii,aesthetic_trends,52,0.8,42,mock_data
+2024-06-02,kawaii,aesthetic_trends,40,0.8,32,mock_data
+2024-06-09,kawaii,aesthetic_trends,49,0.8,39,mock_data
+2024-06-16,kawaii,aesthetic_trends,48,0.8,39,mock_data
+2024-06-23,kawaii,aesthetic_trends,43,0.8,34,mock_data
+2024-06-30,kawaii,aesthetic_trends,37,0.8,30,mock_data
+2024-07-07,kawaii,aesthetic_trends,50,0.8,40,mock_data
+2024-07-14,kawaii,aesthetic_trends,33,0.8,26,mock_data
+2024-07-21,kawaii,aesthetic_trends,32,0.8,25,mock_data
+2024-07-28,kawaii,aesthetic_trends,36,0.8,29,mock_data
+2024-08-04,kawaii,aesthetic_trends,31,0.8,24,mock_data
+2024-08-11,kawaii,aesthetic_trends,37,0.8,30,mock_data
+2024-08-18,kawaii,aesthetic_trends,33,0.8,27,mock_data
+2024-08-25,kawaii,aesthetic_trends,47,0.8,37,mock_data
+2024-09-01,kawaii,aesthetic_trends,23,0.8,19,mock_data
+2024-09-08,kawaii,aesthetic_trends,27,0.8,22,mock_data
+2024-09-15,kawaii,aesthetic_trends,42,0.8,33,mock_data
+2024-09-22,kawaii,aesthetic_trends,31,0.8,24,mock_data
+2024-09-29,kawaii,aesthetic_trends,33,0.8,27,mock_data
+2024-10-06,kawaii,aesthetic_trends,12,0.8,10,mock_data
+2024-10-13,kawaii,aesthetic_trends,44,0.8,35,mock_data
+2024-10-20,kawaii,aesthetic_trends,38,0.8,30,mock_data
+2024-10-27,kawaii,aesthetic_trends,38,0.8,30,mock_data
+2024-11-03,kawaii,aesthetic_trends,36,0.8,29,mock_data
+2024-11-10,kawaii,aesthetic_trends,32,0.8,25,mock_data
+2024-11-17,kawaii,aesthetic_trends,49,0.8,39,mock_data
+2024-11-24,kawaii,aesthetic_trends,28,0.8,22,mock_data
+2024-12-01,kawaii,aesthetic_trends,31,0.8,24,mock_data
+2024-12-08,kawaii,aesthetic_trends,30,0.8,24,mock_data
+2024-12-15,kawaii,aesthetic_trends,38,0.8,31,mock_data
+2024-12-22,kawaii,aesthetic_trends,30,0.8,24,mock_data
+2024-12-29,kawaii,aesthetic_trends,50,0.8,40,mock_data
+2024-01-07,tiktok viral,viral_trends,70,0.6,42,mock_data
+2024-01-14,tiktok viral,viral_trends,84,0.6,50,mock_data
+2024-01-21,tiktok viral,viral_trends,69,0.6,41,mock_data
+2024-01-28,tiktok viral,viral_trends,67,0.6,40,mock_data
+2024-02-04,tiktok viral,viral_trends,62,0.6,37,mock_data
+2024-02-11,tiktok viral,viral_trends,61,0.6,36,mock_data
+2024-02-18,tiktok viral,viral_trends,60,0.6,36,mock_data
+2024-02-25,tiktok viral,viral_trends,70,0.6,42,mock_data
+2024-03-03,tiktok viral,viral_trends,65,0.6,39,mock_data
+2024-03-10,tiktok viral,viral_trends,69,0.6,41,mock_data
+2024-03-17,tiktok viral,viral_trends,64,0.6,38,mock_data
+2024-03-24,tiktok viral,viral_trends,58,0.6,35,mock_data
+2024-03-31,tiktok viral,viral_trends,69,0.6,41,mock_data
+2024-04-07,tiktok viral,viral_trends,89,0.6,53,mock_data
+2024-04-14,tiktok viral,viral_trends,64,0.6,38,mock_data
+2024-04-21,tiktok viral,viral_trends,56,0.6,33,mock_data
+2024-04-28,tiktok viral,viral_trends,100,0.6,60,mock_data
+2024-05-05,tiktok viral,viral_trends,67,0.6,40,mock_data
+2024-05-12,tiktok viral,viral_trends,59,0.6,35,mock_data
+2024-05-19,tiktok viral,viral_trends,41,0.6,25,mock_data
+2024-05-26,tiktok viral,viral_trends,77,0.6,46,mock_data
+2024-06-02,tiktok viral,viral_trends,79,0.6,47,mock_data
+2024-06-09,tiktok viral,viral_trends,37,0.6,22,mock_data
+2024-06-16,tiktok viral,viral_trends,45,0.6,27,mock_data
+2024-06-23,tiktok viral,viral_trends,43,0.6,26,mock_data
+2024-06-30,tiktok viral,viral_trends,39,0.6,23,mock_data
+2024-07-07,tiktok viral,viral_trends,39,0.6,23,mock_data
+2024-07-14,tiktok viral,viral_trends,41,0.6,24,mock_data
+2024-07-21,tiktok viral,viral_trends,20,0.6,12,mock_data
+2024-07-28,tiktok viral,viral_trends,22,0.6,13,mock_data
+2024-08-04,tiktok viral,viral_trends,16,0.6,10,mock_data
+2024-08-11,tiktok viral,viral_trends,33,0.6,20,mock_data
+2024-08-18,tiktok viral,viral_trends,14,0.6,8,mock_data
+2024-08-25,tiktok viral,viral_trends,25,0.6,15,mock_data
+2024-09-01,tiktok viral,viral_trends,9,0.6,5,mock_data
+2024-09-08,tiktok viral,viral_trends,39,0.6,23,mock_data
+2024-09-15,tiktok viral,viral_trends,27,0.6,16,mock_data
+2024-09-22,tiktok viral,viral_trends,15,0.6,9,mock_data
+2024-09-29,tiktok viral,viral_trends,10,0.6,6,mock_data
+2024-10-06,tiktok viral,viral_trends,35,0.6,21,mock_data
+2024-10-13,tiktok viral,viral_trends,20,0.6,12,mock_data
+2024-10-20,tiktok viral,viral_trends,10,0.6,6,mock_data
+2024-10-27,tiktok viral,viral_trends,0,0.6,0,mock_data
+2024-11-03,tiktok viral,viral_trends,9,0.6,5,mock_data
+2024-11-10,tiktok viral,viral_trends,6,0.6,3,mock_data
+2024-11-17,tiktok viral,viral_trends,7,0.6,4,mock_data
+2024-11-24,tiktok viral,viral_trends,53,0.6,31,mock_data
+2024-12-01,tiktok viral,viral_trends,9,0.6,5,mock_data
+2024-12-08,tiktok viral,viral_trends,11,0.6,7,mock_data
+2024-12-15,tiktok viral,viral_trends,16,0.6,9,mock_data
+2024-12-22,tiktok viral,viral_trends,60,0.6,36,mock_data
+2024-12-29,tiktok viral,viral_trends,33,0.6,19,mock_data
+2024-01-07,instagram reels,viral_trends,100,0.6,60,mock_data
+2024-01-14,instagram reels,viral_trends,59,0.6,35,mock_data
+2024-01-21,instagram reels,viral_trends,100,0.6,60,mock_data
+2024-01-28,instagram reels,viral_trends,94,0.6,56,mock_data
+2024-02-04,instagram reels,viral_trends,75,0.6,45,mock_data
+2024-02-11,instagram reels,viral_trends,100,0.6,60,mock_data
+2024-02-18,instagram reels,viral_trends,66,0.6,40,mock_data
+2024-02-25,instagram reels,viral_trends,100,0.6,60,mock_data
+2024-03-03,instagram reels,viral_trends,73,0.6,44,mock_data
+2024-03-10,instagram reels,viral_trends,100,0.6,60,mock_data
+2024-03-17,instagram reels,viral_trends,67,0.6,40,mock_data
+2024-03-24,instagram reels,viral_trends,66,0.6,39,mock_data
+2024-03-31,instagram reels,viral_trends,100,0.6,60,mock_data
+2024-04-07,instagram reels,viral_trends,70,0.6,42,mock_data
+2024-04-14,instagram reels,viral_trends,47,0.6,28,mock_data
+2024-04-21,instagram reels,viral_trends,57,0.6,34,mock_data
+2024-04-28,instagram reels,viral_trends,63,0.6,37,mock_data
+2024-05-05,instagram reels,viral_trends,48,0.6,28,mock_data
+2024-05-12,instagram reels,viral_trends,48,0.6,28,mock_data
+2024-05-19,instagram reels,viral_trends,53,0.6,32,mock_data
+2024-05-26,instagram reels,viral_trends,52,0.6,31,mock_data
+2024-06-02,instagram reels,viral_trends,43,0.6,26,mock_data
+2024-06-09,instagram reels,viral_trends,51,0.6,30,mock_data
+2024-06-16,instagram reels,viral_trends,40,0.6,24,mock_data
+2024-06-23,instagram reels,viral_trends,67,0.6,40,mock_data
+2024-06-30,instagram reels,viral_trends,52,0.6,31,mock_data
+2024-07-07,instagram reels,viral_trends,36,0.6,22,mock_data
+2024-07-14,instagram reels,viral_trends,31,0.6,19,mock_data
+2024-07-21,instagram reels,viral_trends,15,0.6,9,mock_data
+2024-07-28,instagram reels,viral_trends,58,0.6,35,mock_data
+2024-08-04,instagram reels,viral_trends,50,0.6,30,mock_data
+2024-08-11,instagram reels,viral_trends,23,0.6,14,mock_data
+2024-08-18,instagram reels,viral_trends,24,0.6,14,mock_data
+2024-08-25,instagram reels,viral_trends,11,0.6,6,mock_data
+2024-09-01,instagram reels,viral_trends,15,0.6,9,mock_data
+2024-09-08,instagram reels,viral_trends,63,0.6,38,mock_data
+2024-09-15,instagram reels,viral_trends,15,0.6,9,mock_data
+2024-09-22,instagram reels,viral_trends,13,0.6,8,mock_data
+2024-09-29,instagram reels,viral_trends,4,0.6,2,mock_data
+2024-10-06,instagram reels,viral_trends,49,0.6,29,mock_data
+2024-10-13,instagram reels,viral_trends,56,0.6,34,mock_data
+2024-10-20,instagram reels,viral_trends,43,0.6,26,mock_data
+2024-10-27,instagram reels,viral_trends,4,0.6,2,mock_data
+2024-11-03,instagram reels,viral_trends,43,0.6,26,mock_data
+2024-11-10,instagram reels,viral_trends,8,0.6,5,mock_data
+2024-11-17,instagram reels,viral_trends,23,0.6,13,mock_data
+2024-11-24,instagram reels,viral_trends,0,0.6,0,mock_data
+2024-12-01,instagram reels,viral_trends,22,0.6,13,mock_data
+2024-12-08,instagram reels,viral_trends,21,0.6,12,mock_data
+2024-12-15,instagram reels,viral_trends,5,0.6,3,mock_data
+2024-12-22,instagram reels,viral_trends,51,0.6,31,mock_data
+2024-12-29,instagram reels,viral_trends,19,0.6,11,mock_data
+2024-01-07,food challenge,viral_trends,66,0.6,39,mock_data
+2024-01-14,food challenge,viral_trends,86,0.6,51,mock_data
+2024-01-21,food challenge,viral_trends,70,0.6,42,mock_data
+2024-01-28,food challenge,viral_trends,56,0.6,33,mock_data
+2024-02-04,food challenge,viral_trends,72,0.6,43,mock_data
+2024-02-11,food challenge,viral_trends,74,0.6,44,mock_data
+2024-02-18,food challenge,viral_trends,67,0.6,40,mock_data
+2024-02-25,food challenge,viral_trends,76,0.6,45,mock_data
+2024-03-03,food challenge,viral_trends,100,0.6,60,mock_data
+2024-03-10,food challenge,viral_trends,100,0.6,60,mock_data
+2024-03-17,food challenge,viral_trends,82,0.6,49,mock_data
+2024-03-24,food challenge,viral_trends,72,0.6,43,mock_data
+2024-03-31,food challenge,viral_trends,94,0.6,56,mock_data
+2024-04-07,food challenge,viral_trends,64,0.6,38,mock_data
+2024-04-14,food challenge,viral_trends,56,0.6,34,mock_data
+2024-04-21,food challenge,viral_trends,54,0.6,32,mock_data
+2024-04-28,food challenge,viral_trends,49,0.6,29,mock_data
+2024-05-05,food challenge,viral_trends,71,0.6,42,mock_data
+2024-05-12,food challenge,viral_trends,50,0.6,30,mock_data
+2024-05-19,food challenge,viral_trends,55,0.6,33,mock_data
+2024-05-26,food challenge,viral_trends,39,0.6,23,mock_data
+2024-06-02,food challenge,viral_trends,41,0.6,24,mock_data
+2024-06-09,food challenge,viral_trends,39,0.6,23,mock_data
+2024-06-16,food challenge,viral_trends,39,0.6,23,mock_data
+2024-06-23,food challenge,viral_trends,32,0.6,19,mock_data
+2024-06-30,food challenge,viral_trends,33,0.6,19,mock_data
+2024-07-07,food challenge,viral_trends,12,0.6,7,mock_data
+2024-07-14,food challenge,viral_trends,29,0.6,17,mock_data
+2024-07-21,food challenge,viral_trends,19,0.6,11,mock_data
+2024-07-28,food challenge,viral_trends,19,0.6,11,mock_data
+2024-08-04,food challenge,viral_trends,30,0.6,18,mock_data
+2024-08-11,food challenge,viral_trends,18,0.6,10,mock_data
+2024-08-18,food challenge,viral_trends,17,0.6,10,mock_data
+2024-08-25,food challenge,viral_trends,19,0.6,11,mock_data
+2024-09-01,food challenge,viral_trends,16,0.6,9,mock_data
+2024-09-08,food challenge,viral_trends,22,0.6,13,mock_data
+2024-09-15,food challenge,viral_trends,72,0.6,43,mock_data
+2024-09-22,food challenge,viral_trends,0,0.6,0,mock_data
+2024-09-29,food challenge,viral_trends,13,0.6,8,mock_data
+2024-10-06,food challenge,viral_trends,0,0.6,0,mock_data
+2024-10-13,food challenge,viral_trends,0,0.6,0,mock_data
+2024-10-20,food challenge,viral_trends,11,0.6,7,mock_data
+2024-10-27,food challenge,viral_trends,29,0.6,17,mock_data
+2024-11-03,food challenge,viral_trends,11,0.6,7,mock_data
+2024-11-10,food challenge,viral_trends,5,0.6,3,mock_data
+2024-11-17,food challenge,viral_trends,1,0.6,0,mock_data
+2024-11-24,food challenge,viral_trends,6,0.6,3,mock_data
+2024-12-01,food challenge,viral_trends,34,0.6,20,mock_data
+2024-12-08,food challenge,viral_trends,6,0.6,3,mock_data
+2024-12-15,food challenge,viral_trends,46,0.6,27,mock_data
+2024-12-22,food challenge,viral_trends,11,0.6,7,mock_data
+2024-12-29,food challenge,viral_trends,2,0.6,1,mock_data
+2024-01-07,aesthetic food,viral_trends,80,0.6,48,mock_data
+2024-01-14,aesthetic food,viral_trends,78,0.6,47,mock_data
+2024-01-21,aesthetic food,viral_trends,100,0.6,60,mock_data
+2024-01-28,aesthetic food,viral_trends,66,0.6,40,mock_data
+2024-02-04,aesthetic food,viral_trends,65,0.6,39,mock_data
+2024-02-11,aesthetic food,viral_trends,91,0.6,55,mock_data
+2024-02-18,aesthetic food,viral_trends,76,0.6,45,mock_data
+2024-02-25,aesthetic food,viral_trends,68,0.6,41,mock_data
+2024-03-03,aesthetic food,viral_trends,77,0.6,46,mock_data
+2024-03-10,aesthetic food,viral_trends,72,0.6,43,mock_data
+2024-03-17,aesthetic food,viral_trends,62,0.6,37,mock_data
+2024-03-24,aesthetic food,viral_trends,55,0.6,33,mock_data
+2024-03-31,aesthetic food,viral_trends,52,0.6,31,mock_data
+2024-04-07,aesthetic food,viral_trends,56,0.6,34,mock_data
+2024-04-14,aesthetic food,viral_trends,63,0.6,38,mock_data
+2024-04-21,aesthetic food,viral_trends,56,0.6,34,mock_data
+2024-04-28,aesthetic food,viral_trends,54,0.6,32,mock_data
+2024-05-05,aesthetic food,viral_trends,53,0.6,31,mock_data
+2024-05-12,aesthetic food,viral_trends,55,0.6,33,mock_data
+2024-05-19,aesthetic food,viral_trends,76,0.6,46,mock_data
+2024-05-26,aesthetic food,viral_trends,63,0.6,37,mock_data
+2024-06-02,aesthetic food,viral_trends,79,0.6,47,mock_data
+2024-06-09,aesthetic food,viral_trends,50,0.6,30,mock_data
+2024-06-16,aesthetic food,viral_trends,45,0.6,27,mock_data
+2024-06-23,aesthetic food,viral_trends,37,0.6,22,mock_data
+2024-06-30,aesthetic food,viral_trends,94,0.6,56,mock_data
+2024-07-07,aesthetic food,viral_trends,30,0.6,18,mock_data
+2024-07-14,aesthetic food,viral_trends,35,0.6,21,mock_data
+2024-07-21,aesthetic food,viral_trends,53,0.6,32,mock_data
+2024-07-28,aesthetic food,viral_trends,36,0.6,21,mock_data
+2024-08-04,aesthetic food,viral_trends,33,0.6,19,mock_data
+2024-08-11,aesthetic food,viral_trends,31,0.6,18,mock_data
+2024-08-18,aesthetic food,viral_trends,37,0.6,22,mock_data
+2024-08-25,aesthetic food,viral_trends,29,0.6,17,mock_data
+2024-09-01,aesthetic food,viral_trends,35,0.6,21,mock_data
+2024-09-08,aesthetic food,viral_trends,66,0.6,39,mock_data
+2024-09-15,aesthetic food,viral_trends,4,0.6,2,mock_data
+2024-09-22,aesthetic food,viral_trends,0,0.6,0,mock_data
+2024-09-29,aesthetic food,viral_trends,7,0.6,4,mock_data
+2024-10-06,aesthetic food,viral_trends,8,0.6,5,mock_data
+2024-10-13,aesthetic food,viral_trends,17,0.6,10,mock_data
+2024-10-20,aesthetic food,viral_trends,78,0.6,46,mock_data
+2024-10-27,aesthetic food,viral_trends,53,0.6,32,mock_data
+2024-11-03,aesthetic food,viral_trends,15,0.6,9,mock_data
+2024-11-10,aesthetic food,viral_trends,7,0.6,4,mock_data
+2024-11-17,aesthetic food,viral_trends,7,0.6,4,mock_data
+2024-11-24,aesthetic food,viral_trends,18,0.6,10,mock_data
+2024-12-01,aesthetic food,viral_trends,9,0.6,5,mock_data
+2024-12-08,aesthetic food,viral_trends,18,0.6,11,mock_data
+2024-12-15,aesthetic food,viral_trends,72,0.6,43,mock_data
+2024-12-22,aesthetic food,viral_trends,14,0.6,8,mock_data
+2024-12-29,aesthetic food,viral_trends,7,0.6,4,mock_data

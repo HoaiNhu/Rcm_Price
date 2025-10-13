@@ -1,0 +1,585 @@
+{
+  "info": {
+    "_postman_id": "ai-promotion-system-api",
+    "name": "AI Promotion System API",
+    "description": "Complete API collection for AI Promotion System with MongoDB, TensorFlow Recommenders, HuggingFace Transformers, and Dynamic Pricing",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "ai-promotion-api"
+  },
+  "item": [
+    {
+      "name": "🔍 Basic Endpoints",
+      "item": [
+        {
+          "name": "Root Endpoint",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/",
+              "host": ["{{base_url}}"],
+              "path": [""]
+            },
+            "description": "Get system information and features"
+          },
+          "response": []
+        },
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/health",
+              "host": ["{{base_url}}"],
+              "path": ["health"]
+            },
+            "description": "Comprehensive health check with service status"
+          },
+          "response": []
+        }
+      ],
+      "description": "Basic system endpoints"
+    },
+    {
+      "name": "🤖 Hybrid Recommendation System",
+      "item": [
+        {
+          "name": "Initialize Hybrid System",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/initialize",
+              "host": ["{{base_url}}"],
+              "path": ["api", "hybrid", "initialize"]
+            },
+            "description": "Initialize hybrid recommendation system"
+          },
+          "response": []
+        },
+        {
+          "name": "User Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/user-recommendations/{{user_id}}?top_k=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "hybrid", "user-recommendations", "{{user_id}}"],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "10",
+                  "description": "Number of recommendations"
+                }
+              ]
+            },
+            "description": "Get comprehensive recommendations for a user"
+          },
+          "response": []
+        },
+        {
+          "name": "Product Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/product-recommendations/{{product_id}}?top_k=5",
+              "host": ["{{base_url}}"],
+              "path": [
+                "api",
+                "hybrid",
+                "product-recommendations",
+                "{{product_id}}"
+              ],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "5",
+                  "description": "Number of recommendations"
+                }
+              ]
+            },
+            "description": "Get comprehensive recommendations for a product"
+          },
+          "response": []
+        },
+        {
+          "name": "Promotion Strategy",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/promotion-strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "hybrid", "promotion-strategy"]
+            },
+            "description": "Get comprehensive promotion strategy"
+          },
+          "response": []
+        },
+        {
+          "name": "Generate Complete Strategy",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/generate-complete-strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "hybrid", "generate-complete-strategy"]
+            },
+            "description": "Generate complete AI strategy using all models"
+          },
+          "response": []
+        }
+      ],
+      "description": "Hybrid recommendation system endpoints"
+    },
+    {
+      "name": "🧠 Individual Model Endpoints",
+      "item": [
+        {
+          "name": "TensorFlow Recommenders",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/tf-recommenders/recommendations/{{user_id}}?top_k=5",
+              "host": ["{{base_url}}"],
+              "path": [
+                "api",
+                "tf-recommenders",
+                "recommendations",
+                "{{user_id}}"
+              ],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "5",
+                  "description": "Number of recommendations"
+                }
+              ]
+            },
+            "description": "Get TensorFlow Recommenders recommendations"
+          },
+          "response": []
+        },
+        {
+          "name": "HuggingFace Similar Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/huggingface/similar-products/{{product_id}}?top_k=5",
+              "host": ["{{base_url}}"],
+              "path": [
+                "api",
+                "huggingface",
+                "similar-products",
+                "{{product_id}}"
+              ],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "5",
+                  "description": "Number of similar products"
+                }
+              ]
+            },
+            "description": "Get HuggingFace similar products"
+          },
+          "response": []
+        },
+        {
+          "name": "HuggingFace Search Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/huggingface/search-products?query=bánh sinh nhật&top_k=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "huggingface", "search-products"],
+              "query": [
+                {
+                  "key": "query",
+                  "value": "bánh sinh nhật",
+                  "description": "Search query"
+                },
+                {
+                  "key": "top_k",
+                  "value": "5",
+                  "description": "Number of results"
+                }
+              ]
+            },
+            "description": "Search products using semantic search"
+          },
+          "response": []
+        },
+        {
+          "name": "Price Optimization",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/pricing/optimize/{{product_id}}?target_date=2024-02-14",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing", "optimize", "{{product_id}}"],
+              "query": [
+                {
+                  "key": "target_date",
+                  "value": "2024-02-14",
+                  "description": "Target date (YYYY-MM-DD)"
+                }
+              ]
+            },
+            "description": "Optimize price for a specific product"
+          },
+          "response": []
+        },
+        {
+          "name": "Pricing Strategy",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/pricing/strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing", "strategy"]
+            },
+            "description": "Get comprehensive pricing strategy"
+          },
+          "response": []
+        }
+      ],
+      "description": "Individual model endpoints"
+    },
+    {
+      "name": "📊 Analytics & Reporting",
+      "item": [
+        {
+          "name": "Business Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/business-health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "business-health"]
+            },
+            "description": "Get comprehensive business analytics"
+          },
+          "response": []
+        },
+        {
+          "name": "Product Performance",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/product-performance",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "product-performance"]
+            },
+            "description": "Get product performance analytics"
+          },
+          "response": []
+        },
+        {
+          "name": "Customer Insights",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/customer-insights",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "customer-insights"]
+            },
+            "description": "Get customer insights and segmentation"
+          },
+          "response": []
+        },
+        {
+          "name": "Market Trends",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/trends",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "trends"]
+            },
+            "description": "Get market trends and patterns"
+          },
+          "response": []
+        }
+      ],
+      "description": "Analytics and reporting endpoints"
+    },
+    {
+      "name": "💾 Data Access",
+      "item": [
+        {
+          "name": "Get Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/products",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "products"]
+            },
+            "description": "Get products data from MongoDB"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Orders",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/orders?limit=50&start_date=2024-01-01&end_date=2024-01-31",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "orders"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "50",
+                  "description": "Limit number of records"
+                },
+                {
+                  "key": "start_date",
+                  "value": "2024-01-01",
+                  "description": "Start date (YYYY-MM-DD)"
+                },
+                {
+                  "key": "end_date",
+                  "value": "2024-01-31",
+                  "description": "End date (YYYY-MM-DD)"
+                }
+              ]
+            },
+            "description": "Get orders data with filters"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Users",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/users",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "users"]
+            },
+            "description": "Get users data from MongoDB"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Ratings",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/ratings",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "ratings"]
+            },
+            "description": "Get ratings data from MongoDB"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Discounts",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/discounts",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "discounts"]
+            },
+            "description": "Get discounts data from MongoDB"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Search Histories",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/search-histories",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "search-histories"]
+            },
+            "description": "Get search histories data from MongoDB"
+          },
+          "response": []
+        }
+      ],
+      "description": "Data access endpoints"
+    },
+    {
+      "name": "🎭 Mock Endpoints (No MongoDB Required)",
+      "item": [
+        {
+          "name": "Mock User Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/mock/recommendations/{{user_id}}?top_k=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "mock", "recommendations", "{{user_id}}"],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "5",
+                  "description": "Number of recommendations"
+                }
+              ]
+            },
+            "description": "Get mock recommendations for testing"
+          },
+          "response": []
+        },
+        {
+          "name": "Mock Promotion Strategy",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/mock/promotion-strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "mock", "promotion-strategy"]
+            },
+            "description": "Get mock promotion strategy for testing"
+          },
+          "response": []
+        }
+      ],
+      "description": "Mock endpoints for testing without MongoDB"
+    },
+    {
+      "name": "🔄 Legacy Endpoints",
+      "item": [
+        {
+          "name": "Legacy Business Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/business-health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "business-health"]
+            },
+            "description": "Legacy endpoint for business health"
+          },
+          "response": []
+        },
+        {
+          "name": "Legacy Product Combos",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/product-combos",
+              "host": ["{{base_url}}"],
+              "path": ["api", "product-combos"]
+            },
+            "description": "Legacy endpoint for product combos"
+          },
+          "response": []
+        },
+        {
+          "name": "Legacy Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/recommendations",
+              "host": ["{{base_url}}"],
+              "path": ["api", "recommendations"]
+            },
+            "description": "Legacy endpoint for recommendations"
+          },
+          "response": []
+        },
+        {
+          "name": "Legacy Generate Strategy",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/generate-strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "generate-strategy"]
+            },
+            "description": "Legacy endpoint for strategy generation"
+          },
+          "response": []
+        },
+        {
+          "name": "Legacy Recent Strategies",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/recent-strategies?limit=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "recent-strategies"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "5",
+                  "description": "Number of recent strategies"
+                }
+              ]
+            },
+            "description": "Legacy endpoint for recent strategies"
+          },
+          "response": []
+        }
+      ],
+      "description": "Legacy endpoints for backward compatibility"
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [""]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "exec": [""]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:8000",
+      "description": "Base URL for the API"
+    },
+    {
+      "key": "user_id",
+      "value": "676eaf5cbf34ce78983409c3",
+      "description": "Sample user ID for testing"
+    },
+    {
+      "key": "product_id",
+      "value": "67643c2411d943b7bdecb7d3",
+      "description": "Sample product ID for testing"
+    }
+  ]
+}

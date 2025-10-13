@@ -1,0 +1,841 @@
+date,keyword,search_interest,platform
+2023-01-01,bánh sinh nhật,31,google
+2023-01-08,bánh sinh nhật,26,google
+2023-01-15,bánh sinh nhật,25,google
+2023-01-22,bánh sinh nhật,31,google
+2023-01-29,bánh sinh nhật,34,google
+2023-02-05,bánh sinh nhật,36,google
+2023-02-12,bánh sinh nhật,33,google
+2023-02-19,bánh sinh nhật,33,google
+2023-02-26,bánh sinh nhật,37,google
+2023-03-05,bánh sinh nhật,41,google
+2023-03-12,bánh sinh nhật,33,google
+2023-03-19,bánh sinh nhật,31,google
+2023-03-26,bánh sinh nhật,31,google
+2023-04-02,bánh sinh nhật,32,google
+2023-04-09,bánh sinh nhật,31,google
+2023-04-16,bánh sinh nhật,30,google
+2023-04-23,bánh sinh nhật,30,google
+2023-04-30,bánh sinh nhật,32,google
+2023-05-07,bánh sinh nhật,31,google
+2023-05-14,bánh sinh nhật,37,google
+2023-05-21,bánh sinh nhật,34,google
+2023-05-28,bánh sinh nhật,33,google
+2023-06-04,bánh sinh nhật,34,google
+2023-06-11,bánh sinh nhật,34,google
+2023-06-18,bánh sinh nhật,37,google
+2023-06-25,bánh sinh nhật,35,google
+2023-07-02,bánh sinh nhật,39,google
+2023-07-09,bánh sinh nhật,38,google
+2023-07-16,bánh sinh nhật,36,google
+2023-07-23,bánh sinh nhật,36,google
+2023-07-30,bánh sinh nhật,37,google
+2023-08-06,bánh sinh nhật,40,google
+2023-08-13,bánh sinh nhật,41,google
+2023-08-20,bánh sinh nhật,37,google
+2023-08-27,bánh sinh nhật,40,google
+2023-09-03,bánh sinh nhật,36,google
+2023-09-10,bánh sinh nhật,33,google
+2023-09-17,bánh sinh nhật,35,google
+2023-09-24,bánh sinh nhật,36,google
+2023-10-01,bánh sinh nhật,40,google
+2023-10-08,bánh sinh nhật,43,google
+2023-10-15,bánh sinh nhật,46,google
+2023-10-22,bánh sinh nhật,34,google
+2023-10-29,bánh sinh nhật,32,google
+2023-11-05,bánh sinh nhật,35,google
+2023-11-12,bánh sinh nhật,34,google
+2023-11-19,bánh sinh nhật,34,google
+2023-11-26,bánh sinh nhật,27,google
+2023-12-03,bánh sinh nhật,28,google
+2023-12-10,bánh sinh nhật,31,google
+2023-12-17,bánh sinh nhật,28,google
+2023-12-24,bánh sinh nhật,27,google
+2023-12-31,bánh sinh nhật,30,google
+2024-01-07,bánh sinh nhật,24,google
+2024-01-14,bánh sinh nhật,23,google
+2024-01-21,bánh sinh nhật,19,google
+2024-01-28,bánh sinh nhật,21,google
+2024-02-04,bánh sinh nhật,19,google
+2024-02-11,bánh sinh nhật,29,google
+2024-02-18,bánh sinh nhật,25,google
+2024-02-25,bánh sinh nhật,25,google
+2024-03-03,bánh sinh nhật,32,google
+2024-03-10,bánh sinh nhật,24,google
+2024-03-17,bánh sinh nhật,24,google
+2024-03-24,bánh sinh nhật,20,google
+2024-03-31,bánh sinh nhật,22,google
+2024-04-07,bánh sinh nhật,24,google
+2024-04-14,bánh sinh nhật,22,google
+2024-04-21,bánh sinh nhật,20,google
+2024-04-28,bánh sinh nhật,23,google
+2024-05-05,bánh sinh nhật,24,google
+2024-05-12,bánh sinh nhật,25,google
+2024-05-19,bánh sinh nhật,26,google
+2024-05-26,bánh sinh nhật,23,google
+2024-06-02,bánh sinh nhật,25,google
+2024-06-09,bánh sinh nhật,24,google
+2024-06-16,bánh sinh nhật,22,google
+2024-06-23,bánh sinh nhật,24,google
+2024-06-30,bánh sinh nhật,24,google
+2024-07-07,bánh sinh nhật,25,google
+2024-07-14,bánh sinh nhật,25,google
+2024-07-21,bánh sinh nhật,26,google
+2024-07-28,bánh sinh nhật,27,google
+2024-08-04,bánh sinh nhật,33,google
+2024-08-11,bánh sinh nhật,30,google
+2024-08-18,bánh sinh nhật,29,google
+2024-08-25,bánh sinh nhật,28,google
+2024-09-01,bánh sinh nhật,29,google
+2024-09-08,bánh sinh nhật,26,google
+2024-09-15,bánh sinh nhật,29,google
+2024-09-22,bánh sinh nhật,25,google
+2024-09-29,bánh sinh nhật,29,google
+2024-10-06,bánh sinh nhật,31,google
+2024-10-13,bánh sinh nhật,35,google
+2024-10-20,bánh sinh nhật,30,google
+2024-10-27,bánh sinh nhật,26,google
+2024-11-03,bánh sinh nhật,25,google
+2024-11-10,bánh sinh nhật,27,google
+2024-11-17,bánh sinh nhật,32,google
+2024-11-24,bánh sinh nhật,22,google
+2024-12-01,bánh sinh nhật,23,google
+2024-12-08,bánh sinh nhật,22,google
+2024-12-15,bánh sinh nhật,25,google
+2024-12-22,bánh sinh nhật,22,google
+2024-12-29,bánh sinh nhật,23,google
+2023-01-01,bánh mì,51,google
+2023-01-08,bánh mì,46,google
+2023-01-15,bánh mì,43,google
+2023-01-22,bánh mì,46,google
+2023-01-29,bánh mì,53,google
+2023-02-05,bánh mì,54,google
+2023-02-12,bánh mì,55,google
+2023-02-19,bánh mì,63,google
+2023-02-26,bánh mì,64,google
+2023-03-05,bánh mì,72,google
+2023-03-12,bánh mì,82,google
+2023-03-19,bánh mì,90,google
+2023-03-26,bánh mì,100,google
+2023-04-02,bánh mì,75,google
+2023-04-09,bánh mì,68,google
+2023-04-16,bánh mì,62,google
+2023-04-23,bánh mì,60,google
+2023-04-30,bánh mì,62,google
+2023-05-07,bánh mì,57,google
+2023-05-14,bánh mì,55,google
+2023-05-21,bánh mì,60,google
+2023-05-28,bánh mì,57,google
+2023-06-04,bánh mì,60,google
+2023-06-11,bánh mì,64,google
+2023-06-18,bánh mì,65,google
+2023-06-25,bánh mì,69,google
+2023-07-02,bánh mì,72,google
+2023-07-09,bánh mì,62,google
+2023-07-16,bánh mì,65,google
+2023-07-23,bánh mì,65,google
+2023-07-30,bánh mì,64,google
+2023-08-06,bánh mì,65,google
+2023-08-13,bánh mì,67,google
+2023-08-20,bánh mì,61,google
+2023-08-27,bánh mì,65,google
+2023-09-03,bánh mì,61,google
+2023-09-10,bánh mì,65,google
+2023-09-17,bánh mì,63,google
+2023-09-24,bánh mì,61,google
+2023-10-01,bánh mì,55,google
+2023-10-08,bánh mì,58,google
+2023-10-15,bánh mì,55,google
+2023-10-22,bánh mì,58,google
+2023-10-29,bánh mì,54,google
+2023-11-05,bánh mì,55,google
+2023-11-12,bánh mì,56,google
+2023-11-19,bánh mì,56,google
+2023-11-26,bánh mì,59,google
+2023-12-03,bánh mì,59,google
+2023-12-10,bánh mì,53,google
+2023-12-17,bánh mì,53,google
+2023-12-24,bánh mì,47,google
+2023-12-31,bánh mì,48,google
+2024-01-07,bánh mì,52,google
+2024-01-14,bánh mì,51,google
+2024-01-21,bánh mì,47,google
+2024-01-28,bánh mì,45,google
+2024-02-04,bánh mì,37,google
+2024-02-11,bánh mì,45,google
+2024-02-18,bánh mì,51,google
+2024-02-25,bánh mì,55,google
+2024-03-03,bánh mì,54,google
+2024-03-10,bánh mì,55,google
+2024-03-17,bánh mì,61,google
+2024-03-24,bánh mì,57,google
+2024-03-31,bánh mì,59,google
+2024-04-07,bánh mì,57,google
+2024-04-14,bánh mì,52,google
+2024-04-21,bánh mì,53,google
+2024-04-28,bánh mì,58,google
+2024-05-05,bánh mì,55,google
+2024-05-12,bánh mì,55,google
+2024-05-19,bánh mì,57,google
+2024-05-26,bánh mì,55,google
+2024-06-02,bánh mì,55,google
+2024-06-09,bánh mì,55,google
+2024-06-16,bánh mì,52,google
+2024-06-23,bánh mì,52,google
+2024-06-30,bánh mì,54,google
+2024-07-07,bánh mì,57,google
+2024-07-14,bánh mì,58,google
+2024-07-21,bánh mì,58,google
+2024-07-28,bánh mì,63,google
+2024-08-04,bánh mì,58,google
+2024-08-11,bánh mì,63,google
+2024-08-18,bánh mì,57,google
+2024-08-25,bánh mì,57,google
+2024-09-01,bánh mì,57,google
+2024-09-08,bánh mì,62,google
+2024-09-15,bánh mì,56,google
+2024-09-22,bánh mì,61,google
+2024-09-29,bánh mì,58,google
+2024-10-06,bánh mì,55,google
+2024-10-13,bánh mì,58,google
+2024-10-20,bánh mì,58,google
+2024-10-27,bánh mì,61,google
+2024-11-03,bánh mì,57,google
+2024-11-10,bánh mì,63,google
+2024-11-17,bánh mì,61,google
+2024-11-24,bánh mì,64,google
+2024-12-01,bánh mì,60,google
+2024-12-08,bánh mì,61,google
+2024-12-15,bánh mì,55,google
+2024-12-22,bánh mì,63,google
+2024-12-29,bánh mì,52,google
+2023-01-01,tiệm bánh,9,google
+2023-01-08,tiệm bánh,9,google
+2023-01-15,tiệm bánh,8,google
+2023-01-22,tiệm bánh,11,google
+2023-01-29,tiệm bánh,10,google
+2023-02-05,tiệm bánh,10,google
+2023-02-12,tiệm bánh,13,google
+2023-02-19,tiệm bánh,10,google
+2023-02-26,tiệm bánh,10,google
+2023-03-05,tiệm bánh,14,google
+2023-03-12,tiệm bánh,11,google
+2023-03-19,tiệm bánh,10,google
+2023-03-26,tiệm bánh,12,google
+2023-04-02,tiệm bánh,11,google
+2023-04-09,tiệm bánh,10,google
+2023-04-16,tiệm bánh,10,google
+2023-04-23,tiệm bánh,10,google
+2023-04-30,tiệm bánh,10,google
+2023-05-07,tiệm bánh,10,google
+2023-05-14,tiệm bánh,10,google
+2023-05-21,tiệm bánh,11,google
+2023-05-28,tiệm bánh,11,google
+2023-06-04,tiệm bánh,11,google
+2023-06-11,tiệm bánh,11,google
+2023-06-18,tiệm bánh,11,google
+2023-06-25,tiệm bánh,12,google
+2023-07-02,tiệm bánh,13,google
+2023-07-09,tiệm bánh,12,google
+2023-07-16,tiệm bánh,11,google
+2023-07-23,tiệm bánh,12,google
+2023-07-30,tiệm bánh,12,google
+2023-08-06,tiệm bánh,12,google
+2023-08-13,tiệm bánh,13,google
+2023-08-20,tiệm bánh,12,google
+2023-08-27,tiệm bánh,13,google
+2023-09-03,tiệm bánh,12,google
+2023-09-10,tiệm bánh,13,google
+2023-09-17,tiệm bánh,13,google
+2023-09-24,tiệm bánh,14,google
+2023-10-01,tiệm bánh,12,google
+2023-10-08,tiệm bánh,12,google
+2023-10-15,tiệm bánh,16,google
+2023-10-22,tiệm bánh,11,google
+2023-10-29,tiệm bánh,10,google
+2023-11-05,tiệm bánh,10,google
+2023-11-12,tiệm bánh,10,google
+2023-11-19,tiệm bánh,11,google
+2023-11-26,tiệm bánh,9,google
+2023-12-03,tiệm bánh,9,google
+2023-12-10,tiệm bánh,10,google
+2023-12-17,tiệm bánh,10,google
+2023-12-24,tiệm bánh,9,google
+2023-12-31,tiệm bánh,10,google
+2024-01-07,tiệm bánh,9,google
+2024-01-14,tiệm bánh,8,google
+2024-01-21,tiệm bánh,8,google
+2024-01-28,tiệm bánh,8,google
+2024-02-04,tiệm bánh,9,google
+2024-02-11,tiệm bánh,13,google
+2024-02-18,tiệm bánh,9,google
+2024-02-25,tiệm bánh,10,google
+2024-03-03,tiệm bánh,15,google
+2024-03-10,tiệm bánh,11,google
+2024-03-17,tiệm bánh,11,google
+2024-03-24,tiệm bánh,10,google
+2024-03-31,tiệm bánh,11,google
+2024-04-07,tiệm bánh,11,google
+2024-04-14,tiệm bánh,11,google
+2024-04-21,tiệm bánh,10,google
+2024-04-28,tiệm bánh,11,google
+2024-05-05,tiệm bánh,10,google
+2024-05-12,tiệm bánh,11,google
+2024-05-19,tiệm bánh,11,google
+2024-05-26,tiệm bánh,11,google
+2024-06-02,tiệm bánh,12,google
+2024-06-09,tiệm bánh,11,google
+2024-06-16,tiệm bánh,11,google
+2024-06-23,tiệm bánh,11,google
+2024-06-30,tiệm bánh,11,google
+2024-07-07,tiệm bánh,11,google
+2024-07-14,tiệm bánh,12,google
+2024-07-21,tiệm bánh,16,google
+2024-07-28,tiệm bánh,12,google
+2024-08-04,tiệm bánh,13,google
+2024-08-11,tiệm bánh,14,google
+2024-08-18,tiệm bánh,12,google
+2024-08-25,tiệm bánh,13,google
+2024-09-01,tiệm bánh,13,google
+2024-09-08,tiệm bánh,14,google
+2024-09-15,tiệm bánh,14,google
+2024-09-22,tiệm bánh,12,google
+2024-09-29,tiệm bánh,11,google
+2024-10-06,tiệm bánh,12,google
+2024-10-13,tiệm bánh,14,google
+2024-10-20,tiệm bánh,12,google
+2024-10-27,tiệm bánh,11,google
+2024-11-03,tiệm bánh,11,google
+2024-11-10,tiệm bánh,12,google
+2024-11-17,tiệm bánh,14,google
+2024-11-24,tiệm bánh,12,google
+2024-12-01,tiệm bánh,10,google
+2024-12-08,tiệm bánh,11,google
+2024-12-15,tiệm bánh,13,google
+2024-12-22,tiệm bánh,13,google
+2024-12-29,tiệm bánh,11,google
+2023-01-01,bánh ngọt,9,google
+2023-01-08,bánh ngọt,9,google
+2023-01-15,bánh ngọt,11,google
+2023-01-22,bánh ngọt,6,google
+2023-01-29,bánh ngọt,6,google
+2023-02-05,bánh ngọt,7,google
+2023-02-12,bánh ngọt,7,google
+2023-02-19,bánh ngọt,7,google
+2023-02-26,bánh ngọt,7,google
+2023-03-05,bánh ngọt,8,google
+2023-03-12,bánh ngọt,7,google
+2023-03-19,bánh ngọt,8,google
+2023-03-26,bánh ngọt,8,google
+2023-04-02,bánh ngọt,7,google
+2023-04-09,bánh ngọt,7,google
+2023-04-16,bánh ngọt,7,google
+2023-04-23,bánh ngọt,6,google
+2023-04-30,bánh ngọt,6,google
+2023-05-07,bánh ngọt,6,google
+2023-05-14,bánh ngọt,7,google
+2023-05-21,bánh ngọt,7,google
+2023-05-28,bánh ngọt,7,google
+2023-06-04,bánh ngọt,6,google
+2023-06-11,bánh ngọt,7,google
+2023-06-18,bánh ngọt,7,google
+2023-06-25,bánh ngọt,8,google
+2023-07-02,bánh ngọt,8,google
+2023-07-09,bánh ngọt,7,google
+2023-07-16,bánh ngọt,8,google
+2023-07-23,bánh ngọt,8,google
+2023-07-30,bánh ngọt,8,google
+2023-08-06,bánh ngọt,8,google
+2023-08-13,bánh ngọt,9,google
+2023-08-20,bánh ngọt,7,google
+2023-08-27,bánh ngọt,8,google
+2023-09-03,bánh ngọt,8,google
+2023-09-10,bánh ngọt,7,google
+2023-09-17,bánh ngọt,7,google
+2023-09-24,bánh ngọt,8,google
+2023-10-01,bánh ngọt,7,google
+2023-10-08,bánh ngọt,8,google
+2023-10-15,bánh ngọt,8,google
+2023-10-22,bánh ngọt,7,google
+2023-10-29,bánh ngọt,7,google
+2023-11-05,bánh ngọt,7,google
+2023-11-12,bánh ngọt,7,google
+2023-11-19,bánh ngọt,8,google
+2023-11-26,bánh ngọt,7,google
+2023-12-03,bánh ngọt,7,google
+2023-12-10,bánh ngọt,7,google
+2023-12-17,bánh ngọt,6,google
+2023-12-24,bánh ngọt,6,google
+2023-12-31,bánh ngọt,6,google
+2024-01-07,bánh ngọt,7,google
+2024-01-14,bánh ngọt,7,google
+2024-01-21,bánh ngọt,7,google
+2024-01-28,bánh ngọt,8,google
+2024-02-04,bánh ngọt,8,google
+2024-02-11,bánh ngọt,6,google
+2024-02-18,bánh ngọt,6,google
+2024-02-25,bánh ngọt,7,google
+2024-03-03,bánh ngọt,8,google
+2024-03-10,bánh ngọt,6,google
+2024-03-17,bánh ngọt,8,google
+2024-03-24,bánh ngọt,7,google
+2024-03-31,bánh ngọt,6,google
+2024-04-07,bánh ngọt,7,google
+2024-04-14,bánh ngọt,7,google
+2024-04-21,bánh ngọt,7,google
+2024-04-28,bánh ngọt,6,google
+2024-05-05,bánh ngọt,7,google
+2024-05-12,bánh ngọt,7,google
+2024-05-19,bánh ngọt,7,google
+2024-05-26,bánh ngọt,7,google
+2024-06-02,bánh ngọt,6,google
+2024-06-09,bánh ngọt,7,google
+2024-06-16,bánh ngọt,6,google
+2024-06-23,bánh ngọt,7,google
+2024-06-30,bánh ngọt,7,google
+2024-07-07,bánh ngọt,7,google
+2024-07-14,bánh ngọt,6,google
+2024-07-21,bánh ngọt,8,google
+2024-07-28,bánh ngọt,13,google
+2024-08-04,bánh ngọt,13,google
+2024-08-11,bánh ngọt,11,google
+2024-08-18,bánh ngọt,11,google
+2024-08-25,bánh ngọt,11,google
+2024-09-01,bánh ngọt,9,google
+2024-09-08,bánh ngọt,10,google
+2024-09-15,bánh ngọt,10,google
+2024-09-22,bánh ngọt,8,google
+2024-09-29,bánh ngọt,8,google
+2024-10-06,bánh ngọt,9,google
+2024-10-13,bánh ngọt,9,google
+2024-10-20,bánh ngọt,9,google
+2024-10-27,bánh ngọt,8,google
+2024-11-03,bánh ngọt,9,google
+2024-11-10,bánh ngọt,9,google
+2024-11-17,bánh ngọt,9,google
+2024-11-24,bánh ngọt,8,google
+2024-12-01,bánh ngọt,7,google
+2024-12-08,bánh ngọt,7,google
+2024-12-15,bánh ngọt,8,google
+2024-12-22,bánh ngọt,8,google
+2024-12-29,bánh ngọt,7,google
+2023-01-01,bánh tart,1,google
+2023-01-08,bánh tart,1,google
+2023-01-15,bánh tart,1,google
+2023-01-22,bánh tart,1,google
+2023-01-29,bánh tart,1,google
+2023-02-05,bánh tart,1,google
+2023-02-12,bánh tart,1,google
+2023-02-19,bánh tart,1,google
+2023-02-26,bánh tart,1,google
+2023-03-05,bánh tart,1,google
+2023-03-12,bánh tart,1,google
+2023-03-19,bánh tart,1,google
+2023-03-26,bánh tart,1,google
+2023-04-02,bánh tart,1,google
+2023-04-09,bánh tart,1,google
+2023-04-16,bánh tart,1,google
+2023-04-23,bánh tart,1,google
+2023-04-30,bánh tart,1,google
+2023-05-07,bánh tart,1,google
+2023-05-14,bánh tart,1,google
+2023-05-21,bánh tart,1,google
+2023-05-28,bánh tart,1,google
+2023-06-04,bánh tart,1,google
+2023-06-11,bánh tart,1,google
+2023-06-18,bánh tart,1,google
+2023-06-25,bánh tart,1,google
+2023-07-02,bánh tart,1,google
+2023-07-09,bánh tart,1,google
+2023-07-16,bánh tart,1,google
+2023-07-23,bánh tart,1,google
+2023-07-30,bánh tart,1,google
+2023-08-06,bánh tart,1,google
+2023-08-13,bánh tart,1,google
+2023-08-20,bánh tart,1,google
+2023-08-27,bánh tart,1,google
+2023-09-03,bánh tart,1,google
+2023-09-10,bánh tart,1,google
+2023-09-17,bánh tart,1,google
+2023-09-24,bánh tart,1,google
+2023-10-01,bánh tart,1,google
+2023-10-08,bánh tart,1,google
+2023-10-15,bánh tart,1,google
+2023-10-22,bánh tart,1,google
+2023-10-29,bánh tart,1,google
+2023-11-05,bánh tart,1,google
+2023-11-12,bánh tart,1,google
+2023-11-19,bánh tart,1,google
+2023-11-26,bánh tart,1,google
+2023-12-03,bánh tart,1,google
+2023-12-10,bánh tart,0,google
+2023-12-17,bánh tart,1,google
+2023-12-24,bánh tart,0,google
+2023-12-31,bánh tart,1,google
+2024-01-07,bánh tart,1,google
+2024-01-14,bánh tart,1,google
+2024-01-21,bánh tart,1,google
+2024-01-28,bánh tart,1,google
+2024-02-04,bánh tart,0,google
+2024-02-11,bánh tart,0,google
+2024-02-18,bánh tart,1,google
+2024-02-25,bánh tart,1,google
+2024-03-03,bánh tart,1,google
+2024-03-10,bánh tart,1,google
+2024-03-17,bánh tart,1,google
+2024-03-24,bánh tart,1,google
+2024-03-31,bánh tart,1,google
+2024-04-07,bánh tart,1,google
+2024-04-14,bánh tart,1,google
+2024-04-21,bánh tart,1,google
+2024-04-28,bánh tart,1,google
+2024-05-05,bánh tart,1,google
+2024-05-12,bánh tart,1,google
+2024-05-19,bánh tart,1,google
+2024-05-26,bánh tart,1,google
+2024-06-02,bánh tart,1,google
+2024-06-09,bánh tart,1,google
+2024-06-16,bánh tart,1,google
+2024-06-23,bánh tart,1,google
+2024-06-30,bánh tart,1,google
+2024-07-07,bánh tart,1,google
+2024-07-14,bánh tart,1,google
+2024-07-21,bánh tart,1,google
+2024-07-28,bánh tart,1,google
+2024-08-04,bánh tart,1,google
+2024-08-11,bánh tart,1,google
+2024-08-18,bánh tart,1,google
+2024-08-25,bánh tart,1,google
+2024-09-01,bánh tart,1,google
+2024-09-08,bánh tart,1,google
+2024-09-15,bánh tart,1,google
+2024-09-22,bánh tart,1,google
+2024-09-29,bánh tart,1,google
+2024-10-06,bánh tart,1,google
+2024-10-13,bánh tart,1,google
+2024-10-20,bánh tart,1,google
+2024-10-27,bánh tart,1,google
+2024-11-03,bánh tart,1,google
+2024-11-10,bánh tart,1,google
+2024-11-17,bánh tart,1,google
+2024-11-24,bánh tart,1,google
+2024-12-01,bánh tart,1,google
+2024-12-08,bánh tart,1,google
+2024-12-15,bánh tart,1,google
+2024-12-22,bánh tart,1,google
+2024-12-29,bánh tart,1,google
+2023-01-01,bánh healthy,13,google
+2023-01-08,bánh healthy,0,google
+2023-01-15,bánh healthy,13,google
+2023-01-22,bánh healthy,0,google
+2023-01-29,bánh healthy,0,google
+2023-02-05,bánh healthy,10,google
+2023-02-12,bánh healthy,19,google
+2023-02-19,bánh healthy,21,google
+2023-02-26,bánh healthy,14,google
+2023-03-05,bánh healthy,24,google
+2023-03-12,bánh healthy,18,google
+2023-03-19,bánh healthy,16,google
+2023-03-26,bánh healthy,32,google
+2023-04-02,bánh healthy,16,google
+2023-04-09,bánh healthy,12,google
+2023-04-16,bánh healthy,23,google
+2023-04-23,bánh healthy,16,google
+2023-04-30,bánh healthy,10,google
+2023-05-07,bánh healthy,10,google
+2023-05-14,bánh healthy,17,google
+2023-05-21,bánh healthy,19,google
+2023-05-28,bánh healthy,16,google
+2023-06-04,bánh healthy,13,google
+2023-06-11,bánh healthy,15,google
+2023-06-18,bánh healthy,18,google
+2023-06-25,bánh healthy,27,google
+2023-07-02,bánh healthy,12,google
+2023-07-09,bánh healthy,14,google
+2023-07-16,bánh healthy,18,google
+2023-07-23,bánh healthy,19,google
+2023-07-30,bánh healthy,14,google
+2023-08-06,bánh healthy,21,google
+2023-08-13,bánh healthy,32,google
+2023-08-20,bánh healthy,12,google
+2023-08-27,bánh healthy,16,google
+2023-09-03,bánh healthy,17,google
+2023-09-10,bánh healthy,24,google
+2023-09-17,bánh healthy,32,google
+2023-09-24,bánh healthy,28,google
+2023-10-01,bánh healthy,25,google
+2023-10-08,bánh healthy,16,google
+2023-10-15,bánh healthy,15,google
+2023-10-22,bánh healthy,17,google
+2023-10-29,bánh healthy,15,google
+2023-11-05,bánh healthy,21,google
+2023-11-12,bánh healthy,18,google
+2023-11-19,bánh healthy,15,google
+2023-11-26,bánh healthy,14,google
+2023-12-03,bánh healthy,20,google
+2023-12-10,bánh healthy,0,google
+2023-12-17,bánh healthy,0,google
+2023-12-24,bánh healthy,0,google
+2023-12-31,bánh healthy,0,google
+2024-01-07,bánh healthy,0,google
+2024-01-14,bánh healthy,18,google
+2024-01-21,bánh healthy,16,google
+2024-01-28,bánh healthy,0,google
+2024-02-04,bánh healthy,0,google
+2024-02-11,bánh healthy,0,google
+2024-02-18,bánh healthy,16,google
+2024-02-25,bánh healthy,0,google
+2024-03-03,bánh healthy,18,google
+2024-03-10,bánh healthy,19,google
+2024-03-17,bánh healthy,0,google
+2024-03-24,bánh healthy,22,google
+2024-03-31,bánh healthy,17,google
+2024-04-07,bánh healthy,26,google
+2024-04-14,bánh healthy,0,google
+2024-04-21,bánh healthy,13,google
+2024-04-28,bánh healthy,15,google
+2024-05-05,bánh healthy,14,google
+2024-05-12,bánh healthy,18,google
+2024-05-19,bánh healthy,0,google
+2024-05-26,bánh healthy,13,google
+2024-06-02,bánh healthy,0,google
+2024-06-09,bánh healthy,0,google
+2024-06-16,bánh healthy,12,google
+2024-06-23,bánh healthy,14,google
+2024-06-30,bánh healthy,15,google
+2024-07-07,bánh healthy,0,google
+2024-07-14,bánh healthy,13,google
+2024-07-21,bánh healthy,18,google
+2024-07-28,bánh healthy,21,google
+2024-08-04,bánh healthy,0,google
+2024-08-11,bánh healthy,32,google
+2024-08-18,bánh healthy,41,google
+2024-08-25,bánh healthy,0,google
+2024-09-01,bánh healthy,15,google
+2024-09-08,bánh healthy,15,google
+2024-09-15,bánh healthy,0,google
+2024-09-22,bánh healthy,20,google
+2024-09-29,bánh healthy,15,google
+2024-10-06,bánh healthy,16,google
+2024-10-13,bánh healthy,14,google
+2024-10-20,bánh healthy,16,google
+2024-10-27,bánh healthy,14,google
+2024-11-03,bánh healthy,22,google
+2024-11-10,bánh healthy,0,google
+2024-11-17,bánh healthy,19,google
+2024-11-24,bánh healthy,19,google
+2024-12-01,bánh healthy,16,google
+2024-12-08,bánh healthy,17,google
+2024-12-15,bánh healthy,17,google
+2024-12-22,bánh healthy,0,google
+2024-12-29,bánh healthy,16,google
+2023-01-01,bánh vegan,0,google
+2023-01-08,bánh vegan,0,google
+2023-01-15,bánh vegan,0,google
+2023-01-22,bánh vegan,0,google
+2023-01-29,bánh vegan,0,google
+2023-02-05,bánh vegan,0,google
+2023-02-12,bánh vegan,0,google
+2023-02-19,bánh vegan,0,google
+2023-02-26,bánh vegan,0,google
+2023-03-05,bánh vegan,0,google
+2023-03-12,bánh vegan,0,google
+2023-03-19,bánh vegan,16,google
+2023-03-26,bánh vegan,0,google
+2023-04-02,bánh vegan,0,google
+2023-04-09,bánh vegan,0,google
+2023-04-16,bánh vegan,0,google
+2023-04-23,bánh vegan,0,google
+2023-04-30,bánh vegan,0,google
+2023-05-07,bánh vegan,0,google
+2023-05-14,bánh vegan,0,google
+2023-05-21,bánh vegan,0,google
+2023-05-28,bánh vegan,0,google
+2023-06-04,bánh vegan,0,google
+2023-06-11,bánh vegan,0,google
+2023-06-18,bánh vegan,0,google
+2023-06-25,bánh vegan,0,google
+2023-07-02,bánh vegan,0,google
+2023-07-09,bánh vegan,0,google
+2023-07-16,bánh vegan,0,google
+2023-07-23,bánh vegan,0,google
+2023-07-30,bánh vegan,0,google
+2023-08-06,bánh vegan,0,google
+2023-08-13,bánh vegan,0,google
+2023-08-20,bánh vegan,0,google
+2023-08-27,bánh vegan,0,google
+2023-09-03,bánh vegan,0,google
+2023-09-10,bánh vegan,0,google
+2023-09-17,bánh vegan,0,google
+2023-09-24,bánh vegan,0,google
+2023-10-01,bánh vegan,0,google
+2023-10-08,bánh vegan,0,google
+2023-10-15,bánh vegan,0,google
+2023-10-22,bánh vegan,0,google
+2023-10-29,bánh vegan,0,google
+2023-11-05,bánh vegan,0,google
+2023-11-12,bánh vegan,0,google
+2023-11-19,bánh vegan,0,google
+2023-11-26,bánh vegan,0,google
+2023-12-03,bánh vegan,0,google
+2023-12-10,bánh vegan,0,google
+2023-12-17,bánh vegan,0,google
+2023-12-24,bánh vegan,0,google
+2023-12-31,bánh vegan,0,google
+2024-01-07,bánh vegan,0,google
+2024-01-14,bánh vegan,0,google
+2024-01-21,bánh vegan,0,google
+2024-01-28,bánh vegan,0,google
+2024-02-04,bánh vegan,0,google
+2024-02-11,bánh vegan,0,google
+2024-02-18,bánh vegan,0,google
+2024-02-25,bánh vegan,0,google
+2024-03-03,bánh vegan,0,google
+2024-03-10,bánh vegan,0,google
+2024-03-17,bánh vegan,0,google
+2024-03-24,bánh vegan,0,google
+2024-03-31,bánh vegan,0,google
+2024-04-07,bánh vegan,0,google
+2024-04-14,bánh vegan,0,google
+2024-04-21,bánh vegan,0,google
+2024-04-28,bánh vegan,0,google
+2024-05-05,bánh vegan,17,google
+2024-05-12,bánh vegan,0,google
+2024-05-19,bánh vegan,0,google
+2024-05-26,bánh vegan,13,google
+2024-06-02,bánh vegan,0,google
+2024-06-09,bánh vegan,0,google
+2024-06-16,bánh vegan,0,google
+2024-06-23,bánh vegan,0,google
+2024-06-30,bánh vegan,0,google
+2024-07-07,bánh vegan,0,google
+2024-07-14,bánh vegan,0,google
+2024-07-21,bánh vegan,100,google
+2024-07-28,bánh vegan,13,google
+2024-08-04,bánh vegan,0,google
+2024-08-11,bánh vegan,0,google
+2024-08-18,bánh vegan,0,google
+2024-08-25,bánh vegan,0,google
+2024-09-01,bánh vegan,0,google
+2024-09-08,bánh vegan,0,google
+2024-09-15,bánh vegan,22,google
+2024-09-22,bánh vegan,0,google
+2024-09-29,bánh vegan,0,google
+2024-10-06,bánh vegan,0,google
+2024-10-13,bánh vegan,0,google
+2024-10-20,bánh vegan,0,google
+2024-10-27,bánh vegan,0,google
+2024-11-03,bánh vegan,0,google
+2024-11-10,bánh vegan,0,google
+2024-11-17,bánh vegan,0,google
+2024-11-24,bánh vegan,0,google
+2024-12-01,bánh vegan,0,google
+2024-12-08,bánh vegan,0,google
+2024-12-15,bánh vegan,0,google
+2024-12-22,bánh vegan,0,google
+2024-12-29,bánh vegan,0,google
+2023-01-01,bánh online,47,google
+2023-01-08,bánh online,46,google
+2023-01-15,bánh online,41,google
+2023-01-22,bánh online,40,google
+2023-01-29,bánh online,52,google
+2023-02-05,bánh online,42,google
+2023-02-12,bánh online,52,google
+2023-02-19,bánh online,65,google
+2023-02-26,bánh online,47,google
+2023-03-05,bánh online,56,google
+2023-03-12,bánh online,47,google
+2023-03-19,bánh online,48,google
+2023-03-26,bánh online,52,google
+2023-04-02,bánh online,52,google
+2023-04-09,bánh online,41,google
+2023-04-16,bánh online,45,google
+2023-04-23,bánh online,52,google
+2023-04-30,bánh online,38,google
+2023-05-07,bánh online,40,google
+2023-05-14,bánh online,52,google
+2023-05-21,bánh online,47,google
+2023-05-28,bánh online,51,google
+2023-06-04,bánh online,49,google
+2023-06-11,bánh online,48,google
+2023-06-18,bánh online,48,google
+2023-06-25,bánh online,48,google
+2023-07-02,bánh online,50,google
+2023-07-09,bánh online,51,google
+2023-07-16,bánh online,52,google
+2023-07-23,bánh online,44,google
+2023-07-30,bánh online,49,google
+2023-08-06,bánh online,53,google
+2023-08-13,bánh online,56,google
+2023-08-20,bánh online,62,google
+2023-08-27,bánh online,58,google
+2023-09-03,bánh online,57,google
+2023-09-10,bánh online,62,google
+2023-09-17,bánh online,56,google
+2023-09-24,bánh online,61,google
+2023-10-01,bánh online,71,google
+2023-10-08,bánh online,65,google
+2023-10-15,bánh online,49,google
+2023-10-22,bánh online,43,google
+2023-10-29,bánh online,47,google
+2023-11-05,bánh online,48,google
+2023-11-12,bánh online,33,google
+2023-11-19,bánh online,45,google
+2023-11-26,bánh online,45,google
+2023-12-03,bánh online,41,google
+2023-12-10,bánh online,47,google
+2023-12-17,bánh online,33,google
+2023-12-24,bánh online,41,google
+2023-12-31,bánh online,46,google
+2024-01-07,bánh online,43,google
+2024-01-14,bánh online,49,google
+2024-01-21,bánh online,51,google
+2024-01-28,bánh online,48,google
+2024-02-04,bánh online,44,google
+2024-02-11,bánh online,44,google
+2024-02-18,bánh online,37,google
+2024-02-25,bánh online,39,google
+2024-03-03,bánh online,58,google
+2024-03-10,bánh online,45,google
+2024-03-17,bánh online,39,google
+2024-03-24,bánh online,62,google
+2024-03-31,bánh online,55,google
+2024-04-07,bánh online,53,google
+2024-04-14,bánh online,47,google
+2024-04-21,bánh online,26,google
+2024-04-28,bánh online,37,google
+2024-05-05,bánh online,41,google
+2024-05-12,bánh online,52,google
+2024-05-19,bánh online,58,google
+2024-05-26,bánh online,46,google
+2024-06-02,bánh online,36,google
+2024-06-09,bánh online,47,google
+2024-06-16,bánh online,40,google
+2024-06-23,bánh online,49,google
+2024-06-30,bánh online,49,google
+2024-07-07,bánh online,34,google
+2024-07-14,bánh online,59,google
+2024-07-21,bánh online,44,google
+2024-07-28,bánh online,47,google
+2024-08-04,bánh online,51,google
+2024-08-11,bánh online,60,google
+2024-08-18,bánh online,62,google
+2024-08-25,bánh online,71,google
+2024-09-01,bánh online,56,google
+2024-09-08,bánh online,62,google
+2024-09-15,bánh online,58,google
+2024-09-22,bánh online,45,google
+2024-09-29,bánh online,55,google
+2024-10-06,bánh online,51,google
+2024-10-13,bánh online,45,google
+2024-10-20,bánh online,39,google
+2024-10-27,bánh online,42,google
+2024-11-03,bánh online,55,google
+2024-11-10,bánh online,48,google
+2024-11-17,bánh online,54,google
+2024-11-24,bánh online,55,google
+2024-12-01,bánh online,51,google
+2024-12-08,bánh online,53,google
+2024-12-15,bánh online,65,google
+2024-12-22,bánh online,52,google
+2024-12-29,bánh online,54,google
