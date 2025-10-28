@@ -21,10 +21,34 @@ logger = logging.getLogger(__name__)
 class MongoDBDataAccess:
     """Data Access Layer cho MongoDB collections"""
     
-    def __init__(self):
+    def __init__(self, use_async: bool = False):
+        """
+        Initialize MongoDB access
+        
+        Args:
+            use_async: If True, use async client. Default False for backward compatibility.
+        """
         self.config = mongodb_config
-        self.client = self.config.get_sync_client()
-        self.db = self.config.get_database(self.client)
+        self.use_async = use_async
+        
+        if use_async:
+            self.client = self.config.get_async_client()
+            self.db = self.config.get_database(async_client=True)
+        else:
+            self.client = self.config.get_sync_client()
+            self.db = self.config.get_database(self.client)
+    
+    def get_collection(self, collection_name: str):
+        """
+        Get MongoDB collection by name
+        
+        Args:
+            collection_name: Name of collection ('orders', 'products', 'users', etc.)
+            
+        Returns:
+            MongoDB collection object (sync or async depending on init)
+        """
+        return self.db[self.config.COLLECTIONS.get(collection_name, collection_name)]
     
     def get_orders_data(self, 
                        start_date: Optional[datetime] = None,
@@ -277,6 +301,10 @@ class MongoDBDataAccess:
         if self.client:
             self.client.close()
             logger.info("✅ MongoDB connection closed")
+
+
+# Alias for backward compatibility
+MongoDBAccess = MongoDBDataAccess
 
 # Global data access instance
 mongodb_data = MongoDBDataAccess()

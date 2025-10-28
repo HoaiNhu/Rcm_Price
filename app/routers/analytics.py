@@ -218,3 +218,53 @@ async def get_market_trends():
         logger.error(f"❌ Error getting market trends: {e}")
         raise HTTPException(status_code=500, detail=str(e))
 
+@router.get("/api/analytics/enhanced-strategy")
+async def get_enhanced_strategy():
+    """
+    🆕 Phase 1: Enhanced LLM Strategy with Week 1-6 ML Data
+    
+    Returns comprehensive AI-powered business strategy based on:
+    - Week 1: Price Elasticity Analysis
+    - Week 2: Customer Segmentation (RFM + K-Means)
+    - Week 3-4: Personalized Pricing Matrix
+    - Week 5: Monte Carlo Simulation Results
+    - Week 6: Active Promotions
+    - Traditional: Business Health + Product Combos
+    
+    Gemini LLM analyzes all ML data to generate actionable insights.
+    """
+    try:
+        if not promotion_service:
+            raise HTTPException(status_code=500, detail="Promotion service not initialized")
+        
+        logger.info("🚀 Starting enhanced strategy generation...")
+        
+        # Get traditional ML results first (business health, combos)
+        ml_results = promotion_service.generate_recommendations()
+        
+        # Generate enhanced insights with Week 1-6 data
+        enhanced_insights = await promotion_service.generate_enhanced_llm_insights(ml_results)
+        
+        # Clean data for JSON serialization
+        clean_insights = convert_numpy_types(enhanced_insights)
+        
+        return {
+            "strategy": clean_insights,
+            "data_sources": {
+                "price_elasticity": "Week 1 ML Model",
+                "customer_segments": "Week 2 RFM + K-Means",
+                "personalized_pricing": "Week 3-4 Rules Engine",
+                "simulations": "Week 5 Monte Carlo",
+                "promotions": "Week 6 Smart Generator",
+                "business_health": "Traditional Analysis",
+                "product_combos": "Apriori Algorithm"
+            },
+            "version": "v2.0-enhanced",
+            "timestamp": datetime.now().isoformat()
+        }
+    except Exception as e:
+        logger.error(f"❌ Error generating enhanced strategy: {e}")
+        import traceback
+        logger.error(f"Traceback: {traceback.format_exc()}")
+        raise HTTPException(status_code=500, detail=str(e))
+

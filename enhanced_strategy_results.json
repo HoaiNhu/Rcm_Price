@@ -1,0 +1,342 @@
+{
+  "raw_response": "Chắc chắn rồi! Với vai trò là chuyên gia marketing và data scientist của AVOCADO, tôi sẽ phân tích sâu dữ liệu bạn cung cấp và đưa ra một chiến lược toàn diện, có tính hành động cao.\n\nDưới đây là bản phân tích chi tiết theo định dạng JSON bạn yêu cầu.\n\n```json\n{\n  \"executive_summary\": {\n    \"overview\": \"Dữ liệu ML ban đầu cho thấy cơ hội tức thời để tăng biên lợi nhuận trên một số sản phẩm ít nhạy cảm về giá. Tuy nhiên, tình hình kinh doanh tổng thể đang gặp rủi ro do thiếu hụt dữ liệu nghiêm trọng về độ co giãn của hầu hết sản phẩm và phân khúc khách hàng, cản trở việc tối ưu hóa toàn diện.\",\n    \"key_findings\": [\n      \"Xác định được nhóm sản phẩm 'Premium/Ít nhạy giá' (Bánh Corequette, Set Donut) có thể tăng giá ngay lập tức để cải thiện doanh thu.\",\n      \"Sản phẩm chủ lực 'Bánh hoa xuân' cực kỳ nhạy cảm về giá (E=-22.10), bất kỳ việc tăng giá nào cũng cần được thực hiện một cách thận trọng và có kế hoạch bù đắp.\",\n      \"HỆ THỐNG DỮ LIỆU BỊ LỖ HỔNG LỚN: Hơn 85% sản phẩm không có dữ liệu về độ co giãn giá và mô hình phân khúc khách hàng (RFM) không hoạt động, khiến các quyết định marketing thiếu cơ sở dữ liệu vững chắc.\"\n    ],\n    \"overall_health_score\": 55\n  },\n  \"pricing_strategy_analysis\": {\n    \"products_to_increase_price\": [\n      {\n        \"product_name\": \"Bánh Corequette\",\n        \"current_price\": 280000,\n        \"recommended_price\": 308000,\n        \"elasticity\": 0.0,\n        \"reasoning\": \"ML model xác định là sản phẩm 'INSENSITIVE'. Khách hàng ít quan tâm đến giá, cho phép tăng giá 10% để tối đa hóa lợi nhuận mà không ảnh hưởng đáng kể đến nhu cầu.\",\n        \"confidence\": \"high\",\n        \"expected_revenue_increase_pct\": 9.5\n      },\n      {\n        \"product_name\": \"Set 4 Bánh Donut Giáng SInh\",\n        \"current_price\": 50000,\n        \"recommended_price\": 55000,\n        \"elasticity\": 0.0,\n        \"reasoning\": \"Phân loại 'INSENSITIVE'. Đây là sản phẩm có giá trị thấp, khách hàng dễ dàng chấp nhận mức tăng 10%. Đây là cơ hội để cải thiện lợi nhuận trên mỗi đơn vị.\",\n        \"confidence\": \"high\",\n        \"expected_revenue_increase_pct\": 9.8\n      },\n      {\n        \"product_name\": \"Set 2 Bánh Donut Bông Hoa\",\n        \"current_price\": 30000,\n        \"recommended_price\": 34000,\n        \"elasticity\": 0.0,\n        \"reasoning\": \"Tương tự Set 4 Donut, sản phẩm 'INSENSITIVE' với mức giá thấp là ứng viên lý tưởng cho việc tăng giá nhẹ (khoảng 13%) để cải thiện biên lợi nhuận.\",\n        \"confidence\": \"high\",\n        \"expected_revenue_increase_pct\": 12.0\n      }\n    ],\n    \"products_to_decrease_price\": [],\n    \"products_to_maintain\": [\n      {\n        \"product_name\": \"Bánh hoa xuân\",\n        \"current_price\": 260000,\n        \"recommended_price\": 260000,\n        \"elasticity\": -22.10,\n        \"reasoning\": \"Sản phẩm 'VERY_SENSITIVE'. Tăng giá dù chỉ một chút cũng có nguy cơ làm giảm mạnh doanh số và mất khách hàng. Nên giữ nguyên giá và sử dụng sản phẩm này làm mồi nhử trong các chương trình khuyến mãi.\",\n        \"confidence\": \"very_high\",\n        \"expected_revenue_increase_pct\": 0.0\n      },\n      {\n        \"product_name\": \"Tất cả các sản phẩm còn lại (27 sản phẩm)\",\n        \"current_price\": null,\n        \"recommended_price\": null,\n        \"elasticity\": null,\n        \"reasoning\": \"Thiếu dữ liệu (NO_DATA). Việc thay đổi giá mà không có dữ liệu về độ co giãn là một hành động rủi ro cao. Ưu tiên hàng đầu là thu thập dữ liệu cho các sản phẩm này.\",\n        \"confidence\": \"low\",\n        \"expected_revenue_increase_pct\": 0.0\n      }\n    ]\n  },\n  \"segment_strategy_recommendations\": {\n    \"VIP\": {\n      \"count\": 0,\n      \"strategy\": \"Xây dựng lại mô hình nhận diện VIP\",\n      \"action\": \"Ưu tiên sửa lỗi mô hình RFM + K-Means để xác định nhóm khách hàng VIP. Không thể có chiến lược giữ chân nếu không biết ai là VIP.\",\n      \"expected_impact\": \"Sau khi sửa lỗi: Tăng tỷ lệ mua lại của nhóm VIP lên 15% trong quý tiếp theo.\"\n    },\n    \"AT_RISK\": {\n      \"count\": 2,\n      \"strategy\": \"Chiến dịch Win-back mục tiêu hẹp\",\n      \"action\": \"Gửi email/SMS cá nhân hóa cho 2 khách hàng này với voucher giảm giá 15% cho lần mua tiếp theo, có hiệu lực trong 30 ngày.\",\n      \"expected_impact\": \"Kích hoạt lại ít nhất 1 trong 2 khách hàng (tỷ lệ chuyển đổi 50%).\"\n    },\n    \"NEW\": {\n      \"count\": 0,\n      \"strategy\": \"Tối ưu hóa hành trình khách hàng mới\",\n      \"action\": \"Khởi chạy A/B test cho khách hàng mua lần đầu: Nhóm A nhận discount 10%, Nhóm B được Freeship. Mục tiêu là thu thập dữ liệu để xác định ưu đãi nào hiệu quả hơn.\",\n      \"expected_impact\": \"Tìm ra ưu đãi chào mừng có tỷ lệ chuyển đổi sang đơn hàng thứ hai cao nhất.\"\n    }\n  },\n  \"promotion_recommendations\": [\n    {\n      \"priority\": 1,\n      \"type\": \"PRICE_OPTIMIZATION\",\n      \"product\": \"Bánh Corequette, Set Donut (2 loại)\",\n      \"action\": \"Tăng giá từ 10-13% cho 3 sản phẩm đã được xác định là 'INSENSITIVE'.\",\n      \"ml_backing\": \"Phân tích độ co giãn giá (Price Elasticity Analysis) cho thấy E=0.00, khách hàng không nhạy cảm với sự thay đổi giá của các sản phẩm này.\",\n      \"timeline\": \"Trong 3 ngày tới\",\n      \"expected_outcome\": \"Tăng ngay lập tức ~10% doanh thu từ các sản phẩm này mà không làm giảm doanh số.\",\n      \"risk_level\": \"low\"\n    },\n    {\n      \"priority\": 2,\n      \"type\": \"SEGMENT_CAMPAIGN\",\n      \"segment\": \"AT_RISK\",\n      \"action\": \"Triển khai chiến dịch Win-back qua email/SMS cho 2 khách hàng trong nhóm 'AT_RISK' với voucher 15%.\",\n      \"ml_backing\": \"Dữ liệu từ Personalized Pricing Matrix đã xác định được 2 khách hàng tiềm năng cao nhưng đang có nguy cơ rời bỏ.\",\n      \"timeline\": \"Ngay lập tức\",\n      \"expected_outcome\": \"Thu hút 1-2 khách hàng quay trở lại, tạo ra doanh thu bổ sung.\",\n      \"risk_level\": \"very_low\"\n    },\n    {\n      \"priority\": 3,\n      \"type\": \"DATA_COLLECTION_EXPERIMENT\",\n      \"product\": \"Bánh Sắc Hoa, Bánh Hồ Điệp (và 3 sản phẩm bán chạy khác)\",\n      \"action\": \"Thiết kế và chạy thử nghiệm giá có kiểm soát (A/B Testing): Thay đổi giá nhẹ (+/- 5%) trong một khoảng thời gian ngắn (2 tuần) để thu thập dữ liệu về phản ứng của khách hàng.\",\n      \"ml_backing\": \"Giải quyết vấn đề cốt lõi là hơn 85% sản phẩm không có dữ liệu độ co giãn. Đây là hành động bắt buộc để mô hình ML có thể hoạt động hiệu quả trong tương lai.\",\n      \"timeline\": \"Bắt đầu trong 2 tuần tới\",\n      \"expected_outcome\": \"Thu thập đủ dữ liệu để tính toán độ co giãn cho 5 sản phẩm chủ lực, mở khóa các cơ hội tối ưu hóa giá mới.\",\n      \"risk_level\": \"medium\"\n    }\n  ],\n  \"action_plan\": {\n    \"immediate_actions\": [\n      \"Thực thi chiến dịch win-back cho 2 khách hàng thuộc nhóm AT_RISK.\",\n      \"Lên kế hoạch và thông báo nội bộ về việc điều chỉnh giá cho 3 sản phẩm (Bánh Corequette, 2 set Donut).\"\n    ],\n    \"this_week\": [\n      \"Áp dụng mức giá mới cho 3 sản phẩm đã được phê duyệt.\",\n      \"Bắt đầu theo dõi doanh số hàng ngày của các sản phẩm được điều chỉnh giá.\",\n      \"Họp đội ngũ kỹ thuật để điều tra và lên kế hoạch sửa lỗi mô hình Customer Segmentation (RFM).\"\n    ],\n    \"this_month\": [\n      \"Triển khai thử nghiệm giá (Price Experiment) cho 5 sản phẩm ưu tiên.\",\n      \"Phân tích hiệu suất của việc tăng giá và chiến dịch win-back.\",\n      \"Cập nhật lại mô hình Price Elasticity với dữ liệu mới từ thử nghiệm và kết quả thực tế.\"\n    ]\n  },\n  \"kpis_to_track\": [\n    {\n      \"metric\": \"Doanh thu từ 3 sản phẩm tăng giá\",\n      \"baseline\": \"Chưa có (cần trích xuất từ dữ liệu bán hàng tuần trước)\",\n      \"target\": \"+10%\",\n      \"tracking_frequency\": \"Daily\",\n      \"alert_threshold\": \"Nếu tổng doanh số của 3 sản phẩm này giảm >5% so với tuần trước khi tăng giá.\"\n    },\n    {\n      \"metric\": \"Tỷ lệ chuyển đổi chiến dịch AT_RISK\",\n      \"baseline\": \"0%\",\n      \"target\": \"50% (1 trên 2 khách hàng)\",\n      \"tracking_frequency\": \"Daily\",\n      \"alert_threshold\": \"Nếu sau 1 tuần không có khách hàng nào sử dụng voucher.\"\n    },\n    {\n      \"metric\": \"Số lượng sản phẩm có dữ liệu Elasticity\",\n      \"baseline\": \"4\",\n      \"target\": \"9 (tăng thêm 5)\",\n      \"tracking_frequency\": \"Monthly\",\n      \"alert_threshold\": \"Nếu sau 1 tháng không thu thập đủ dữ liệu cho ít nhất 3 sản phẩm mới.\"\n    }\n  ],\n  \"risks_and_mitigation\": [\n    {\n      \"risk\": \"Phân loại 'INSENSITIVE' có thể không chính xác do tập dữ liệu ban đầu còn nhỏ, dẫn đến việc tăng giá làm giảm doanh số.\",\n      \"probability\": \"low\",\n      \"impact\": \"medium\",\n      \"mitigation\": \"Chỉ tăng giá ở mức vừa phải (10-13% thay vì tối đa 15%). Theo dõi chặt chẽ doanh số bán hàng trong 2 tuần đầu tiên.\",\n      \"fallback_plan\": \"Nếu doanh số giảm đáng kể, ngay lập tức quay trở lại mức giá cũ và chạy chương trình khuyến mãi nhỏ để bù đắp.\"\n    },\n    {\n      \"risk\": \"Việc thiếu dữ liệu phân khúc khách hàng khiến mọi chiến dịch đều mang tính phỏng đoán, giảm hiệu quả và lãng phí ngân sách.\",\n      \"probability\": \"high\",\n      \"impact\": \"high\",\n      \"mitigation\": \"Ưu tiên hàng đầu nguồn lực kỹ thuật để sửa chữa và chạy lại mô hình RFM + K-Means trong vòng 2 tuần.\",\n      \"fallback_plan\": \"Nếu không thể sửa chữa, tạm thời sử dụng các quy tắc phân khúc đơn giản dựa trên tổng chi tiêu (ví dụ: >5M là VIP) để có định hướng ban đầu.\"\n    }\n  ],\n  \"insights_and_opportunities\": [\n    \"Dữ liệu ML đã xác nhận sự tồn tại của một danh mục sản phẩm 'premium' mà khách hàng sẵn sàng trả giá cao hơn. Đây là cơ hội để xây dựng thương hiệu AVOCADO theo hướng cao cấp hơn.\",\n    \"Sản phẩm 'Bánh hoa xuân' rất nhạy cảm về giá, cho thấy nó có thể là một 'sản phẩm mồi' (loss leader) hiệu quả để thu hút khách hàng mới vào cửa hàng, sau đó upsell các sản phẩm có lợi nhuận cao hơn.\",\n    \"Cơ hội lớn nhất hiện tại không nằm ở việc tối ưu hóa một chiến dịch nhỏ lẻ, mà là ở việc đầu tư vào việc 'làm sạch' và 'làm giàu' dữ liệu. Một hệ thống ML hoạt động tốt sẽ là cỗ máy tạo ra lợi nhuận bền vững trong dài hạn.\"\n  ]\n}\n```",
+  "comprehensive_data": {
+    "price_elasticity": {
+      "products": [
+        {
+          "product_id": "67643c2411d943b7bdecb7d3",
+          "product_name": "Bánh hoa xuân",
+          "current_price": 260000.0,
+          "elasticity": 0,
+          "sensitivity": "VERY_SENSITIVE",
+          "can_increase_price": true,
+          "recommended_action": "⚠️ SẢN PHẨM RẤT NHẠY GIÁ (E=-22.10)\n• Khách hàng rất nhạy cảm với thay đổi giá\n• Tăng giá có thể dẫn đến mất khách\n• Đề xuất: Ưu tiên khuyến mãi thay vì tăng giá\n• Nếu bắt buộc tăng: Tối đa 2% và kèm voucher bù đắp"
+        },
+        {
+          "product_id": "67643c7b11d943b7bdecb7db",
+          "product_name": "Bánh Corequette",
+          "current_price": 280000.0,
+          "elasticity": 0,
+          "sensitivity": "INSENSITIVE",
+          "can_increase_price": true,
+          "recommended_action": "✅ SẢN PHẨM PREMIUM/ÍT NHẠY GIÁ (E=0.00)\n• Khách hàng ít quan tâm đến giá\n• Có thể tăng giá thoải mái: tối đa 15%\n• Focus vào value proposition thay vì giá\n• Cơ hội tăng profit margin"
+        },
+        {
+          "product_id": "67643d0911d943b7bdecb7e0",
+          "product_name": "Bánh Sắc Hoa",
+          "current_price": 250000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67643ff21e0d9cd93752293d",
+          "product_name": "Bánh Hồ Điệp",
+          "current_price": 250000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "676440181e0d9cd937522943",
+          "product_name": "Bánh Hương Hoa Hồng",
+          "current_price": 300000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67668442a930c5482b489735",
+          "product_name": "Bánh Giáng Sinh",
+          "current_price": 150000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "676785ff237bd3794c1a5ecc",
+          "product_name": "Bánh Dâu Tây Ngọt Ngào",
+          "current_price": 200000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "676986cf89ced9c8f153913b",
+          "product_name": "Bánh Trái Cây Nhiệt Đới",
+          "current_price": 300000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "676d0a76b60eb621bf384a05",
+          "product_name": "Bánh Chocalate Oreo",
+          "current_price": 250000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "676d0b29b60eb621bf384a0e",
+          "product_name": "Bánh Little Light",
+          "current_price": 250000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67752032e5584a4c21f982a9",
+          "product_name": "Bánh Xoài Tài Lộc",
+          "current_price": 300000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67762d0a4c4fca7963da6f69",
+          "product_name": "Bánh Hoa Thỏ",
+          "current_price": 270000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67762da14c4fca7963da6f84",
+          "product_name": "Bánh Vườn Nho Năm Mới",
+          "current_price": 300000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67763213e927666e3f843d0c",
+          "product_name": "Set 4 Bánh Donut Giáng SInh",
+          "current_price": 50000.0,
+          "elasticity": 0,
+          "sensitivity": "INSENSITIVE",
+          "can_increase_price": true,
+          "recommended_action": "✅ SẢN PHẨM PREMIUM/ÍT NHẠY GIÁ (E=0.00)\n• Khách hàng ít quan tâm đến giá\n• Có thể tăng giá thoải mái: tối đa 15%\n• Focus vào value proposition thay vì giá\n• Cơ hội tăng profit margin"
+        },
+        {
+          "product_id": "6776342fe927666e3f843d52",
+          "product_name": "Set 2 Bánh Donut Bông Hoa",
+          "current_price": 30000.0,
+          "elasticity": 0,
+          "sensitivity": "INSENSITIVE",
+          "can_increase_price": true,
+          "recommended_action": "✅ SẢN PHẨM PREMIUM/ÍT NHẠY GIÁ (E=0.00)\n• Khách hàng ít quan tâm đến giá\n• Có thể tăng giá thoải mái: tối đa 15%\n• Focus vào value proposition thay vì giá\n• Cơ hội tăng profit margin"
+        },
+        {
+          "product_id": "67763afa608c0d719eb38d0c",
+          "product_name": "Set 16 Bánh Macaron",
+          "current_price": 100000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67763eb3608c0d719eb38d23",
+          "product_name": "Tiramisu Little Carrot",
+          "current_price": 25000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "6776424f608c0d719eb38db0",
+          "product_name": "Set 6 nến sinh nhật",
+          "current_price": 30000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "677642b6608c0d719eb38dbe",
+          "product_name": "Set 5 túi đựng quà tặng",
+          "current_price": 100000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67765db11f858633ea5ba243",
+          "product_name": "Nến HAPPY BIRTHDAY",
+          "current_price": 50000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67765de51f858633ea5ba24d",
+          "product_name": "Pháo Hoa Giấy",
+          "current_price": 50000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "67767dce1f858633ea5ba395",
+          "product_name": "Bánh ngọt cây thông",
+          "current_price": 300000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "68351e3438638ab90687adbc",
+          "product_name": "Nhẫn",
+          "current_price": 1000000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "68351f462f7fb067d35b4b58",
+          "product_name": "Nhẫn trái tim",
+          "current_price": 1000000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "68351f4a38c47a71c731365f",
+          "product_name": "nhẫn vàng",
+          "current_price": 1000000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "6854f5bbb917440c5b6775ec",
+          "product_name": "Bánh kem mâm xôi",
+          "current_price": 499000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "6854f618b917440c5b6775fd",
+          "product_name": "Chocolate dâu tây",
+          "current_price": 39000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "6854f669b917440c5b67760b",
+          "product_name": "Tiramisu 5 lớp",
+          "current_price": 59000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "6854f6e3b917440c5b677619",
+          "product_name": "Bánh kem socola nâu",
+          "current_price": 139000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "6854f73fb917440c5b677627",
+          "product_name": "Cupcake socola bạc hà",
+          "current_price": 39000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        },
+        {
+          "product_id": "6854f7fdb917440c5b677638",
+          "product_name": "Bánh kem kì lân cầu vòng",
+          "current_price": 999000.0,
+          "elasticity": 0,
+          "sensitivity": "NO_DATA",
+          "can_increase_price": false,
+          "recommended_action": "⚠️ Cần thêm dữ liệu để phân tích"
+        }
+      ],
+      "total_products": 31,
+      "summary": {
+        "total_products": 4,
+        "mean_elasticity": -5.526,
+        "median_elasticity": 0.0,
+        "std_elasticity": 9.571,
+        "min_elasticity": -22.103,
+        "max_elasticity": 0.0,
+        "sensitivity_distribution": {
+          "VERY_SENSITIVE": 1,
+          "INSENSITIVE": 3
+        },
+        "products_can_increase_price": 3,
+        "products_should_not_increase": 1,
+        "mean_r_squared": 0.03
+      },
+      "timestamp": "2025-10-28T20:59:17.950624"
+    },
+    "customer_segments": {
+      "error": "No segment data available",
+      "customers": [],
+      "total_customers": 0
+    },
+    "personalized_pricing": {
+      "total_products": 0,
+      "total_customers": 4,
+      "total_possible_prices": 0,
+      "segment_distribution": {
+        "AT_RISK": 2,
+        "OCCASIONAL": 1,
+        "LOST": 1
+      },
+      "cache_valid": true,
+      "last_updated": "2025-10-28T20:59:19.310487"
+    },
+    "simulation_results": {
+      "scenarios": [],
+      "total_scenarios": 0,
+      "cache_size": 0,
+      "service_info": {
+        "version": "1.0.0",
+        "capabilities": [
+          "Monte Carlo",
+          "Risk Assessment",
+          "Multi-scenario"
+        ]
+      },
+      "timestamp": "2025-10-28T20:59:19.310512"
+    },
+    "active_promotions": [],
+    "business_health": {},
+    "product_combos": {},
+    "recommendations": {}
+  },
+  "parsed_at": "2025-10-28T21:00:13.554939",
+  "note": "LLM response was not valid JSON, raw text included"
+}

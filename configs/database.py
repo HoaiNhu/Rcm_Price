@@ -19,8 +19,8 @@ class MongoDBConfig:
     
     def __init__(self):
         # MongoDB connection string
-        self.MONGODB_URL = os.getenv("MONGODB_URL", "mongodb://localhost:27017")
-        self.DATABASE_NAME = os.getenv("DATABASE_NAME", "bakery_ai")
+        self.MONGODB_URL = os.getenv("MONGODB_URL")
+        self.DATABASE_NAME = os.getenv("DATABASE_NAME", "test")
         
         # Collections
         self.COLLECTIONS = {
