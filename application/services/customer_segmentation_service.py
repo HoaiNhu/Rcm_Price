@@ -222,22 +222,38 @@ class CustomerSegmentationService:
         try:
             logger.info("👥 Segmenting customers for Phase 1...")
             
-            # Get customer segments
-            segments_result = await self.segment_all_customers()
+            # Get customer segments (returns Dict[user_id, segment_name])
+            segments_mapping = await self.segment_all_customers()
             
-            if not segments_result or not segments_result.get('customers'):
+            if not segments_mapping:
                 return {
                     "error": "No segment data available",
                     "customers": [],
                     "total_customers": 0
                 }
             
-            # Count customers per segment
+            # Convert mapping to customers list with enriched data
+            customers = []
             segment_counts = {}
-            customers = segments_result.get('customers', [])
             
-            for customer in customers:
-                segment = customer.get('segment', 'UNKNOWN')
+            # Get RFM data from cache for enrichment
+            rfm_data = self._cache.get('rfm_data', {})
+            
+            for user_id, segment in segments_mapping.items():
+                # Get RFM scores if available
+                user_rfm = rfm_data.get(user_id, {})
+                
+                customer_data = {
+                    "user_id": user_id,
+                    "segment": segment,
+                    "recency": user_rfm.get('recency', 0),
+                    "frequency": user_rfm.get('frequency', 0),
+                    "monetary": user_rfm.get('monetary', 0),
+                    "rfm_score": user_rfm.get('rfm_score', 0)
+                }
+                customers.append(customer_data)
+                
+                # Count segments
                 segment_counts[segment] = segment_counts.get(segment, 0) + 1
             
             logger.info(f"✅ Segmented {len(customers)} customers into {len(segment_counts)} segments")
