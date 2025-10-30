@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from app.routers import basic, hybrid, models, analytics, data, legacy, test, price_elasticity, customer_segmentation, personalized_pricing, pricing_simulator, smart_promotions
+from app.routers import basic, hybrid, models, analytics, data, legacy, test, price_elasticity, customer_segmentation, personalized_pricing, pricing_simulator, smart_promotions, event_promotions
 from application.services.ai_promotion_service import create_promotion_service
 from application.services.hybrid_recommender import create_hybrid_recommender
 
@@ -82,6 +82,7 @@ app.include_router(customer_segmentation.router)  # 🆕 Customer Segmentation R
 app.include_router(personalized_pricing.router)  # 🆕 Personalized Pricing Router
 app.include_router(pricing_simulator.router)  # 🆕 Week 5: Pricing Simulator Router
 app.include_router(smart_promotions.router)  # 🆕 Week 6: Smart Promotion Generator Router
+app.include_router(event_promotions.router)  # 🆕 Event-Driven Promotion System
 
 if __name__ == "__main__":
     import uvicorn

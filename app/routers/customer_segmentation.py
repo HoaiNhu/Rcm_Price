@@ -14,7 +14,7 @@ from application.services.customer_segmentation_service import (
     CustomerSegmentationService,
     create_segmentation_service
 )
-from infrastructure.database.mongodb_access import MongoDBAccess
+from infrastructure.db.mongodb_access import MongoDBDataAccess
 
 logger = logging.getLogger(__name__)
 
@@ -194,7 +194,7 @@ class HealthResponse(BaseModel):
 async def get_segmentation_service() -> CustomerSegmentationService:
     """Dependency to get CustomerSegmentationService instance"""
     try:
-        mongodb_access = MongoDBAccess()
+        mongodb_access = MongoDBDataAccess(use_async=False)
         return create_segmentation_service(mongodb_access)
     except Exception as e:
         logger.error(f"❌ Failed to create segmentation service: {str(e)}")

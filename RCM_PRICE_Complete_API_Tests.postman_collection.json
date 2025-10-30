@@ -1,0 +1,1509 @@
+{
+  "info": {
+    "_postman_id": "rcm-price-complete-api-2024",
+    "name": "RCM PRICE - Complete API Tests",
+    "description": "Complete Postman Collection for AI Promotion System API - All Endpoints",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "rcm-price-v2"
+  },
+  "item": [
+    {
+      "name": "01. Basic & Health",
+      "item": [
+        {
+          "name": "Root - System Info",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/",
+              "host": ["{{base_url}}"],
+              "path": [""]
+            },
+            "description": "Get system information and available features"
+          },
+          "response": []
+        },
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/health",
+              "host": ["{{base_url}}"],
+              "path": ["health"]
+            },
+            "description": "Comprehensive health check for all services"
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "02. Data Access",
+      "item": [
+        {
+          "name": "Get Orders",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/orders?limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "orders"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/products?limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "products"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Users",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/users?limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "users"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Ratings",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/ratings?limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "ratings"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Discounts",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/discounts?limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "discounts"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Search Histories",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/data/search-histories?limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "data", "search-histories"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "03. Analytics",
+      "item": [
+        {
+          "name": "Business Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/business-health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "business-health"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Product Performance",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/product-performance?top_n=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "product-performance"],
+              "query": [
+                {
+                  "key": "top_n",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Customer Insights",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/customer-insights",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "customer-insights"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Trends Analysis",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/trends",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "trends"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Enhanced Strategy",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/analytics/enhanced-strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "analytics", "enhanced-strategy"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "04. Customer Segmentation",
+      "item": [
+        {
+          "name": "Segment All Customers",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"min_orders_for_analysis\": 1,\n  \"vip_threshold\": 500000,\n  \"regular_threshold\": 100000,\n  \"at_risk_days\": 60,\n  \"lost_days\": 90\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/segment",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "segment"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Customer Segment",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/segment/:user_id",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "segment", ":user_id"],
+              "variable": [
+                {
+                  "key": "user_id",
+                  "value": "674cfcb62b4c648fe8c2c7e3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Customers by Segment",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/customers/:segment",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "customers", ":segment"],
+              "variable": [
+                {
+                  "key": "segment",
+                  "value": "VIP"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Segmentation Report",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/report",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "report"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Summary Statistics",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/summary",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "summary"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Customer Details",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/details/:user_id",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "details", ":user_id"],
+              "variable": [
+                {
+                  "key": "user_id",
+                  "value": "674cfcb62b4c648fe8c2c7e3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Segment Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/recommendations/:segment",
+              "host": ["{{base_url}}"],
+              "path": [
+                "api",
+                "customer-segmentation",
+                "recommendations",
+                ":segment"
+              ],
+              "variable": [
+                {
+                  "key": "segment",
+                  "value": "VIP"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get VIP Customers",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/vip-customers?min_ltv=500000",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "vip-customers"],
+              "query": [
+                {
+                  "key": "min_ltv",
+                  "value": "500000"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get At-Risk Customers",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/at-risk-customers?days_threshold=60",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "at-risk-customers"],
+              "query": [
+                {
+                  "key": "days_threshold",
+                  "value": "60"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Clear Segmentation Cache",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/clear-cache",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "clear-cache"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Segmentation Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/customer-segmentation/health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "customer-segmentation", "health"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "05. Price Elasticity",
+      "item": [
+        {
+          "name": "Analyze Price Elasticity",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_ids\": [],\n  \"min_orders\": 5,\n  \"price_range_pct\": 0.3\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/price-elasticity/analyze",
+              "host": ["{{base_url}}"],
+              "path": ["api", "price-elasticity", "analyze"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Product Elasticity",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/price-elasticity/product/:product_id",
+              "host": ["{{base_url}}"],
+              "path": ["api", "price-elasticity", "product", ":product_id"],
+              "variable": [
+                {
+                  "key": "product_id",
+                  "value": "674cfc8e2b4c648fe8c2c7dd"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Segment Elasticity",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/price-elasticity/segment/:segment",
+              "host": ["{{base_url}}"],
+              "path": ["api", "price-elasticity", "segment", ":segment"],
+              "variable": [
+                {
+                  "key": "segment",
+                  "value": "VIP"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Elasticity Matrix",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/price-elasticity/matrix",
+              "host": ["{{base_url}}"],
+              "path": ["api", "price-elasticity", "matrix"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Predict Demand",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_id\": \"674cfc8e2b4c648fe8c2c7dd\",\n  \"new_price\": 30000,\n  \"segment\": \"REGULAR\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/price-elasticity/predict",
+              "host": ["{{base_url}}"],
+              "path": ["api", "price-elasticity", "predict"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Elasticity Summary",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/price-elasticity/summary",
+              "host": ["{{base_url}}"],
+              "path": ["api", "price-elasticity", "summary"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "06. Personalized Pricing",
+      "item": [
+        {
+          "name": "Get Personalized Price",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/personalized-pricing/price/:product_id/:user_id",
+              "host": ["{{base_url}}"],
+              "path": [
+                "api",
+                "personalized-pricing",
+                "price",
+                ":product_id",
+                ":user_id"
+              ],
+              "variable": [
+                {
+                  "key": "product_id",
+                  "value": "674cfc8e2b4c648fe8c2c7dd"
+                },
+                {
+                  "key": "user_id",
+                  "value": "674cfcb62b4c648fe8c2c7e3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Personalized Catalog",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/personalized-pricing/catalog/:user_id?limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "personalized-pricing", "catalog", ":user_id"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "10"
+                }
+              ],
+              "variable": [
+                {
+                  "key": "user_id",
+                  "value": "674cfcb62b4c648fe8c2c7e3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Pricing Matrix",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/personalized-pricing/matrix/:product_id",
+              "host": ["{{base_url}}"],
+              "path": ["api", "personalized-pricing", "matrix", ":product_id"],
+              "variable": [
+                {
+                  "key": "product_id",
+                  "value": "674cfc8e2b4c648fe8c2c7dd"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Validate Price",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"user_id\": \"674cfcb62b4c648fe8c2c7e3\",\n  \"product_id\": \"674cfc8e2b4c648fe8c2c7dd\",\n  \"proposed_price\": 28000\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/personalized-pricing/validate",
+              "host": ["{{base_url}}"],
+              "path": ["api", "personalized-pricing", "validate"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Simulate Pricing Impact",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_id\": \"674cfc8e2b4c648fe8c2c7dd\",\n  \"price_changes\": {\n    \"VIP\": 1.05,\n    \"REGULAR\": 1.0,\n    \"OCCASIONAL\": 0.95,\n    \"NEW\": 0.9\n  },\n  \"expected_customer_counts\": {\n    \"VIP\": 20,\n    \"REGULAR\": 50,\n    \"OCCASIONAL\": 30,\n    \"NEW\": 15\n  }\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/personalized-pricing/simulate",
+              "host": ["{{base_url}}"],
+              "path": ["api", "personalized-pricing", "simulate"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Pricing Summary",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/personalized-pricing/summary",
+              "host": ["{{base_url}}"],
+              "path": ["api", "personalized-pricing", "summary"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Clear Pricing Cache",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/personalized-pricing/clear-cache",
+              "host": ["{{base_url}}"],
+              "path": ["api", "personalized-pricing", "clear-cache"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Pricing Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/personalized-pricing/health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "personalized-pricing", "health"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "07. Pricing Simulator (Monte Carlo)",
+      "item": [
+        {
+          "name": "Simulate Single Price",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_id\": \"674cfc8e2b4c648fe8c2c7dd\",\n  \"new_price\": 27000,\n  \"customer_segments_distribution\": {\n    \"VIP\": 15,\n    \"REGULAR\": 45,\n    \"OCCASIONAL\": 25,\n    \"NEW\": 10,\n    \"AT_RISK\": 5\n  },\n  \"n_iterations\": 1000,\n  \"confidence_level\": 0.95\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/pricing-simulator/simulate",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing-simulator", "simulate"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Simulate Multiple Scenarios",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_id\": \"674cfc8e2b4c648fe8c2c7dd\",\n  \"price_scenarios\": [24000, 25000, 26000, 27000, 28000, 29000, 30000],\n  \"n_iterations\": 1000\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/pricing-simulator/simulate-scenarios",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing-simulator", "simulate-scenarios"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Find Optimal Price",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_id\": \"674cfc8e2b4c648fe8c2c7dd\",\n  \"price_range\": [20000, 32000],\n  \"n_scenarios\": 25,\n  \"n_iterations\": 1000\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/pricing-simulator/find-optimal",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing-simulator", "find-optimal"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Simulator Summary",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/pricing-simulator/summary",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing-simulator", "summary"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Clear Simulator Cache",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/pricing-simulator/clear-cache",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing-simulator", "clear-cache"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Simulator Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/pricing-simulator/health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing-simulator", "health"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "08. Smart Promotions",
+      "item": [
+        {
+          "name": "Generate Segment Promotion",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"segment\": \"NEW\",\n  \"goal\": \"ACQUISITION\",\n  \"validity_days\": 30\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/smart-promotions/generate-segment-promotion",
+              "host": ["{{base_url}}"],
+              "path": ["api", "smart-promotions", "generate-segment-promotion"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Generate Price Increase Voucher",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_id\": \"674cfc8e2b4c648fe8c2c7dd\",\n  \"new_price\": 28000,\n  \"segment\": \"REGULAR\",\n  \"validity_days\": 30\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/smart-promotions/generate-price-increase-voucher",
+              "host": ["{{base_url}}"],
+              "path": [
+                "api",
+                "smart-promotions",
+                "generate-price-increase-voucher"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Generate Winback Campaign",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/smart-promotions/generate-winback-campaign?validity_days=60",
+              "host": ["{{base_url}}"],
+              "path": ["api", "smart-promotions", "generate-winback-campaign"],
+              "query": [
+                {
+                  "key": "validity_days",
+                  "value": "60"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Generate Bundle Promotion",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"product_bundles\": [\n    [\"674cfc8e2b4c648fe8c2c7dd\", \"674cfc8e2b4c648fe8c2c7de\"],\n    [\"674cfc8e2b4c648fe8c2c7df\", \"674cfc8e2b4c648fe8c2c7e0\"]\n  ],\n  \"bundle_discount_pct\": 0.15,\n  \"validity_days\": 30\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/smart-promotions/generate-bundle-promotion",
+              "host": ["{{base_url}}"],
+              "path": ["api", "smart-promotions", "generate-bundle-promotion"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get All Promotions",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/smart-promotions/all-promotions",
+              "host": ["{{base_url}}"],
+              "path": ["api", "smart-promotions", "all-promotions"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Promotions Summary",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/smart-promotions/summary",
+              "host": ["{{base_url}}"],
+              "path": ["api", "smart-promotions", "summary"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Clear Promotions Cache",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/smart-promotions/clear-cache",
+              "host": ["{{base_url}}"],
+              "path": ["api", "smart-promotions", "clear-cache"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Promotions Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/smart-promotions/health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "smart-promotions", "health"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "09. Event Promotions",
+      "item": [
+        {
+          "name": "Analyze Products for Event",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/event-promotions/analyze-products?top_n=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "event-promotions", "analyze-products"],
+              "query": [
+                {
+                  "key": "top_n",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Discover Product Combos",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/event-promotions/discover-combos?min_support=0.01&min_confidence=0.3&top_n=10",
+              "host": ["{{base_url}}"],
+              "path": ["api", "event-promotions", "discover-combos"],
+              "query": [
+                {
+                  "key": "min_support",
+                  "value": "0.01"
+                },
+                {
+                  "key": "min_confidence",
+                  "value": "0.3"
+                },
+                {
+                  "key": "top_n",
+                  "value": "10"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Upcoming Events",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/event-promotions/upcoming-events?days_ahead=30",
+              "host": ["{{base_url}}"],
+              "path": ["api", "event-promotions", "upcoming-events"],
+              "query": [
+                {
+                  "key": "days_ahead",
+                  "value": "30"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Generate Event Promotion",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"event_name\": \"Tết 2025\",\n  \"event_date\": \"2025-01-29\",\n  \"target_segments\": [\"VIP\", \"REGULAR\"],\n  \"budget\": 10000000,\n  \"top_n_products\": 5,\n  \"min_support\": 0.01,\n  \"min_confidence\": 0.3\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/event-promotions/generate-event-promotion",
+              "host": ["{{base_url}}"],
+              "path": ["api", "event-promotions", "generate-event-promotion"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Generate Smart Promotion",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"event_name\": \"Flash Sale Weekend\",\n  \"event_date\": \"2025-02-15\",\n  \"target_segments\": [\"REGULAR\", \"OCCASIONAL\"],\n  \"budget\": 5000000,\n  \"strategy\": \"AGGRESSIVE\",\n  \"promotion_type\": \"DISCOUNT\",\n  \"top_n_products\": 8\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/event-promotions/generate-smart-promotion",
+              "host": ["{{base_url}}"],
+              "path": ["api", "event-promotions", "generate-smart-promotion"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Event Promotions Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/event-promotions/health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "event-promotions", "health"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "10. Hybrid Recommender",
+      "item": [
+        {
+          "name": "Initialize Hybrid System",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/initialize",
+              "host": ["{{base_url}}"],
+              "path": ["api", "hybrid", "initialize"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get User Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/user-recommendations/:user_id?top_k=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "hybrid", "user-recommendations", ":user_id"],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "5"
+                }
+              ],
+              "variable": [
+                {
+                  "key": "user_id",
+                  "value": "674cfcb62b4c648fe8c2c7e3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Product Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/product-recommendations/:product_id?top_k=5",
+              "host": ["{{base_url}}"],
+              "path": [
+                "api",
+                "hybrid",
+                "product-recommendations",
+                ":product_id"
+              ],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "5"
+                }
+              ],
+              "variable": [
+                {
+                  "key": "product_id",
+                  "value": "674cfc8e2b4c648fe8c2c7dd"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Get Promotion Strategy",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/promotion-strategy?top_products=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "hybrid", "promotion-strategy"],
+              "query": [
+                {
+                  "key": "top_products",
+                  "value": "5"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Generate Complete Strategy",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"include_gemini_insights\": true,\n  \"top_products\": 5,\n  \"promotion_budget\": 5000000\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/hybrid/generate-complete-strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "hybrid", "generate-complete-strategy"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "11. ML Models",
+      "item": [
+        {
+          "name": "TF Recommender - Get Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/tf-recommenders/recommendations/:user_id?top_k=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "tf-recommenders", "recommendations", ":user_id"],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "5"
+                }
+              ],
+              "variable": [
+                {
+                  "key": "user_id",
+                  "value": "674cfcb62b4c648fe8c2c7e3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "HuggingFace - Similar Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/huggingface/similar-products/:product_id?top_k=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "huggingface", "similar-products", ":product_id"],
+              "query": [
+                {
+                  "key": "top_k",
+                  "value": "5"
+                }
+              ],
+              "variable": [
+                {
+                  "key": "product_id",
+                  "value": "674cfc8e2b4c648fe8c2c7dd"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "HuggingFace - Search Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/huggingface/search-products?query=bánh mì&top_k=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "huggingface", "search-products"],
+              "query": [
+                {
+                  "key": "query",
+                  "value": "bánh mì"
+                },
+                {
+                  "key": "top_k",
+                  "value": "5"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Dynamic Pricing - Optimize Product",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/pricing/optimize/:product_id?target_revenue_increase=0.1",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing", "optimize", ":product_id"],
+              "query": [
+                {
+                  "key": "target_revenue_increase",
+                  "value": "0.1"
+                }
+              ],
+              "variable": [
+                {
+                  "key": "product_id",
+                  "value": "674cfc8e2b4c648fe8c2c7dd"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Dynamic Pricing - Get Strategy",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/pricing/strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "pricing", "strategy"]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "12. Legacy Endpoints",
+      "item": [
+        {
+          "name": "Legacy - Business Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/business-health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "business-health"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Legacy - Product Combos",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/product-combos?min_support=0.01&min_confidence=0.3",
+              "host": ["{{base_url}}"],
+              "path": ["api", "product-combos"],
+              "query": [
+                {
+                  "key": "min_support",
+                  "value": "0.01"
+                },
+                {
+                  "key": "min_confidence",
+                  "value": "0.3"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Legacy - Recommendations",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/recommendations?user_id=674cfcb62b4c648fe8c2c7e3&top_k=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "recommendations"],
+              "query": [
+                {
+                  "key": "user_id",
+                  "value": "674cfcb62b4c648fe8c2c7e3"
+                },
+                {
+                  "key": "top_k",
+                  "value": "5"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Legacy - Generate Strategy",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"promotion_budget\": 5000000,\n  \"target_revenue_increase\": 0.15\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/api/generate-strategy",
+              "host": ["{{base_url}}"],
+              "path": ["api", "generate-strategy"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Legacy - Recent Strategies",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/recent-strategies?limit=5",
+              "host": ["{{base_url}}"],
+              "path": ["api", "recent-strategies"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "5"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "13. Test Endpoints",
+      "item": [
+        {
+          "name": "Test - Simple",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/test/simple",
+              "host": ["{{base_url}}"],
+              "path": ["api", "test", "simple"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Test - Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/test/products",
+              "host": ["{{base_url}}"],
+              "path": ["api", "test", "products"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Test - Business Health",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/test/business-health",
+              "host": ["{{base_url}}"],
+              "path": ["api", "test", "business-health"]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Test - Data Products",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/api/test/data-products",
+              "host": ["{{base_url}}"],
+              "path": ["api", "test", "data-products"]
+            }
+          },
+          "response": []
+        }
+      ]
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [""]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "exec": [""]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:8000",
+      "type": "string"
+    }
+  ]
+}

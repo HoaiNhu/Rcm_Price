@@ -12,7 +12,7 @@ from typing import Optional, List
 import logging
 
 from application.services.price_elasticity_service import create_price_elasticity_service
-from infrastructure.db.mongodb_access import get_mongodb_access
+from infrastructure.db.mongodb_access import MongoDBDataAccess
 
 logger = logging.getLogger(__name__)
 
@@ -120,12 +120,12 @@ async def calculate_elasticity(
     """
     try:
         logger.info(
-            f"📊 Calculating elasticity (days={request.days}, "
-            f"min_samples={request.min_samples})"
+            f"📊 Calculating price elasticity for {request.days} days, "
+            f"min_samples={request.min_samples}"
         )
         
         # Get service instance
-        db_access = await get_mongodb_access()
+        db_access = MongoDBDataAccess(use_async=False)
         service = create_price_elasticity_service(db_access)
         
         # Calculate elasticity
@@ -190,7 +190,7 @@ async def get_product_recommendation(
         logger.info(f"🔍 Getting recommendation for product {product_id}")
         
         # Get service instance
-        db_access = await get_mongodb_access()
+        db_access = MongoDBDataAccess(use_async=False)
         service = create_price_elasticity_service(db_access)
         
         # Get recommendation
@@ -243,7 +243,7 @@ async def get_all_recommendations():
         logger.info("📊 Getting recommendations for all products")
         
         # Get service instance
-        db_access = await get_mongodb_access()
+        db_access = MongoDBDataAccess(use_async=False)
         service = create_price_elasticity_service(db_access)
         
         # Get all recommendations
@@ -302,7 +302,7 @@ async def get_elasticity_report():
         logger.info("📊 Generating elasticity report")
         
         # Get service instance
-        db_access = await get_mongodb_access()
+        db_access = MongoDBDataAccess(use_async=False)
         service = create_price_elasticity_service(db_access)
         
         # Get report
@@ -374,7 +374,7 @@ async def simulate_price_change(
         )
         
         # Get service instance
-        db_access = await get_mongodb_access()
+        db_access = MongoDBDataAccess(use_async=False)
         service = create_price_elasticity_service(db_access)
         
         # Simulate price change
@@ -413,7 +413,7 @@ async def health_check():
     """
     try:
         # Get service instance
-        db_access = await get_mongodb_access()
+        db_access = MongoDBDataAccess(use_async=False)
         service = create_price_elasticity_service(db_access)
         
         return {

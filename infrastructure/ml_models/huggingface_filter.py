@@ -7,13 +7,20 @@ import numpy as np
 from typing import Dict, List, Any, Optional, Tuple
 import logging
 from datetime import datetime
-import torch
-from transformers import AutoTokenizer, AutoModel
-from sklearn.metrics.pairwise import cosine_similarity
 import warnings
 warnings.filterwarnings('ignore')
 
 logger = logging.getLogger(__name__)
+
+# Try to import transformers and torch - make them optional
+try:
+    import torch
+    from transformers import AutoTokenizer, AutoModel
+    from sklearn.metrics.pairwise import cosine_similarity
+    TRANSFORMERS_AVAILABLE = True
+except ImportError as e:
+    TRANSFORMERS_AVAILABLE = False
+    logger.warning(f"⚠️ Transformers not available: {e}")
 
 class HuggingFaceContentFilter:
     """Hugging Face Transformers cho content-based filtering"""
@@ -24,12 +31,20 @@ class HuggingFaceContentFilter:
         self.model = None
         self.product_embeddings = {}
         self.is_loaded = False
+        self.transformers_available = TRANSFORMERS_AVAILABLE
         
-        logger.info(f"✅ HuggingFace Content Filter initialized with {model_name}")
+        if not TRANSFORMERS_AVAILABLE:
+            logger.warning("⚠️ Transformers not available - HuggingFace features disabled")
+        else:
+            logger.info(f"✅ HuggingFace Content Filter initialized with {model_name}")
     
     def load_model(self):
         """Load pre-trained transformer model"""
         try:
+            if not TRANSFORMERS_AVAILABLE:
+                logger.warning("⚠️ Transformers not available - cannot load model")
+                return False
+                
             self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
             self.model = AutoModel.from_pretrained(self.model_name)
             

@@ -3,7 +3,7 @@ Smart Promotion Generator API Router
 Week 6: Intelligent promotion and voucher generation
 """
 
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Query
 from pydantic import BaseModel, Field
 from typing import List, Dict, Optional, Tuple
 from datetime import datetime
@@ -252,7 +252,7 @@ async def generate_price_increase_voucher(request: PriceIncreaseVoucherRequest):
 
 @router.post("/generate-winback-campaign", response_model=CampaignResponse)
 async def generate_winback_campaign(
-    validity_days: int = Field(60, ge=1, le=365, description="Campaign validity days")
+    validity_days: int = Query(default=60, ge=1, le=365, description="Campaign validity days")
 ):
     """
     Generate win-back campaign for AT_RISK/LOST customers
