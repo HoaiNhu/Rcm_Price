@@ -12,6 +12,10 @@ import math
 
 from application.services.event_promotion_service import get_event_promotion_service
 from domain.entities.event_promotion import EventType
+from utils.response_cache import get_response_cache
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 # ============================================================================
@@ -286,7 +290,7 @@ async def get_upcoming_events(
 @router.post("/generate-event-promotion", response_model=List[PromotionRecommendationResponse])
 async def generate_event_based_promotion(
     event_type: Optional[str] = Query(None, description="Loại sự kiện (để trống = tất cả)"),
-    days_ahead: int = Query(30, ge=7, le=365, description="Số ngày nhìn về tương lai")
+    days_ahead: int = Query(30, ge=3, le=365, description="Số ngày nhìn về tương lai")
 ):
     """
     Tạo đề xuất khuyến mãi dựa trên sự kiện sắp tới
@@ -316,6 +320,17 @@ async def generate_event_based_promotion(
     - Mức độ rủi ro
     """
     try:
+        # 🔥 CHECK CACHE FIRST
+        response_cache = get_response_cache()
+        cache_key_params = {"event_type": event_type or "ALL", "days_ahead": days_ahead}
+        
+        cached_response = await response_cache.get("event_promotion", **cache_key_params)
+        if cached_response:
+            logger.info(f"✅ [CACHE HIT] event_type={event_type}, days_ahead={days_ahead}")
+            return cached_response
+        
+        logger.info(f"🔍 [CACHE MISS] Generating new promotion...")
+        
         service = get_event_promotion_service()
         
         # Parse event type if provided
@@ -406,6 +421,10 @@ async def generate_event_based_promotion(
                 target_customer_type=promo.target_customer_type,
                 created_at=promo.created_at.isoformat()
             ))
+        
+        # Save to response cache
+        await response_cache.set("event_promotion", response, expire=3600, **cache_key_params)
+        logger.info(f"💾 [CACHE SAVED] Event promotion for {cache_key_params}")
         
         return response
         
