@@ -29,7 +29,7 @@ def main():
         uvicorn.run(
             app, 
             host="0.0.0.0", 
-            port=8000,
+            port=8001,
             reload=False,  # Disable reload to avoid import issues
             log_level="info"
         )
